@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the price of eggs?",
+    "status": "SUCCESS",
+    "duration": 12.77
+  },
+  {
+    "id": 2,
+    "question": "How much for Tim Tams?",
+    "status": "SUCCESS",
+    "duration": 16.65
+  },
+  {
+    "id": 3,
+    "question": "SunRice rice price",
+    "status": "SUCCESS",
+    "duration": 19.72
+  },
+  {
+    "id": 4,
+    "question": "Best milk at Coles",
+    "status": "SUCCESS",
+    "duration": 30.17
+  },
+  {
+    "id": 5,
+    "question": "Woolworths bread price",
+    "status": "SUCCESS",
+    "duration": 17.34
+  },
+  {
+    "id": 6,
+    "question": "Coca Cola 24 pack deal",
+    "status": "SUCCESS",
+    "duration": 25.5
+  },
+  {
+    "id": 7,
+    "question": "Cadbury dairy milk price",
+    "status": "SUCCESS",
+    "duration": 30.82
+  },
+  {
+    "id": 8,
+    "question": "Devondale butter cost",
+    "status": "SUCCESS",
+    "duration": 32.25
+  },
+  {
+    "id": 9,
+    "question": "Finish dishwasher tabs deals",
+    "status": "SUCCESS",
+    "duration": 28.84
+  },
+  {
+    "id": 10,
+    "question": "Nescafe blend 43 500g price",
+    "status": "SUCCESS",
+    "duration": 20.46
+  }
+]

@@ -1,0 +1,120 @@
+{
+  "test_5_items": {
+    "query": "price of milk, bread, eggs, butter and rice",
+    "duration": 19.56,
+    "metadata_count": 7,
+    "response_preview": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Unauthorised Online | Woolworths | $0.00..."
+  },
+  "test_10_items": {
+    "query": "i need prices for coca cola, pepsi, chips, chocolate, coffee, tea, sugar, flour, salt and oil",
+    "duration": 22.02,
+    "metadata_count": 30,
+    "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chocolate Bar | 30g-50g | Coles | National | $1.25 | SAVE $1.75 |\n| Chocolate Bar | 35g-50g | Coles | National | $1.50 | ..."
+  },
+  "test_20_single": {
+    "total_duration": 352.47,
+    "items": [
+      {
+        "item": "milk",
+        "duration": 14.23,
+        "found": true
+      },
+      {
+        "item": "bread",
+        "duration": 15.77,
+        "found": true
+      },
+      {
+        "item": "eggs",
+        "duration": 15.67,
+        "found": true
+      },
+      {
+        "item": "butter",
+        "duration": 14.52,
+        "found": true
+      },
+      {
+        "item": "rice",
+        "duration": 18.46,
+        "found": true
+      },
+      {
+        "item": "coke",
+        "duration": 27.56,
+        "found": false
+      },
+      {
+        "item": "chips",
+        "duration": 16.36,
+        "found": true
+      },
+      {
+        "item": "pasta",
+        "duration": 16.28,
+        "found": true
+      },
+      {
+        "item": "cheese",
+        "duration": 17.0,
+        "found": true
+      },
+      {
+        "item": "apples",
+        "duration": 14.75,
+        "found": true
+      },
+      {
+        "item": "bananas",
+        "duration": 14.64,
+        "found": true
+      },
+      {
+        "item": "chicken",
+        "duration": 17.45,
+        "found": true
+      },
+      {
+        "item": "beef",
+        "duration": 16.14,
+        "found": true
+      },
+      {
+        "item": "yogurt",
+        "duration": 14.64,
+        "found": true
+      },
+      {
+        "item": "cereal",
+        "duration": 15.67,
+        "found": true
+      },
+      {
+        "item": "coffee",
+        "duration": 19.04,
+        "found": true
+      },
+      {
+        "item": "tea",
+        "duration": 14.32,
+        "found": true
+      },
+      {
+        "item": "detergent",
+        "duration": 30.13,
+        "found": true
+      },
+      {
+        "item": "shampoo",
+        "duration": 13.62,
+        "found": true
+      },
+      {
+        "item": "soap",
+        "duration": 26.21,
+        "found": true
+      }
+    ],
+    "success_rate": "19/20"
+  }
+}

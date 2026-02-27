@@ -1,0 +1,298 @@
+{
+  "health": {
+    "status": 200,
+    "body": {
+      "status": "ok"
+    }
+  },
+  "chat_single": {
+    "status": 200,
+    "body": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Milk Full Cream | 6 x 200ml | Woolworths | National | $5.40 | None |\n| Milk Full Cream | 6 x 200ml | Woolworths | NSW | $5.40 | None |\n\nWoolworths National and NSW regions both have Devondale Milk Full Cream (6 x 200ml) for $5.40. There is no price data for Coles in the provided context.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 30,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p30_item7_page_30_1771384150.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p30_item7_page_30_1771384150_thumb.jpg",
+          "product_name": "Devondale Milk Full Cream",
+          "product": "Devondale Milk Full Cream",
+          "price": "$5.40",
+          "deal": "None",
+          "item_name": "Milk Full Cream 6 x 200ml"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 30,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p30_item7_page_30_1771676962.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p30_item7_page_30_1771676962_thumb.jpg",
+          "product_name": "Devondale Milk Full Cream",
+          "product": "Devondale Milk Full Cream",
+          "price": "$5.40",
+          "deal": "None",
+          "item_name": "Milk Full Cream 6 x 200ml"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  "chat_multi": {
+    "status": 200,
+    "body": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Connoisseur Ice Cream | 1 Litre | Woolworths | National | $6.00 | SAVE $6 |\n| Connoisseur Ice Cream | 1 Litre | Woolworths | NSW | $6.00 | SAVE $6 |\n| Coles Irresistible Salted Caramel Ice Cream Tub | 1 Litre | Coles | National | $6.50 | None |\n| Coles Irresistible Salted Caramel Ice Cream Tub | 1 Litre | Coles | NSW | $6.50 | None |\n| Bulla Ice Cream Tub | 4 Litre | Woolworths | National | $10.50 | None |\n| Bulla Ice Cream Tub | 4 Litre | Woolworths | NSW | $10.50 | None |\n| Sunrice Medium Grain Rice | 5kg | Coles | National | $9.50 | SAVE $9.50 |\n| Sunrice Medium Grain Rice | 5kg | Coles | NSW | $9.50 | SAVE $9.50 |\n| Sunrice Microwave Flavoured Rice Cups | 250g | Coles | National | $2.00 | SAVE $2 |\n| Sunrice Microwave Flavoured Rice Cups | 250g | Coles | NSW | $2.00 | SAVE $2 |\n| Sunrice Premium Jasmine Rice | 5kg | Coles | National | $17.50 | SAVE $17.50 |\n| Sunrice Premium Jasmine Rice | 5kg | Coles | NSW | $17.50 | SAVE $17.50 |\n| Sunrice Premium White Long Grain Rice | 2.  10 | Coles | NSW | $2.10 | SAVE 90 |\n| SunRice White Premium Long Grain Rice | 2 kg | Woolworths | NSW | $4.00 | None |\n\nVERDICT: Connoisseur Ice Cream is cheaper at Woolworths ($6.00) compared to Coles' Irresistible Salted Caramel Ice Cream Tub ($6.50). Bulla Ice Cream Tub is only available at Woolworths for $10.50. Sunrice rice products are available at both Coles and Woolworths, with varying types and prices.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p3_item4_page_3_1771401743.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p3_item4_page_3_1771401743_thumb.jpg",
+          "product_name": "Coles Irresistible Salted Caramel Ice Cream Tub",
+          "product": "Coles Irresistible Salted Caramel Ice Cream Tub",
+          "price": "$6.50",
+          "deal": "None",
+          "item_name": "Irresistible Salted Caramel Ice Cream Tub 1 Litre"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 1,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p1_item2_page_1_1771401730.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p1_item2_page_1_1771401730_thumb.jpg",
+          "product_name": "Sunrice Medium Grain Rice",
+          "product": "Sunrice Medium Grain Rice",
+          "price": "$9.50",
+          "deal": "SAVE $9.50",
+          "item_name": "Medium Grain Rice 5kg"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item3_page_9_1771401906.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item3_page_9_1771401906_thumb.jpg",
+          "product_name": "Sunrice Microwave Flavoured Rice Cups",
+          "product": "Sunrice Microwave Flavoured Rice Cups",
+          "price": "$2.00",
+          "deal": "SAVE $2",
+          "item_name": "Microwave Flavoured Rice Cups 250g"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item7_page_9_1771401907.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item7_page_9_1771401907_thumb.jpg",
+          "product_name": "Sunrice Premium Jasmine Rice",
+          "product": "Sunrice Premium Jasmine Rice",
+          "price": "$17.50",
+          "deal": "SAVE $17.50",
+          "item_name": "Premium Jasmine Rice 5kg"
+        },
+        {
+          "shop_name": "Coles_NSW",
+          "store": "Coles_NSW",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p3_item4_page_3_1771761932.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p3_item4_page_3_1771761932_thumb.jpg",
+          "product_name": "Coles Irresistible Salted Caramel Ice Cream Tub",
+          "product": "Coles Irresistible Salted Caramel Ice Cream Tub",
+          "price": "$6.50",
+          "deal": "None",
+          "item_name": "Irresistible Salted Caramel Ice Cream Tub 1 Litre"
+        },
+        {
+          "shop_name": "Coles_NSW",
+          "store": "Coles_NSW",
+          "page": 1,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p1_item2_page_1_1771761938.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p1_item2_page_1_1771761938_thumb.jpg",
+          "product_name": "Sunrice Medium Grain Rice",
+          "product": "Sunrice Medium Grain Rice",
+          "price": "$9.50",
+          "deal": "SAVE $9.50",
+          "item_name": "Medium Grain Rice 5kg"
+        },
+        {
+          "shop_name": "Coles_NSW",
+          "store": "Coles_NSW",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p9_item3_page_9_1771761922.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p9_item3_page_9_1771761922_thumb.jpg",
+          "product_name": "Sunrice Microwave Flavoured Rice Cups",
+          "product": "Sunrice Microwave Flavoured Rice Cups",
+          "price": "$2.00",
+          "deal": "SAVE $2",
+          "item_name": "Microwave Flavoured Rice Cups 250g"
+        },
+        {
+          "shop_name": "Coles_NSW",
+          "store": "Coles_NSW",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p9_item7_page_9_1771761922.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p9_item7_page_9_1771761922_thumb.jpg",
+          "product_name": "Sunrice Premium Jasmine Rice",
+          "product": "Sunrice Premium Jasmine Rice",
+          "price": "$17.50",
+          "deal": "SAVE $17.50",
+          "item_name": "Premium Jasmine Rice 5kg"
+        },
+        {
+          "shop_name": "Coles_NSW",
+          "store": "Coles_NSW",
+          "page": 15,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p15_item1_page_15_1771761997.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p15_item1_page_15_1771761997_thumb.jpg",
+          "product_name": "Sunrice Premium White Long Grain Rice",
+          "product": "Sunrice Premium White Long Grain Rice",
+          "price": "$2.10",
+          "deal": "SAVE 90",
+          "item_name": "Premium White Long Grain Rice 1kg"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 0,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p0_item4_page_0_1771383521.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p0_item4_page_0_1771383521_thumb.jpg",
+          "product_name": "Connoisseur Ice Cream",
+          "product": "Connoisseur Ice Cream",
+          "price": "$6.00",
+          "deal": "SAVE $6",
+          "item_name": "Ice Cream 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 31,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p31_item12_page_31_1771384227.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p31_item12_page_31_1771384227_thumb.jpg",
+          "product_name": "Bulla Ice Cream Tub",
+          "product": "Bulla Ice Cream Tub",
+          "price": "$10.50",
+          "deal": "None",
+          "item_name": "Ice Cream Tub 4 Litre"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 0,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p0_item4_page_0_1771672544.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p0_item4_page_0_1771672544_thumb.jpg",
+          "product_name": "Connoisseur Ice Cream",
+          "product": "Connoisseur Ice Cream",
+          "price": "$6.00",
+          "deal": "SAVE $6",
+          "item_name": "Ice Cream 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 0,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p0_item4_page_0_1771676674.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p0_item4_page_0_1771676674_thumb.jpg",
+          "product_name": "Connoisseur Ice Cream",
+          "product": "Connoisseur Ice Cream",
+          "price": "$6.00",
+          "deal": "SAVE $6",
+          "item_name": "Ice Cream 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 31,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p31_item6_page_31_1771676968.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p31_item6_page_31_1771676968_thumb.jpg",
+          "product_name": "Bulla Ice Cream Tub",
+          "product": "Bulla Ice Cream Tub",
+          "price": "$10.50",
+          "deal": "None",
+          "item_name": "Ice Cream Tub 4 Litre"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 22,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p22_item2_page_22_1771676887.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p22_item2_page_22_1771676887_thumb.jpg",
+          "product_name": "SunRice White Premium Long Grain Rice",
+          "product": "SunRice White Premium Long Grain Rice",
+          "price": "$4.00",
+          "deal": "None",
+          "item_name": "White Premium Long Grain Rice 2 kg"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  "get_items": {
+    "status": 200,
+    "body": {
+      "shop_name": "Coles",
+      "count": 5,
+      "items": [
+        {
+          "product": "Coca-Cola Soft Drink",
+          "item_name": "Soft Drink 30x375mL",
+          "price": "$28",
+          "deal": "SAVE $12",
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item4_page_0_1771401723.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item4_page_0_1771401723_thumb.jpg",
+          "shop_name": "Coles",
+          "page": 0
+        },
+        {
+          "product": "Coles Australian No Added Hormones Beef Eye Fillet Steak",
+          "item_name": "Australian No Added Hormones Beef Eye Fillet Steak 450g",
+          "price": "$22",
+          "deal": "SAVE $3",
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item0_page_0_1771401722.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item0_page_0_1771401722_thumb.jpg",
+          "shop_name": "Coles",
+          "page": 0
+        },
+        {
+          "product": "Ferrero Rocher Heart or Raffaello Heart Gift Box",
+          "item_name": "Rocher Heart or Raffaello Heart Gift Box 100g",
+          "price": "$7.50",
+          "deal": "SAVE $7.50",
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item1_page_0_1771401722.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item1_page_0_1771401722_thumb.jpg",
+          "shop_name": "Coles",
+          "page": 0
+        },
+        {
+          "product": "Nescaf\u00e9 Coffee Sachets",
+          "item_name": "Coffee Sachets 8 Pack-10 Pack",
+          "price": "$4",
+          "deal": "SAVE $4",
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item3_page_0_1771401723.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item3_page_0_1771401723_thumb.jpg",
+          "shop_name": "Coles",
+          "page": 0
+        },
+        {
+          "product": "Peters Drumstick Cones",
+          "item_name": "Drumstick Cones 4 Pack-6 Pack 475mL-490mL",
+          "price": "$4.75",
+          "deal": "SAVE $4.75",
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item2_page_0_1771401722.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item2_page_0_1771401722_thumb.jpg",
+          "shop_name": "Coles",
+          "page": 0
+        }
+      ],
+      "limit": 5,
+      "offset": 0
+    }
+  },
+  "admin_ingest": {
+    "status": 200,
+    "body": {
+      "message": "Re-indexing completed. 0 documents processed.",
+      "count": 0
+    }
+  }
+}

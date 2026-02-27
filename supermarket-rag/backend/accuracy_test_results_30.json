@@ -1,0 +1,263 @@
+[
+  {
+    "question": "What is the price of Arnott's Shapes at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 22.06015133857727,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Arnott's Shapes Crackers | Coles | $2.00 | SAVE $2 |\n\nColes has Arnott's Shapes Crackers for $2.00. Product not found at Woolworths.\n\n\n(I also ch..."
+  },
+  {
+    "question": "How much is Devondale Milk Powder at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 37.31872820854187,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Devondale Milk Full Cream | Woolworths | $5.40 | 6 x 200ml |\n\nProduct not found\n\n\n(I also checked online but couldn't find a reliable price.)\n\n--..."
+  },
+  {
+    "question": "Show me deals for Coca-Cola 30 pack.",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 29.435913801193237,
+    "response": "Product not found."
+  },
+  {
+    "question": "Best price for Ice Cream at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 27.637304544448853,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Irresistible Salted Caramel Ice Cream Tub | Coles | $6.50 | None |\n\nColes has the Irresistible Salted Caramel Ice Cream Tub for $6.50. Woolworths..."
+  },
+  {
+    "question": "Price of Pak Choy at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 35.75714826583862,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Pak Choy Baby Aslan Greens | Woolworths | $2.90 | None |\n\nProduct not found at Coles.\n\nWoolworths has Pak Choy for $2.90. Coles does not have Pak..."
+  },
+  {
+    "question": "Is there any discount on Cadbury Dairy Milk at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 3,
+    "duration": 32.402836084365845,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Cadbury Dairy Milk Egg Bag | Woolworths | $13.50 | SAVE $2.50 |\n| Cadbury Dairy Milk Hollow Hunting Easter Eggs | Woolworths | $15.00 | SAVE $3 |..."
+  },
+  {
+    "question": "Cost of Australian Premium Strawberries at Coles?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 29.806859731674194,
+    "response": "Product not found."
+  },
+  {
+    "question": "How much for Annalisa Tomatoes at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 22.643192529678345,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Annalisa Italian Diced Tomatoes | Woolworths | $1.50 | None |\n\nWoolworths has Annalisa Italian Diced Tomatoes for $1.50. Coles was not found in t..."
+  },
+  {
+    "question": "Price of Tim Tam at Coles?",
+    "success": false,
+    "has_answer": true,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 30.854174375534058,
+    "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Price of Tim Tam biscuits in Australia c..."
+  },
+  {
+    "question": "Deals on laundry detergent at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 27.87011981010437,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| OMO Ultimate Laundry Capsules | Woolworths | $18.00 | SAVE $18 |\n| Omo Ultimate Laundry Liquid | Coles | $18.00 | SAVE $18 |\n\nIt's a tie on price..."
+  },
+  {
+    "question": "Price of Bread at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 34.02958607673645,
+    "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Woolworths Traditional Hot Cross Buns Bu..."
+  },
+  {
+    "question": "How much is Butter at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 24.07536768913269,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Flora Buttery | Woolworths | $7.00 | None |\n\nVERDICT: Only Woolworths has Flora Buttery for $7. Coles does not have this product in the provided ..."
+  },
+  {
+    "question": "Price of Eggs 12 pack at Coles?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 29.912397861480713,
+    "response": "Product not found."
+  },
+  {
+    "question": "Deals on Chicken Breast at Woolworths?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 29.346923112869263,
+    "response": "Product not found."
+  },
+  {
+    "question": "Price of Bananas at Coles?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 30.224035024642944,
+    "response": "Product not found."
+  },
+  {
+    "question": "How much is Toilet Paper at Woolworths?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 29.639090299606323,
+    "response": "Product not found."
+  },
+  {
+    "question": "Price of Pavlova base at Coles?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 29.80497646331787,
+    "response": "Product not found."
+  },
+  {
+    "question": "Deals on Coffee pods at Woolworths?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 28.646376132965088,
+    "response": "Product not found."
+  },
+  {
+    "question": "Price of Olive Oil 1L at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 32.806559801101685,
+    "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Half price specials | Coles | $12.00 | [..."
+  },
+  {
+    "question": "How much is Rice 5kg at Woolworths?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 27.216540098190308,
+    "response": "Product not found."
+  },
+  {
+    "question": "What is the price of Dine Wet Cat Food Pk 7 x 85g?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 27.012940883636475,
+    "response": "Product not found."
+  },
+  {
+    "question": "How much is Purina One Dry Cat Food 1.4-1.5 kg?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 28.082661390304565,
+    "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Woolworths RSPCA Approved Chicken Wings ..."
+  },
+  {
+    "question": "Is Fancy Feast Classics Wet Cat Food 85g on sale?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 31.31584620475769,
+    "response": "Product not found."
+  },
+  {
+    "question": "Price of Temptations Cat Treats 85g?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 28.273430824279785,
+    "response": "Product not found."
+  },
+  {
+    "question": "What is the current deal for Supercoat Dry Dog Food 2.6-2.8 kg?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 30.889586210250854,
+    "response": "Product not found."
+  },
+  {
+    "question": "How much is Breeder's Choice Cat Litter 24 Litre?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 34.83563041687012,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Breeder's Choice Cat Litter | Woolworths | $25.00 | None |\n| Breeder's Choice Cat Litter | Woolworths | None | None |\n\nWoolworths has the product..."
+  },
+  {
+    "question": "Price of Pedigree Dry Dog Food 8 kg?",
+    "success": false,
+    "error": "",
+    "duration": 60.062419414520264
+  },
+  {
+    "question": "Is Morning Fresh Dishwashing Liquid 400mL on sale?",
+    "success": false,
+    "error": "",
+    "duration": 60.06536293029785
+  },
+  {
+    "question": "Price of Smith's Potato Chips 170g?",
+    "success": false,
+    "error": "",
+    "duration": 60.00629138946533
+  },
+  {
+    "question": "How much is Pepsi Max 10x375ml?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 24.021262884140015,
+    "response": "Product not found."
+  }
+]

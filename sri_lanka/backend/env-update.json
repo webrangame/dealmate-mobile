@@ -1,0 +1,15 @@
+{
+    "ADMIN_API_KEY": "5ab868c201588d172fdbe7f3e627098dc451d1cff012e03923f07f3889f03b0e",
+    "DATABASE_URL": "postgresql://postgres:it371Ananda@agent-marketplace-db.cmt466aga8u0.us-east-1.rds.amazonaws.com:5432/postgres?sslmode=require",
+    "LITELLM_API_BASE": "https://swzissb82u.us-east-1.awsapprunner.com",
+    "LITELLM_API_KEY": "sk-dcb0c8a73a664a2307b8e2f12ef90a34819204105f32f51cc8c621ebf88c7642",
+    "SMTP_FROM_EMAIL": "api@niyogen.com",
+    "SMTP_HOST": "smtp.gmail.com",
+    "SMTP_PASS": "sicnznjbiswbasqx",
+    "SMTP_PORT": "587",
+    "SMTP_USER": "api@niyogen.com",
+    "AWS_ACCESS_KEY_ID": "AKIA2RP6IAZUFAGNXQLA",
+    "AWS_SECRET_ACCESS_KEY": "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",
+    "AWS_REGION": "us-east-1",
+    "S3_BUCKET_NAME": "supermarket-catalog-images"
+}

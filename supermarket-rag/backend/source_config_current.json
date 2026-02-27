@@ -1,0 +1,29 @@
+{
+    "ImageRepository": {
+        "ImageIdentifier": "582604091763.dkr.ecr.us-east-1.amazonaws.com/supermarket-rag-api:latest",
+        "ImageConfiguration": {
+            "RuntimeEnvironmentVariables": {
+                "ADMIN_API_KEY": "5ab868c201588d172fdbe7f3e627098dc451d1cff012e03923f07f3889f03b0e",
+                "AWS_ACCESS_KEY_ID": "AKIAYPJPI6FZ7WKH7WH2",
+                "AWS_KMS_KEY_ID": "alias/supermarket-rag-key",
+                "AWS_REGION": "us-east-1",
+                "AWS_SECRET_ACCESS_KEY": "TA74dotIrXgqKJcIk+b/i03W50if+iezlg/cTizY",
+                "DATABASE_URL": "postgresql://postgres:it371Ananda@agent-marketplace-db.cmt466aga8u0.us-east-1.rds.amazonaws.com:5432/postgres?sslmode=require",
+                "LITELLM_API_BASE": "https://swzissb82u.us-east-1.awsapprunner.com",
+                "LITELLM_API_KEY": "sk-dcb0c8a73a664a2307b8e2f12ef90a34819204105f32f51cc8c621ebf88c7642",
+                "S3_BUCKET_NAME": "supermarket-catalog-images-582604091763",
+                "SMTP_FROM_EMAIL": "api@niyogen.com",
+                "SMTP_HOST": "smtp.gmail.com",
+                "SMTP_PASS": "sicnznjbiswbasqx",
+                "SMTP_PORT": "587",
+                "SMTP_USER": "api@niyogen.com"
+            },
+            "Port": "8000"
+        },
+        "ImageRepositoryType": "ECR"
+    },
+    "AutoDeploymentsEnabled": true,
+    "AuthenticationConfiguration": {
+        "AccessRoleArn": "arn:aws:iam::582604091763:role/AppRunnerECRAccessRole"
+    }
+}

@@ -1,0 +1,94 @@
+version: '3.8'
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: supermarket_ollama
+    ports:
+      - "11435:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+    # GPU reservation removed for compatibility
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [ gpu ]
+
+  db:
+    image: ankane/pgvector
+    container_name: supermarket_db_local
+    environment:
+      POSTGRES_DB: supermarket_rag
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5433:5432"
+    volumes:
+      - ../data/db:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres -d supermarket_rag" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: supermarket_backend_local
+    environment:
+      DATABASE_URL: postgresql://postgres:password@db:5432/supermarket_rag
+      # Point to local Ollama service
+      LITELLM_API_BASE: http://ollama:11434/v1
+      LITELLM_API_KEY: ollama
+      # Use the local model name via OpenAI compatibility
+      LLM_MODEL_NAME: openai/llama3.1:8b
+      # Disable S3 (local mode)
+      S3_BUCKET_NAME: ""
+      AWS_ACCESS_KEY_ID: ""
+      AWS_SECRET_ACCESS_KEY: ""
+    ports:
+      - "8001:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+      ollama:
+        condition: service_started
+    command: [ "uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000" ]
+    volumes:
+      - ./backend:/app
+      - ./documents:/app/documents
+
+  frontend:
+    build:
+      context: ../frontend
+      dockerfile: Dockerfile
+    container_name: supermarket_frontend_local
+    ports:
+      - "3001:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:8001
+    depends_on:
+      backend:
+        condition: service_started
+    volumes:
+      - ../frontend:/app
+      - /app/node_modules
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: supermarket_pgadmin_local
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5051:80"
+    depends_on:
+      - db
+
+volumes:
+  ollama_data:

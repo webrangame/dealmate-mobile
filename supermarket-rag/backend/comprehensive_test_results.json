@@ -1,0 +1,743 @@
+{
+  "timestamp": "2026-02-24T04:26:30.363862",
+  "endpoint": "https://xfukqtd5pc.us-east-1.awsapprunner.com/chat",
+  "summary": {
+    "total_tests": 50,
+    "successful": 50,
+    "both_shops_count": 44,
+    "both_shops_percentage": 88.0
+  },
+  "results": [
+    {
+      "category": "General Products (20)",
+      "results": [
+        {
+          "success": true,
+          "query": "ice cream price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 7,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1096,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Connoisseur Ice Cream | 1 Litre | Woolworths | National | $6.00 | SAVE $6 |\n| Irresistible Salted Caramel Ice Cream Tub | 1 Litre | Coles | National | $6.50 | None |\n| Irresistible Salted Caramel Ice Cream Tub | 1 Litre |..."
+        },
+        {
+          "success": true,
+          "query": "chips price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 9,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1409,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Beer Battered Steakhouse Chips | 750g | Coles | National | $4.50 | None |\n| Beer Battered Steakhouse Chips | 750g | Coles | NSW | $4.50 | None |\n| Crinkle Cut or Double Crunch Chips | 150-170g | Woolworths | National | $2..."
+        },
+        {
+          "success": true,
+          "query": "chocolate price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 11,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1473,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chocolate Bar | 30g-50g | Coles | National | $1.25 | SAVE $1.75 (Mars) |\n| Chocolate Bar | 35g-50g | Coles | National | $1.50 | SAVE $1.50 (Nestl\u00e9) |\n| Chocolate Bar | 30g-50g | Coles | NSW | $1.25 | SAVE $1.75 (Mars) |\n|..."
+        },
+        {
+          "success": true,
+          "query": "milk price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 2,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 560,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Milk Full Cream | 6 x 200ml | Woolworths | National | $5.40 | None |\n| Milk Full Cream | 6 x 200ml | Woolworths | NSW | $5.40 | None |\n\nWoolworths National and NSW regions have the same price for Devondale Milk Full Cream..."
+        },
+        {
+          "success": true,
+          "query": "bread price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 6,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 834,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bread Roll Varieties | Pk 6 | Woolworths | National | $3.00 | None |\n| Bread Roll Varieties | Pk 6 | Woolworths | NSW | $3.00 | None |\n| White Bread Loaf Varieties | 700g | Woolworths | National | $4.50 | Wonder Brand |\n|..."
+        },
+        {
+          "success": true,
+          "query": "butter price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 1,
+          "shops_found": [
+            "Woolworths"
+          ],
+          "response_length": 460,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Flora Buttery | None | Woolworths | National | $7.00 | None |\n\nVERDICT: Only Woolworths has a listing for Flora Buttery at $7.00. Coles does not have any butter products listed in the provided context.\n\n\n---\n*I compare de..."
+        },
+        {
+          "success": true,
+          "query": "cheese price",
+          "has_coles": false,
+          "has_woolworths": true,
+          "both_shops": false,
+          "num_images": 14,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1321,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bega Block, Grated or Sliced Cheese | 250g | Woolworths | National | $6.00 | SAVE $1.50 |\n| Bega Block, Grated or Sliced Cheese | 250g | Woolworths | NSW | $6.00 | SAVE $1.50 |\n| Primo Kransky Double Smoked or Cheese | No..."
+        },
+        {
+          "success": true,
+          "query": "yogurt price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 6,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1016,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chobani Greek Yogurt Pot | 160g | Woolworths | National | $2.15 | 55\u00b0 |\n| Chobani Greek Yogurt Passionfruit | 160g | Woolworths | National | $2.15 | 55\u00b0 |\n| Farmers Union Natural Greek Style Yogurt | 500g | Woolworths | N..."
+        },
+        {
+          "success": true,
+          "query": "biscuits price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 2,
+          "shops_found": [
+            "Coles",
+            "Coles_NSW"
+          ],
+          "response_length": 577,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| McVitie's Plain Digestive Biscuits | 355g | Coles | National | $2.75 | SAVE $2.75 |\n| McVitie's Plain Digestive Biscuits | 355g | Coles | NSW | $2.75 | SAVE $2.75 |\n\nColes National and Coles NSW have the same price for Mc..."
+        },
+        {
+          "success": true,
+          "query": "pasta price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 0,
+          "shops_found": [],
+          "response_length": 815,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Pasta (Cucina Matese) | 500g | Coles | National | $2.80 | None |\n| Pasta (Cucina Matese) | 500g | Coles | NSW | $2.80 | None |\n| Pastificio Pasta - Excludes Gnocchi (La Molisana) | 500g | Woolworths | National | $3.50 | N..."
+        },
+        {
+          "success": true,
+          "query": "rice price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 20,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1746,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Medium Grain Rice | 5kg | Coles | National | $9.50 | SAVE $9.50 |\n| Medium Grain Rice | 5kg | Coles | NSW | $9.50 | SAVE $9.50 |\n| Microwave Flavoured Rice Cups | 250g | Coles | National | $2.00 | SAVE $2 |\n| Microwave Fl..."
+        },
+        {
+          "success": true,
+          "query": "coffee price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 23,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1769,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Coffee or Hot Choc Sachets Pk 10 or Coffee Tins | 250g | Woolworths | National | $4.25 | SAVE $4.25 |\n| Coffee or Hot Choc Sachets Pk 10 or Coffee Tins | 250g | Woolworths | NSW | $4.25 | SAVE $4.25 |\n| Coffee Sachets | 8..."
+        },
+        {
+          "success": true,
+          "query": "tea price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 2,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 582,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| TWININGS Tea Bags | Pk 80-100 | Woolworths | NSW | $6.75 | SAVE $6.75 |\n| Twinings Tea Bags English Breakfast | Pk 80-100 | Woolworths | National | $6.75 | SAVE $6.75 |\n\nWoolworths has Twinings Tea Bags available both nat..."
+        },
+        {
+          "success": true,
+          "query": "sugar price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 6,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 974,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Coca-Cola Zero Sugar | 24 x 375ml | Woolworths | National | $24.75 | SAVE $12.75 |\n| Coca-Cola Zero Sugar | 6 x 250ml | Woolworths | National | $6.00 | SAVE $4 |\n| Coca-Cola Zero Sugar | 24 | Woolworths | National | $4.95..."
+        },
+        {
+          "success": true,
+          "query": "flour price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 1,
+          "shops_found": [
+            "Woolworths"
+          ],
+          "response_length": 772,
+          "response_preview": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Woolworths Supermarket - Buy Groceries Online | Woolworths | $30 | [View](https://www.woolworths.com.au/Shop/Browse/spreads-breakfast-baking..."
+        },
+        {
+          "success": true,
+          "query": "eggs price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 4,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 833,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Dairy Milk Hollow Hunting Easter Eggs | 340g 20 Pk | Woolworths | National | $15.00 | SAVE $3 |\n| Dairy Milk Hollow Hunting Easter Eggs | 340g 20 Pk | Woolworths | NSW | $15 | SAVE $3 |\n| Dairy Milk Egg Bag | 440g | Woolw..."
+        },
+        {
+          "success": true,
+          "query": "chicken price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 26,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1675,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chicken Garlic Kyiv | None | Woolworths | National | $1.50 | SAVE $1.50 |\n| RSPCA Approved Chicken Schnitzel Crumbed | None | Coles | National | $1.50 | SAVE $1.50 |\n| RSPCA Approved Chicken Schnitzel Crumbed | None | Col..."
+        },
+        {
+          "success": true,
+          "query": "beef price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 19,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1928,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Australian No Added Hormones Beef Eye Fillet Steak | 450g | Coles | National | $22 | SAVE $3 |\n| Australian No Added Hormones Beef Eye Fillet Steak | 450g | Coles | NSW | $22 | SAVE $3 |\n| Australian Pork & Beef Bolognese..."
+        },
+        {
+          "success": true,
+          "query": "bacon price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 5,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 742,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| D'Orsogna Streaky Bacon | 750g | Woolworths | National | $17.60 | SAVE $4.40 |\n| D'ORSOGNA Streaky Bacon | 750g | Woolworths | National | $17.60 | SAVE $4.40 |\n| D'Orsogna Streaky Bacon | 750g | Woolworths | National | $1..."
+        },
+        {
+          "success": true,
+          "query": "soft drink price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 2,
+          "shops_found": [
+            "Coles",
+            "Coles_NSW"
+          ],
+          "response_length": 571,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Coca-Cola Soft Drink | 30x375mL | Coles | National | $28 | SAVE $12 |\n| Coca-Cola Soft Drink | 30x375mL | Coles | NSW | $28 | SAVE $12 |\n\nVERDICT: Coles National and Coles NSW both have Coca-Cola Soft Drink for $28 for 30..."
+        }
+      ]
+    },
+    {
+      "category": "Specific Products (20)",
+      "results": [
+        {
+          "success": true,
+          "query": "Bulla ice cream",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 2,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 549,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bulla Ice Cream Tub | 4 Litre | Woolworths | National | $10.50 | None |\n| Bulla Ice Cream Tub | 4 Litre | Woolworths | NSW | $10.50 | None |\n\nVERDICT: Bulla Ice Cream Tub (4 Litre) is priced at $10.50 at Woolworths nation..."
+        },
+        {
+          "success": true,
+          "query": "Peters ice cream",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 6,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 946,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Peters Drumstick Cones | 4 Pack-6 Pack 475mL-490mL | Coles | National | $4.75 | SAVE $4.75 |\n| Peters Drumstick Cones | 4 Pack-6 Pack 475mL-490mL | Coles | NSW | $4.75 | SAVE $4.75 |\n| Peters Original Lil' Pops | 500ml Pk..."
+        },
+        {
+          "success": true,
+          "query": "Coca Cola",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 12,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1389,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties | 24 x 375ml | Woolworths | National | $24.75 | SAVE $12.75 |\n| Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties | 6 x 250ml | Woolwort..."
+        },
+        {
+          "success": true,
+          "query": "Pepsi",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 2,
+          "shops_found": [
+            "Woolworths"
+          ],
+          "response_length": 489,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Pepsi mini MAX | 12 | Woolworths | National | None | None |\n| Pepsi mini Max | 12 x 250ml | Woolworths | National | None | None |\n\nVERDICT: Both Woolworths listings do not have a price available. There is no Coles data to..."
+        },
+        {
+          "success": true,
+          "query": "Oreo",
+          "has_coles": false,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 0,
+          "shops_found": [],
+          "response_length": 1030,
+          "response_preview": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Oreo - Grocerize Pty Ltd | Web | $5.00 | [View](https://grocerize.com.au/collections/vendors?q=Oreo) |\n| Oreo Deals & Reviews - OzBargain | ..."
+        },
+        {
+          "success": true,
+          "query": "Drumstix crackers",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 11,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1364,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Smith's Oven Baked Crackers | 160g | Woolworths | National | $2.00 | SAVE $2 |\n| Smith's Oven Baked Crackers | 160g | Woolworths | NSW | $2.00 | SAVE $2 |\n| Arnott's Shapes Crackers | 130g-190g | Coles | National | $2.00 ..."
+        },
+        {
+          "success": true,
+          "query": "Tim Tams",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 3,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 587,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Tim Tam | 165-200g | Woolworths | National | $3.00 | SAVE $3 |\n| Tim Tam | 165-200g | Woolworths | NSW | $3.00 | SAVE $3 |\n| Tim Tam | 165-200g | Woolworths | National | $3.00 | SAVE $3 |\n\nWoolworths National and NSW regi..."
+        },
+        {
+          "success": true,
+          "query": "Arnott's Shapes",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 2,
+          "shops_found": [
+            "Coles",
+            "Coles_NSW"
+          ],
+          "response_length": 550,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Shapes Crackers | 130g-190g | Coles | National | $2.00 | SAVE $2 |\n| Shapes Crackers | 130g-190g | Coles | NSW | $2.00 | SAVE $2 |\n\nColes National and Coles NSW both have Arnott's Shapes Crackers for $2.00 (130g-190g) wit..."
+        },
+        {
+          "success": true,
+          "query": "Cadbury chocolate",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 6,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1017,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Favourites Boxed Chocolate | 340g | Woolworths | National | $8.00 | SAVE $8.00 |\n| Favourites Boxed Chocolate | 340g | Woolworths | NSW | $8.00 | SAVE $8.00 |\n| Old Gold Dark Chocolate | 175-180g | Woolworths | National |..."
+        },
+        {
+          "success": true,
+          "query": "Nestle chocolate",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 4,
+          "shops_found": [
+            "Coles",
+            "Coles_NSW"
+          ],
+          "response_length": 566,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chocolate Bar | 35g-50g | Coles | National | $1.50 | SAVE $1.50 |\n| Chocolate Bar | 35g-50g | Coles | NSW | $1.50 | SAVE $1.50 |\n\nColes National and Coles NSW both have the same deal for Nestl\u00e9 Chocolate Bar at $1.50 for ..."
+        },
+        {
+          "success": true,
+          "query": "Pringles chips",
+          "has_coles": false,
+          "has_woolworths": true,
+          "both_shops": false,
+          "num_images": 3,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 640,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Crinkle Cut or Double Crunch Chips | 150-170g | Woolworths | National | $2.50 | SAVE $2.50 |\n| Crinkle Cut or Double Crunch Chips | 150-170g | Woolworths | National | $2.50 | SAVE $2.50 |\n\n**Verdict:** Pringles chips were..."
+        },
+        {
+          "success": true,
+          "query": "Smith's chips",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 3,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 615,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Smith's Crinkle Cut or Double Crunch Chips | 150-170g | Woolworths | National | $2.50 | SAVE $2.50 |\n| Smith's Crinkle Cut or Double Crunch Chips | 150-170g | Woolworths | NSW | $2.50 | SAVE $2.50 |\n\nWoolworths National a..."
+        },
+        {
+          "success": true,
+          "query": "Barilla pasta",
+          "has_coles": false,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 0,
+          "shops_found": [],
+          "response_length": 258,
+          "response_preview": "Product not found\n\n\n(I also checked online but couldn't find a reliable price.)\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*"
+        },
+        {
+          "success": true,
+          "query": "SunRice",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 22,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1665,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Medium Grain Rice | 5kg | Coles | National | $9.50 | SAVE $9.50 |\n| Medium Grain Rice | 5kg | Coles | NSW | $9.50 | SAVE $9.50 |\n| Microwave Flavoured Rice Cups | 250g | Coles | National | $2.00 | SAVE $2 |\n| Microwave Fl..."
+        },
+        {
+          "success": true,
+          "query": "Nescafe coffee",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 4,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 739,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Blend 43 Instant Coffee | 140g-150g | Coles | National | $7.25 | SAVE $7.25 |\n| Gold Instant Coffee | 90g-100g | Coles | National | $7.25 | SAVE $7.25 |\n| Blend 43 Instant Coffee | 150g | Woolworths | National | None | SA..."
+        },
+        {
+          "success": true,
+          "query": "Lipton tea",
+          "has_coles": false,
+          "has_woolworths": true,
+          "both_shops": false,
+          "num_images": 0,
+          "shops_found": [],
+          "response_length": 807,
+          "response_preview": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| My Top 10 Woolworths Household Items | bunch | Woolworths | $25.29 | [View](https://bunch.woolworths.com.au/s/article/a0K0I00000PUzUVUA1/my-..."
+        },
+        {
+          "success": true,
+          "query": "CSR sugar",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 0,
+          "shops_found": [],
+          "response_length": 435,
+          "response_preview": "Based on the provided context, there are no deals for \"CSR sugar\" in either Coles or Woolworths.\n\n| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n\nProduct not found.\n\n\n(I also checked online but couldn't find a reliable price.)\n\n---\n*I compare deals from mall catalogues ..."
+        },
+        {
+          "success": true,
+          "query": "White Wings flour",
+          "has_coles": false,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 0,
+          "shops_found": [],
+          "response_length": 258,
+          "response_preview": "Product not found\n\n\n(I also checked online but couldn't find a reliable price.)\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*"
+        },
+        {
+          "success": true,
+          "query": "Dairy Farmers milk",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 14,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 477,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Product not found |  |  |  |  |  |\n\nVerdict:\nThe requested product \"Dairy Farmers milk\" was not found in the provided context for either Coles or Woolworths.\n\n\n(I also checked online but couldn't find a reliable price.)\n\n..."
+        },
+        {
+          "success": true,
+          "query": "Bega cheese",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 3,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 671,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bega Block, Grated or Sliced Cheese | 250g | Woolworths | National | $6.00 | SAVE $1.50 |\n| Bega Block, Grated or Sliced Cheese | 250g | Woolworths | National | $6.00 | SAVE $1.50 |\n| Bega Block, Grated or Sliced Cheese |..."
+        }
+      ]
+    },
+    {
+      "category": "General Questions (10)",
+      "results": [
+        {
+          "success": true,
+          "query": "what's the cheapest ice cream?",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 7,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1081,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Connoisseur Ice Cream | 1 Litre | Woolworths | National | $6.00 | SAVE $6 |\n| Irresistible Salted Caramel Ice Cream Tub | 1 Litre | Coles | National | $6.50 | None |\n| Irresistible Salted Caramel Ice Cream Tub | 1 Litre |..."
+        },
+        {
+          "success": true,
+          "query": "which shop has better chocolate deals?",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 10,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1129,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chocolate Bar | 30g-50g | Coles | National | $1.25 | SAVE $1.75 |\n| Chocolate Bar | 30g-50g | Coles | NSW | $1.25 | SAVE $1.75 |\n| Chocolate Bar | 35g-50g | Coles | National | $1.50 | SAVE $1.50 |\n| Chocolate Bar | 35g-50..."
+        },
+        {
+          "success": true,
+          "query": "show me soft drink prices",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 13,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1689,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Pepsi, Solo, Mountain Dew, Schweppes Lemonade Soft Drink Varieties | 10 x 375ml | Woolworths | National | $9.00 | SAVE $10 |\n| Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties | 24 x 375ml | Woolworths | Nationa..."
+        },
+        {
+          "success": true,
+          "query": "compare biscuit prices",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 2,
+          "shops_found": [
+            "Coles",
+            "Coles_NSW"
+          ],
+          "response_length": 553,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Plain Digestive Biscuits | 355g | Coles | National | $2.75 | SAVE $2.75 |\n| Plain Digestive Biscuits | 355g | Coles | NSW | $2.75 | SAVE $2.75 |\n\nColes has the Plain Digestive Biscuits available nationally and in NSW for ..."
+        },
+        {
+          "success": true,
+          "query": "where can I find cheap milk?",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 4,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 768,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Devondale Milk Full Cream | 6 x 200ml | Woolworths | National | $5.40 | None |\n| Devondale Milk Full Cream | 6 x 200ml | Woolworths | NSW | $5.40 | None |\n| Sanitarium So Good Oat Milk | 1 Litre | Woolworths | National | ..."
+        },
+        {
+          "success": true,
+          "query": "best coffee deals",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 23,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1854,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Coffee or Hot Choc Sachets Pk 10 or Coffee Tins | 250g | Woolworths | National | $4.25 | SAVE $4.25 |\n| Coffee or Hot Choc Sachets Pk 10 or Coffee Tins | 250g | Woolworths | NSW | $4.25 | SAVE $4.25 |\n| Coffee Sachets | 8..."
+        },
+        {
+          "success": true,
+          "query": "cheapest pasta options",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 6,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 824,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Cucina Matese Pasta | 500g | Coles | National | $2.80 | None |\n| Cucina Matese Pasta | 500g | Coles | NSW | $2.80 | None |\n| La Molisana Pastificio Pasta - Excludes Gnocchi | 500g | Woolworths | National | $3.50 | None |\n..."
+        },
+        {
+          "success": true,
+          "query": "which shop has better chip prices?",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 7,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 962,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Smith's Crinkle Cut or Double Crunch Chips | 150-170g | Woolworths | National | $2.50 | SAVE $2.50 |\n| Smith's Crinkle Cut or Double Crunch Chips | 150-170g | Woolworths | NSW | $2.50 | SAVE $2.50 |\n| McCain Pub Style Chi..."
+        },
+        {
+          "success": true,
+          "query": "compare yogurt prices",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 6,
+          "shops_found": [
+            "Woolworths_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1025,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chobani Greek Yogurt Pot | 160g | Woolworths | National | $2.15 | 55\u00b0 |\n| Chobani Greek Yogurt Pot | 160g | Woolworths | NSW | $2.15 | SAVE 55 |\n| Chobani Greek Yogurt Passionfruit | 160g | Woolworths | National | $2.15 |..."
+        },
+        {
+          "success": true,
+          "query": "best snack deals",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 6,
+          "shops_found": [
+            "Coles",
+            "Woolworths_NSW",
+            "Coles_NSW",
+            "Woolworths"
+          ],
+          "response_length": 1039,
+          "response_preview": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Fantastic Delites Rice Snack Crackers | 100g | Coles | National | $1.40 | SAVE $1.40 |\n| Fantastic Delites Rice Snack Crackers | 100g | Coles | NSW | $1.40 | SAVE $1.40 |\n| Just Caught Snacking | 240-280g | Woolworths | N..."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+DB VERIFICATION REPORT
+======================
+
+Missing: 0
+Price Mismatches: 0
+
+MISSING IN DB:
+
+PRICE MISMATCHES:

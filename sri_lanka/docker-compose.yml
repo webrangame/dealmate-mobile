@@ -1,0 +1,63 @@
+version: '3.9'
+
+services:
+  db:
+    image: ankane/pgvector:latest
+    container_name: sl_db
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: supermarket_rag_sl
+    ports:
+      - "5433:5432" # Changed port to avoid conflict with existing DB
+    volumes:
+      - pgdata_sl:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U user -d supermarket_rag_sl" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: sl_pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "8081:80" # Changed port to avoid conflict
+    depends_on:
+      - db
+    volumes:
+      - pgadmin_data_sl:/var/lib/pgadmin
+
+  backend:
+    build: ./backend
+    container_name: sl_backend
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    ports:
+      - "8001:8000" # Changed port to avoid conflict
+    environment:
+      DATABASE_URL: postgresql://user:password@db:5432/supermarket_rag_sl
+      LITELLM_API_KEY: sk-dummy-key # Placeholder for local dev
+      SCRAPERAPI_KEY: ${SCRAPERAPI_KEY}
+      Start_Url: ${Start_Url}
+    depends_on:
+      db:
+        condition: service_healthy
+  scraper:
+    image: mcr.microsoft.com/playwright/python:v1.40.0-jammy
+    container_name: sl_scraper
+    command: /bin/bash -c "pip install -r requirements.txt && python sl_scraper.py"
+    working_dir: /app
+    volumes:
+      - ./backend:/app
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: postgresql://user:password@db:5432/supermarket_rag_sl
+      SCRAPERAPI_KEY: ${SCRAPERAPI_KEY}
+
+volumes:
+  pgdata_sl:
+  pgadmin_data_sl:

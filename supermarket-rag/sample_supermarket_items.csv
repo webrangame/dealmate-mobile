@@ -1,0 +1,11 @@
+Item,Price,Discount,Category,Store
+Vanilla Ice Cream 1L,5.99,10%,Frozen,Store A
+Chocolate Ice Cream 1L,6.49,None,Frozen,Store B
+Strawberry Ice Cream 1L,4.99,15%,Frozen,Store A
+Milk 2L,3.50,None,Dairy,Store B
+Bread Wholemeal,2.80,5%,Bakery,Store A
+Eggs 12pk,4.20,None,Dairy,Store B
+Apples 1kg,3.99,20%,Produce,Store A
+Bananas 1kg,1.99,None,Produce,Store B
+Chicken Breast 1kg,12.99,None,Meat,Store A
+Pasta 500g,1.50,None,Pantry,Store B

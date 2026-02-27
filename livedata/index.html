@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Live Weather, Traffic & Places Agent</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 40px;
+            background: #f0f4f8;
+            color: #333;
+        }
+
+        #info {
+            margin-top: 30px;
+            font-size: 1.4em;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 30px auto;
+        }
+
+        #info h2 {
+            margin-bottom: 20px;
+        }
+
+        #info ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        #info li {
+            margin: 10px 0;
+        }
+
+        button {
+            padding: 12px 24px;
+            font-size: 1.1em;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #0056b3;
+        }
+
+        #status {
+            color: #666;
+            margin: 20px 0;
+        }
+
+        .loading {
+            animation: spin 1s linear infinite;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            display: inline-block;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Live Weather, Traffic & Nearby Famous Places Agent</h1>
+    <p>It auto-detects your location (with permission) and shows real-time weather, a traffic map link, and nearby
+        famous places/attractions.</p>
+
+    <button onclick="getInfo()">Get My Live Info Now</button>
+    <p id="status"></p>
+    <div id="info"></div>
+
+    <script>
+        async function getInfo() {
+            const status = document.getElementById('status');
+            const infoDiv = document.getElementById('info');
+
+            // check for secure context
+            if (window.location.protocol !== 'https:' && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+                status.innerHTML = '⚠️ Geolocation requires HTTPS. Please run this on localhost or serve via HTTPS.';
+                return;
+            }
+
+            status.innerHTML = 'Requesting location... <span class="loading"></span>';
+            infoDiv.innerHTML = '';
+
+            if (!navigator.geolocation) {
+                status.innerHTML = 'Geolocation not supported in this browser.';
+                return;
+            }
+
+            navigator.geolocation.getCurrentPosition(
+                async (position) => {
+                    const lat = position.coords.latitude;
+                    const lon = position.coords.longitude;
+                    status.innerHTML = `Location: ${lat.toFixed(4)}°N, ${lon.toFixed(4)}°E`;
+
+                    try {
+                        // 1. Weather from Open-Meteo
+                        const weatherUrl = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,relative_humidity_2m,apparent_temperature,precipitation,weather_code,wind_speed_10m,wind_direction_10m&timezone=auto`;
+                        const weatherRes = await fetch(weatherUrl);
+                        if (!weatherRes.ok) throw new Error('Weather fetch failed');
+                        const weatherData = await weatherRes.json();
+                        const current = weatherData.current;
+
+                        const weatherCodes = {
+                            0: 'Clear sky ☀️', 1: 'Mainly clear 🌤️', 2: 'Partly cloudy ⛅', 3: 'Overcast ☁️',
+                            45: 'Fog 🌫️', 48: 'Depositing rime fog 🌫️',
+                            51: 'Light drizzle 🌧️', 53: 'Moderate drizzle 🌧️', 55: 'Dense drizzle 🌧️',
+                            61: 'Slight rain 🌧️', 63: 'Moderate rain 🌧️', 65: 'Heavy rain 🌧️',
+                            71: 'Slight snow ❄️', 73: 'Moderate snow ❄️', 75: 'Heavy snow ❄️',
+                            77: 'Snow grains ❄️',
+                            80: 'Slight rain showers 🌦️', 81: 'Moderate rain showers 🌦️', 82: 'Violent rain showers ⛈️',
+                            85: 'Slight snow showers 🌨️', 86: 'Heavy snow showers 🌨️',
+                            95: 'Thunderstorm ⚡', 96: 'Thunderstorm with hail ⛈️', 99: 'Thunderstorm with heavy hail ⛈️'
+                        };
+                        const condition = weatherCodes[current.weather_code] || `Unknown condition (${current.weather_code})`;
+
+                        // 2. Nearby famous places from Overpass API
+                        // CHANGED: Using 'nwr' (node, way, relation) to catch buildings and parks, not just points.
+                        const overpassQuery = `[out:json][timeout:25];(nwr["tourism"="attraction"](around:5000,${lat},${lon});nwr["historic"](around:5000,${lat},${lon});nwr["amenity"="place_of_worship"](around:5000,${lat},${lon}););out center;`;
+                        const overpassUrl = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(overpassQuery)}`;
+
+                        let places = [];
+                        try {
+                            const placesRes = await fetch(overpassUrl);
+                            if (placesRes.ok) {
+                                const placesData = await placesRes.json();
+                                // Dedup and filter
+                                const uniquePlaces = new Set();
+                                places = placesData.elements
+                                    .filter(el => el.tags && el.tags.name) // Must have a name
+                                    .map(el => el.tags.name)
+                                    .filter(name => {
+                                        if (uniquePlaces.has(name)) return false;
+                                        uniquePlaces.add(name);
+                                        return true;
+                                    })
+                                    .slice(0, 10); // Show top 10
+                            }
+                        } catch (e) {
+                            console.warn("Overpass failed", e);
+                        }
+
+                        // 3. Traffic Link
+                        const trafficLink = `https://www.google.com/maps/@${lat},${lon},14z/data=!5m1!1e1`;
+
+                        // Render all
+                        infoDiv.innerHTML = `
+              <h2>Live Weather</h2>
+              <p><strong>Temperature:</strong> ${current.temperature_2m} °C (feels like ${current.apparent_temperature} °C)</p>
+              <p><strong>Condition:</strong> ${condition}</p>
+              <p><strong>Humidity:</strong> ${current.relative_humidity_2m}%</p>
+              <p><strong>Wind:</strong> ${current.wind_speed_10m} km/h from ${current.wind_direction_10m}°</p>
+              <p><strong>Precipitation:</strong> ${current.precipitation} mm</p>
+              <small>Updated: ${new Date(current.time).toLocaleString()}</small>
+
+              <h2>Live Traffic</h2>
+              <p>View current traffic conditions: <a href="${trafficLink}" target="_blank">Open Traffic Map on Google Maps</a></p>
+
+              <h2>Nearby Famous Places (within 5km)</h2>
+              ${places.length ? `<ul>${places.map(p => `<li>${p}</li>`).join('')}</ul>` : '<p>No famous places found nearby.</p>'}
+            `;
+                    } catch (err) {
+                        status.innerHTML = 'Error: ' + err.message;
+                        console.error(err);
+                    }
+                },
+                (error) => {
+                    let msg = 'Location access denied.';
+                    if (error.code === 1) msg = '❌ You denied location permission. Please allow specific location access in your browser settings (click the lock icon in address bar).';
+                    if (error.code === 2) msg = '❌ Location unavailable. Try refreshing.';
+                    if (error.code === 3) msg = '❌ Location request timed out.';
+                    status.innerHTML = msg;
+                },
+                { enableHighAccuracy: true, timeout: 15000, maximumAge: 0 }
+            );
+        }
+
+        // Optional: Auto-run on load (comment out if you prefer button-only)
+        // window.onload = getInfo;
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "type": "General",
+    "question": "Hello",
+    "status": 200,
+    "duration": 2.03,
+    "response": {
+      "response": "Hello there! How can I help you find the best deals at Coles and Woolworths today?\n"
+    }
+  },
+  {
+    "id": 2,
+    "type": "General",
+    "question": "Good morning",
+    "status": 200,
+    "duration": 1.18,
+    "response": {
+      "response": "Good morning! How can I help you find the best deals at Coles and Woolworths today?\n"
+    }
+  },
+  {
+    "id": 3,
+    "type": "General",
+    "question": "Who are you?",
+    "status": 200,
+    "duration": 1.58,
+    "response": {
+      "response": "Hello! I'm Niyogen Assistant, your friendly supermarket guide. I'm here to help you find the best prices and deals at Coles and Woolworths.\n"
+    }
+  },
+  {
+    "id": 4,
+    "type": "General",
+    "question": "What can you do?",
+    "status": 200,
+    "duration": 1.54,
+    "response": {
+      "response": "I can help you find the best prices and deals at Coles and Woolworths! Are you looking for anything in particular today?\n"
+    }
+  },
+  {
+    "id": 5,
+    "type": "General",
+    "question": "How does this app work?",
+    "status": 200,
+    "duration": 2.15,
+    "response": {
+      "response": "Hi there! I'm Niyogen Assistant, and I'm here to help you find the best prices on groceries at Coles and Woolworths.\n\nHowever, I primarily focus on providing information about discounts and deals available at Coles and Woolworths. Could I help you find the best prices on a specific product or category at either of those stores?\n"
+    }
+  },
+  {
+    "id": 6,
+    "type": "General",
+    "question": "Thanks",
+    "status": 200,
+    "duration": 2.0,
+    "response": {
+      "response": "You're welcome! How can I help you find the best deals at Coles and Woolworths today?\n"
+    }
+  },
+  {
+    "id": 7,
+    "type": "General",
+    "question": "What is the weather usually like?",
+    "status": 200,
+    "duration": 2.09,
+    "response": {
+      "response": "Hello! I hope you're having a great day.\n\nWhile I can't give you weather information (I'm all about finding the best deals at Coles and Woolworths!), perhaps you're planning a BBQ and want to know what's on special this week?\n"
+    }
+  },
+  {
+    "id": 8,
+    "type": "General",
+    "question": "Tell me a joke",
+    "status": 200,
+    "duration": 2.05,
+    "response": {
+      "response": "Okay, here's a joke for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!\n\nNow, while I'm good for a laugh, I'm really here to help you find the best deals at Coles and Woolworths. Is there anything you're looking to buy this week? Maybe I can help you find the best price!\n"
+    }
+  },
+  {
+    "id": 9,
+    "type": "General",
+    "question": "What time is it?",
+    "status": 200,
+    "duration": 1.84,
+    "response": {
+      "response": "It is [Current Time].\n\nI specialize in helping you find the best deals at Coles and Woolworths. Is there anything you'd like to find on sale today?\n"
+    }
+  },
+  {
+    "id": 10,
+    "type": "General",
+    "question": "Goodbye",
+    "status": 200,
+    "duration": 1.71,
+    "response": {
+      "response": "Goodbye! Let me know if you need help finding any great deals at Coles or Woolworths in the future.\n"
+    }
+  },
+  {
+    "id": 11,
+    "type": "General",
+    "question": "Are you a human?",
+    "status": 200,
+    "duration": 2.28,
+    "response": {
+      "response": "Hello! I am Niyogen Assistant, a helpful guide here to assist you in finding the best prices at Coles and Woolworths.\n\nRegarding your question, I am an AI assistant, not a human. I specialize in providing information on supermarket deals.\n\nWhile I can't answer questions outside of shopping discounts, is there anything you'd like to know about current specials at Coles or Woolworths?\n"
+    }
+  },
+  {
+    "id": 12,
+    "type": "General",
+    "question": "Where are you hosted?",
+    "status": 200,
+    "duration": 3.07,
+    "response": {
+      "response": "As a friendly supermarket guide, I'm hosted in the digital realm, ready to help you find the best prices at Coles and Woolworths!\n\nWhile I can't tell you about server locations, I can definitely help you find the best deals on groceries this week. Are you looking for anything in particular?\n"
+    }
+  },
+  {
+    "id": 13,
+    "type": "General",
+    "question": "Can you cook?",
+    "status": 200,
+    "duration": 1.84,
+    "response": {
+      "response": "As a supermarket assistant, my expertise lies in finding you the best deals at Coles and Woolworths, not in cooking!\n\nPerhaps I can help you find some great prices on ingredients for your next meal? Are you looking for any specific items or recipes at the moment?\n"
+    }
+  },
+  {
+    "id": 14,
+    "type": "General",
+    "question": "What is your name?",
+    "status": 200,
+    "duration": 1.74,
+    "response": {
+      "response": "Hi there! I'm Niyogen Assistant, your friendly supermarket guide. I'm here to help you find the best prices at Coles and Woolworths. How can I help you save money today?\n"
+    }
+  },
+  {
+    "id": 15,
+    "type": "General",
+    "question": "Help me",
+    "status": 200,
+    "duration": 1.74,
+    "response": {
+      "response": "Okay! I can help you find the best prices at Coles and Woolworths. What are you looking to buy today?\n"
+    }
+  },
+  {
+    "id": 16,
+    "type": "General",
+    "question": "I need assistance",
+    "status": 200,
+    "duration": 1.64,
+    "response": {
+      "response": "Hello! How can I help you find the best deals at Coles and Woolworths today?\n"
+    }
+  },
+  {
+    "id": 17,
+    "type": "General",
+    "question": "Hi there",
+    "status": 200,
+    "duration": 1.23,
+    "response": {
+      "response": "Hi there! How can I help you find the best deals at Coles and Woolworths today?\n"
+    }
+  },
+  {
+    "id": 18,
+    "type": "General",
+    "question": "Good evening",
+    "status": 200,
+    "duration": 1.23,
+    "response": {
+      "response": "Good evening! How can I help you find the best deals at Coles and Woolworths tonight?\n"
+    }
+  },
+  {
+    "id": 19,
+    "type": "General",
+    "question": "What stores do you check?",
+    "status": 200,
+    "duration": 1.64,
+    "response": {
+      "response": "I check prices at Coles and Woolworths to help you find the best deals! Do you have a particular product in mind that you'd like me to compare?\n"
+    }
+  },
+  {
+    "id": 20,
+    "type": "General",
+    "question": "Is this free?",
+    "status": 200,
+    "duration": 1.23,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 21,
+    "type": "Product",
+    "question": "Price of milk",
+    "status": 200,
+    "duration": 2.87,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 22,
+    "type": "Product",
+    "question": "How much is Coca Cola?",
+    "status": 200,
+    "duration": 2.76,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 23,
+    "type": "Product",
+    "question": "Cheapest bread",
+    "status": 200,
+    "duration": 2.76,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 24,
+    "type": "Product",
+    "question": "Cost of bananas",
+    "status": 200,
+    "duration": 2.87,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 25,
+    "type": "Product",
+    "question": "Price of eggs",
+    "status": 200,
+    "duration": 2.76,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 26,
+    "type": "Product",
+    "question": "Woolworths pasta sauce",
+    "status": 200,
+    "duration": 2.55,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 27,
+    "type": "Product",
+    "question": "Cadbury chocolate",
+    "status": 200,
+    "duration": 2.88,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 28,
+    "type": "Product",
+    "question": "Price of Tim Tams",
+    "status": 200,
+    "duration": 2.56,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 29,
+    "type": "Product",
+    "question": "Frozen chips price",
+    "status": 200,
+    "duration": 2.56,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 30,
+    "type": "Product",
+    "question": "Toilet paper price",
+    "status": 200,
+    "duration": 2.66,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 31,
+    "type": "Product",
+    "question": "Nescafe coffee price",
+    "status": 200,
+    "duration": 4.81,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 32,
+    "type": "Product",
+    "question": "Best deal on rice",
+    "status": 200,
+    "duration": 1.99,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 33,
+    "type": "Product",
+    "question": "Price of chicken breast",
+    "status": 200,
+    "duration": 2.7,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 34,
+    "type": "Product",
+    "question": "Coles ice cream",
+    "status": 200,
+    "duration": 3.2,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 35,
+    "type": "Product",
+    "question": "Olive oil cost",
+    "status": 200,
+    "duration": 2.76,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 36,
+    "type": "Product",
+    "question": "Detergent price",
+    "status": 200,
+    "duration": 2.56,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 37,
+    "type": "Product",
+    "question": "Shampoo deals",
+    "status": 200,
+    "duration": 2.76,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 38,
+    "type": "Product",
+    "question": "Dog food price",
+    "status": 200,
+    "duration": 2.47,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 39,
+    "type": "Product",
+    "question": "Cat food specials",
+    "status": 200,
+    "duration": 2.34,
+    "response": {
+      "response": "Product not found."
+    }
+  },
+  {
+    "id": 40,
+    "type": "Product",
+    "question": "Butter usage",
+    "status": 200,
+    "duration": 4.34,
+    "response": {
+      "response": "I am designed to help you find the best prices on groceries at Coles and Woolworths.\n\nHowever, I can't really help you with butter usage. I focus on finding you the best deals at the supermarket.\n\nIs there anything you'd like to know about current specials on butter or other products at Coles and Woolworths?\n"
+    }
+  }
+]

@@ -1,0 +1,104 @@
+# LiteLLM Configuration File
+# This file configures the LiteLLM proxy
+
+model_list:
+  # Google Gemini models (using latest available models)
+  # Using environment variable for API key (GOOGLE_API_KEY)
+  - model_name: gemini-2.5-pro
+    litellm_params:
+      model: gemini/gemini-2.5-pro
+      api_key: os.environ/GOOGLE_API_KEY
+  
+  - model_name: gemini-2.5-flash
+    litellm_params:
+      model: gemini/gemini-2.5-flash
+      api_key: os.environ/GOOGLE_API_KEY
+  
+  - model_name: gemini-2.0-flash
+    litellm_params:
+      model: gemini/gemini-2.0-flash
+      api_key: os.environ/GOOGLE_API_KEY
+  
+  # Legacy model names (aliases)
+  - model_name: gemini-pro
+    litellm_params:
+      model: gemini/gemini-2.0-flash
+      api_key: os.environ/GOOGLE_API_KEY
+  
+  - model_name: gemini-1.5-pro
+    litellm_params:
+      model: gemini/gemini-2.5-pro
+      api_key: os.environ/GOOGLE_API_KEY
+  
+  - model_name: gemini-1.5-flash
+    litellm_params:
+      model: gemini/gemini-2.5-flash
+      api_key: os.environ/GOOGLE_API_KEY
+  
+  # Example: OpenAI models (uncomment if you have OpenAI API key)
+  # - model_name: gpt-4
+  #   litellm_params:
+  #     model: gpt-4
+  #     api_key: os.environ/OPENAI_API_KEY
+  
+  # - model_name: gpt-3.5-turbo
+  #   litellm_params:
+  #     model: gpt-3.5-turbo
+  #     api_key: os.environ/OPENAI_API_KEY
+
+# General settings
+general_settings:
+  # Master key for admin operations (should match LITELLM_MASTER_KEY in docker-compose.yml)
+  master_key: sk-dcb0c8a73a664a2307b8e2f12ef90a34819204105f32f51cc8c621ebf88c7642
+  
+litellm_settings:
+  enforce_budget: true
+  enforce_user_budget: true
+  enforce_team_budget: true
+  enforce_key_budget: true
+  token_protection: true
+  max_budget: 100
+  budget_duration: monthly
+  success_callback: ["database_success_callback"]
+  failure_callback: ["database_failure_callback"]
+
+
+
+  
+  # Database URL (optional - for persistent user management)
+  database_url: os.environ/DATABASE_URL
+
+  
+  # Enable UI (Admin Dashboard)
+  ui: true
+  
+  # UI Settings
+  ui_password: ""  # Optional: Set a password for UI access
+  
+  # Logging
+  log_level: INFO
+
+# User management settings
+user_settings:
+  # Enable user management
+  enable_user_management: true
+  
+  # Auto-create users on first API call
+  auto_create_user: true
+
+# Rate limiting (optional)
+rate_limit:
+  # Global rate limit per minute
+  # global_rate_limit: 100
+  
+  # Rate limit per user per minute
+  # user_rate_limit: 10
+
+# Budget tracking
+budget:
+  enabled: true
+  enforce_budget: true
+  default_budget: 0.25
+
+
+

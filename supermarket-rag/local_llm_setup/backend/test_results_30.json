@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the price of Dine Wet Cat Food Pk 7 x 85g?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Dine Wet Cat Food Pk 7 x 85g | Coles | Not found | Not found |\n| Dine Wet Cat Food Pk 7 x 85g | Woolworths | $5.00 | SAVE $5 |\n\n**Verdict**: Woolworths is cheaper as the price is $5.00 and there is no matching product at Coles.\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 12.214349269866943
+  },
+  {
+    "question": "How much is Purina One Dry Cat Food 1.4-1.5 kg?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Purina One Dry Cat Food 1.4-1.5 kg | Coles | Not found |  |\n| Purina One Dry Cat Food 1.4-1.5 kg | Woolworths | $14.00 | SAVE $6 |\n\n**Verdict**: Woolworths has Purina One Dry Cat Food 1.4-1.5 kg for $14.00. Coles does not have this product.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 8.423633575439453
+  },
+  {
+    "question": "Is Fancy Feast Classics Wet Cat Food 85g on sale?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Fancy Feast Classics Wet Cat Food 85g | Coles | Not found |  |\n| Fancy Feast Classics Wet Cat Food 85g | Woolworths | $1.00 | SAVE 60c |\n\n**Verdict**: Fancy Feast Classics Wet Cat Food 85g is on sale at Woolworths for $1.00.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 42.68608283996582
+  },
+  {
+    "question": "Price of Temptations Cat Treats 85g?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Temptations Cat Treats 85g | Coles | Not found |  |\n| Temptations Cat Treats 85g | Woolworths | $4.40 | SAVE $1.10 |\n\n**Verdict**: Woolworths is cheaper because they sell Temptations Cat Treats 85g for $4.40.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 36.88884496688843
+  },
+  {
+    "question": "What is the current deal for Supercoat Dry Dog Food 2.6-2.8 kg?",
+    "success": true,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Supercoat Dry Dog Food | Coles | $6.40 | SAVE $1.60, WAS $8 |\n| Supercoat Dry Dog Food | Woolworths | $9 | SAVE $9 |\n\n**Verdict**: Coles is cheaper because Supercoat Dry Dog Food is $6.40 there, while it is $9 at Woolworths.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 29.619237899780273
+  },
+  {
+    "question": "How much is Breeder's Choice Cat Litter 24 Litre?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Breeder's Choice Cat Litter 24 Litre | Coles | Not found | Not found |\n| Breeder's Choice Cat Litter 24 Litre | Woolworths | $25.00 | WAS $30 |\n\n**Verdict**: Woolworths sells Breeder's Choice Cat Litter 24 Litre for $25.00. It was previously priced at $30. Coles does not stock this product.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 52.35024976730347
+  },
+  {
+    "question": "Price of Pedigree Dry Dog Food 8 kg?",
+    "success": false,
+    "response": "Based on the provided context, I cannot find the price of Pedigree Dry Dog Food 8 kg. However, I can provide information on other Pedigree products.\n\n| Product | Store | Price | Deal |\n|---|---|---|---|\n| Pedigree Dentastix 28 Pack | Coles | $11.95 | SAVE $7.50, WAS $24 |\n| Pedigree Dry Dog Food 8 kg | Coles | Not found | Not found |\n\n**Verdict**: Product not found\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 46.2383246421814
+  },
+  {
+    "question": "What is the price of Radiant Laundry Capsules in Coles?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 23.215815544128418
+  },
+  {
+    "question": "Do you have Canadian Club in Coles? List the price.",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 10.411032915115356
+  },
+  {
+    "question": "Price of Coles RSPCA Approved Chicken Schnitzel 600g?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 31.387929677963257
+  },
+  {
+    "question": "How much is Kelloggs LCMs 100g-138g?",
+    "success": true,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Kellogg's LCMs or Nutri Grain Bars 5 Pack 100g-110g | Coles | $2.75 | SAVE $2.25 WAS $4.50 |\n| Kellogg's LCMs Treatz 130g | Coles | $2.75 | SAVE $3 WAS $6 |\n\n**Verdict**: Coles has Kellogg's LCMs Treatz 130g and Kellogg's LCMs or Nutri Grain Bars 5 Pack 100g-110g for $2.75 each.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 25.638763189315796
+  },
+  {
+    "question": "Price of Berocca Immune Effervescent Tablets 15 Pack?",
+    "success": false,
+    "response": "Product not found\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 57.41831636428833
+  },
+  {
+    "question": "Is there a deal for Nivea Body Wash 1 Litre?",
+    "success": true,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Nivea Body Wash 1 Litre | Coles | $8.50 | Half Price, SAVE $8.50, WAS $17 |\n\n**Verdict**: Coles has Nivea Body Wash 1 Litre on sale for half price at $8.50.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 56.2058744430542
+  },
+  {
+    "question": "Price of Colgate Advanced Whitening Toothpaste 115g?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 3.0223610401153564
+  },
+  {
+    "question": "How much is Garnier Fructis Shampoo 315mL?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Garnier Fructis Shampoo 315mL | Coles | $7.50 | SAVE $7.50 WAS $15 |\n\n**Verdict**: Product not found in Woolworths. Garnier Fructis Shampoo 315mL is $7.50 at Coles.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 32.927002906799316
+  },
+  {
+    "question": "Price of Herbal Essences Classics Shampoo 400mL?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Herbal Essences Classics Shampoo 400mL | Coles | $7.50 | SAVE $7.50 WAS $15 |\n\n**Verdict**: Product not found. There is Herbal Essences Classics Shampoo or Conditioner 600mL for $7.50.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 4.632240295410156
+  },
+  {
+    "question": "What is the deal for Peters Drumstick 4 Pack - 6 Pack?",
+    "success": false,
+    "response": "Based on the provided context, I cannot find information about Peters Drumstick. However, I can provide information on similar products from Coles.\n\n| Product | Store | Price | Deal |\n|---|---|---|---|\n| Bulla Creamy Classics Ice Cream Cones 4 Pack 520mL | Coles | $5.50 | SAVE $5.50 WAS $11 |\n| Bulla Creamy Classics Ice Cream Sundae Cones 4 Pack 427mL-458mL | Coles | $6.25 | SAVE $6.25 WAS $12.50 |\n\n**Verdict**: Product not found.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 19.868467569351196
+  },
+  {
+    "question": "Price of Smith's Potato Chips 170g?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 35.159414529800415
+  },
+  {
+    "question": "How much is Pepsi Max 10x375ml?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 50.44390559196472
+  },
+  {
+    "question": "Price of Fairy Original Dishwasher Tablets 22 Pack?",
+    "success": false,
+    "response": "Product not found\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 21.369624614715576
+  },
+  {
+    "question": "Is Morning Fresh Dishwashing Liquid 400mL on sale?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 6.549143314361572
+  },
+  {
+    "question": "Price of Carefree Barely There Liners 42 Pack?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 41.001363039016724
+  },
+  {
+    "question": "How much is Ogx Extra Strength Shampoo 385mL?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 38.93461346626282
+  },
+  {
+    "question": "Garnier Vitamin C Micellar Water 400mL price?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 17.941586017608643
+  },
+  {
+    "question": "Price of Buller Cream 200mL?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Bulla Creamy Classics Ice Cream Tub 2 Litre | Coles | $3.75 | SAVE $3.75 WAS $7.50 |\n\n**Verdict**: Coles has Bulla Creamy Classics Ice Cream Tub 2 Litre for $3.75. The question asks for Buller Cream 200mL, which is not found.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 54.142930030822754
+  },
+  {
+    "question": "What is the price of Delectables Lickable Stew Cat Treats 40g?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Delectables Lickable Stew Cat Treats 40g | Coles | Not found | Not found |\n| Delectables Lickable Stew Cat Treats 40g | Woolworths | $1.40 | SAVE 60\u00a2 |\n\n**Verdict**: Woolworths is cheaper because they sell Delectables Lickable Stew Cat Treats 40g for $1.40, while this product was not found at Coles.\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 13.943281173706055
+  },
+  {
+    "question": "How much is Pretty Wild Soup Cat Treats 155g?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Pretty Wild Soup Cat Treats 155g | Coles | Not found | Not found |\n| Pretty Wild Soup Cat Treats 155g | Woolworths | $2.00 | SAVE $1.50 |\n\n**Verdict**: Woolworths is cheaper because they sell Pretty Wild Soup Cat Treats 155g for $2.00, while it is not found at Coles.\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 44.44789099693298
+  },
+  {
+    "question": "Price of Churu Puree Cat Treats Pk 4?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 27.46490216255188
+  },
+  {
+    "question": "Is My Dog Wet Dog Food Pk 6 x 100g on sale?",
+    "success": false,
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| My Dog Wet Dog Food Pk 6 x 100g | Coles | Not found |  |\n| My Dog Wet Dog Food Pk 6 x 100g | Woolworths | $8.00 | SAVE $2 |\n\n**Verdict**: My Dog Wet Dog Food Pk 6 x 100g is on sale at Woolworths for $8.00, saving $2. The product was not found at Coles.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 15.80820608139038
+  },
+  {
+    "question": "Price of Schmackos Strapz Dog Treats 500g?",
+    "success": false,
+    "response": "I'm sorry, I couldn't verify the prices in the provided catalogues with high confidence. Please check the catalogues manually or try a more specific product name.",
+    "duration": 48.308401107788086
+  }
+]

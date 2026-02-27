@@ -1,0 +1,17 @@
+name: Daily Catalog Update
+
+on:
+  schedule:
+    # Run every day at 01:00 UTC
+    - cron: '0 1 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+jobs:
+  update-catalogs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger API Update
+        run: |
+          curl -X POST "https://xfukqtd5pc.us-east-1.awsapprunner.com/api/admin/update-catalogs" \
+          -H "Authorization: Bearer ${{ secrets.ADMIN_API_KEY }}" \
+          -H "Content-Type: application/json"

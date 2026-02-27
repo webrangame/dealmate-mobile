@@ -1,0 +1,92 @@
+[
+  {
+    "query": "milk",
+    "both_shops": true,
+    "coles_found": true,
+    "wool_found": true,
+    "total_images": 2,
+    "specific_crops": 0,
+    "status": 200
+  },
+  {
+    "query": "bread",
+    "both_shops": true,
+    "coles_found": true,
+    "wool_found": true,
+    "total_images": 2,
+    "specific_crops": 0,
+    "status": 200
+  },
+  {
+    "query": "butter",
+    "both_shops": false,
+    "coles_found": false,
+    "wool_found": true,
+    "total_images": 1,
+    "specific_crops": 0,
+    "status": 200
+  },
+  {
+    "query": "eggs",
+    "both_shops": true,
+    "coles_found": true,
+    "wool_found": true,
+    "total_images": 1,
+    "specific_crops": 0,
+    "status": 200
+  },
+  {
+    "query": "apples",
+    "both_shops": true,
+    "coles_found": true,
+    "wool_found": true,
+    "total_images": 1,
+    "specific_crops": 1,
+    "status": 200
+  },
+  {
+    "query": "bananas",
+    "both_shops": true,
+    "coles_found": true,
+    "wool_found": true,
+    "total_images": 1,
+    "specific_crops": 0,
+    "status": 200
+  },
+  {
+    "query": "yogurt",
+    "both_shops": true,
+    "coles_found": true,
+    "wool_found": true,
+    "total_images": 1,
+    "specific_crops": 0,
+    "status": 200
+  },
+  {
+    "query": "pasta",
+    "both_shops": true,
+    "coles_found": true,
+    "wool_found": true,
+    "total_images": 2,
+    "specific_crops": 0,
+    "status": 200
+  },
+  {
+    "query": "soft drink",
+    "both_shops": true,
+    "coles_found": true,
+    "wool_found": true,
+    "total_images": 2,
+    "specific_crops": 0,
+    "status": 200
+  },
+  {
+    "query": "coffee",
+    "both_shops": true,
+    "coles_found": true,
+    "wool_found": true,
+    "total_images": 2,
+    "specific_crops": 1,
+    "status": 200
+  }
+]

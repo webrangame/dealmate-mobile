@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  litellm:
+    image: ghcr.io/berriai/litellm:main-latest
+    container_name: litellm-proxy
+    ports:
+      - "4000:4000"
+    command: --config /app/config.yaml
+    environment:
+      # Master key for admin operations (starts with sk-)
+      # Generate a secure key: openssl rand -hex 32
+      LITELLM_MASTER_KEY: ${LITELLM_MASTER_KEY:-sk-dcb0c8a73a664a2307b8e2f12ef90a34819204105f32f51cc8c621ebf88c7642}
+      
+      # Use separate database for LiteLLM to avoid schema conflicts
+      DATABASE_URL: "postgresql://postgres:it371Ananda@agent-marketplace-db.cmt466aga8u0.us-east-1.rds.amazonaws.com:5432/litellm_db?sslmode=require"
+      
+      # Migration directory for writable file system
+      LITELLM_MIGRATION_DIR: /app/litellm_data
+      
+      # Logging
+      LITELLM_LOG: INFO
+      
+      # Enable UI (no password by default)
+      # Set UI_PASSWORD environment variable to add password protection
+      # UI_PASSWORD: ${UI_PASSWORD:-}
+      
+      # Google API Key for Gemini models
+      GOOGLE_API_KEY: AIzaSyB363hm_J0BoJ_EZ8Da_cg0-EBjItKLsA8
+      
+      # Config file path
+      CONFIG: /app/config.yaml
+      
+      # Enable storing models in database (required for manual model configuration)
+      STORE_MODEL_IN_DB: "True"
+      
+      # Optional: Add your OpenAI API key or other provider keys
+      # OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+    volumes:
+      - ./config.yaml:/app/config.yaml:ro
+      - ./litellm_data:/app/litellm_data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

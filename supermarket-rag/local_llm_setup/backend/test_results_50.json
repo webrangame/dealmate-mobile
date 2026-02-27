@@ -1,0 +1,315 @@
+[
+  {
+    "question": "Hello!",
+    "category": "General",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.47s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Hi there, who are you?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "How can you help me today?",
+    "category": "General",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.27s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Tell me a joke about shopping.",
+    "category": "General",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.10s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "What are some tips for saving money at the supermarket?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "How do I use this app?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "Thank you for your help.",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "Goodbye.",
+    "category": "General",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.15s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "What is your name?",
+    "category": "General",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.22s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Are you a robot?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "Can you give me a recipe for pasta?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "Is it better to shop in the morning or evening?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "What are common supermarket tricks to make me spend more?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "How do I check if an item is on sale?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "What shops do you compare?",
+    "category": "General",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.18s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Who created you?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "What is the weather like? (testing fallback)",
+    "category": "General",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.36s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Can you help me with my taxes? (testing boundaries)",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "What is a RAG engine?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "How often do you update your prices?",
+    "category": "General",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.13s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Do you have a mobile app?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "I'm looking for some deals, what should I do?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "Tell me about Coles.",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "Tell me about Woolworths.",
+    "category": "General",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.06s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Can you compare prices for me?",
+    "category": "General",
+    "status": "Error 500"
+  },
+  {
+    "question": "What is the price of full cream milk?",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.03s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "How much does 1kg of sugar cost?",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.23s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Price of eggs at Coles?",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.26s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Is Coca-Cola on sale at Woolworths?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "Compare price of bread.",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.25s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "What is the cheapest butter?",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.43s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "How much is 500g of pasta?",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.15s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Price of bananas per kg?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "Do you have prices for laundry detergent?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "Cost of chicken breast?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "Is there a discount on chocolate?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "Price of 2L orange juice?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "How much are apples at Woolworths?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "Compare price of Pringles.",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.27s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "What is the price of Berocca?",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.11s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "How much is a 24 pack of water?",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "5.54s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Price of yogurt?",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.34s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Cost of olive oil?",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.31s",
+    "preview": "Product not found."
+  },
+  {
+    "question": "Is Nescafe on sale?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "How much is toilet paper?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "Price of breakfast cereal?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "Compare price of peanut butter.",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "What is the cost of frozen peas?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "How much are snacks like chips?",
+    "category": "Product",
+    "status": "Error 500"
+  },
+  {
+    "question": "Price of shampoo?",
+    "category": "Product",
+    "status": "Success",
+    "is_rag_detected": false,
+    "duration": "1.26s",
+    "preview": "Product not found."
+  }
+]

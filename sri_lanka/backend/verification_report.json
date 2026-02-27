@@ -1,0 +1,193 @@
+{
+  "timestamp": "2026-02-10T07:16:42.869834",
+  "endpoint": "https://xfukqtd5pc.us-east-1.awsapprunner.com/chat",
+  "summary": {
+    "total_tests": 14,
+    "successful": 12,
+    "both_shops_count": 2
+  },
+  "results": [
+    {
+      "category": "Common Products",
+      "results": [
+        {
+          "success": false,
+          "query": "ice cream price",
+          "error": "HTTPSConnectionPool(host='xfukqtd5pc.us-east-1.awsapprunner.com', port=443): Read timed out. (read timeout=60)"
+        },
+        {
+          "success": false,
+          "query": "chips price",
+          "error": "HTTPSConnectionPool(host='xfukqtd5pc.us-east-1.awsapprunner.com', port=443): Read timed out. (read timeout=60)"
+        },
+        {
+          "success": true,
+          "query": "chocolate price",
+          "has_coles": true,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 377,
+          "response_preview": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Nestl\u00e9 Block Chocolate 118g-180g | Coles | $2.20 | 1/2 Price |\n\n**Verdict**: Nestl\u00e9 Block Chocolate 118g-180g is available at Coles for $2.20.\n\n\n..."
+        },
+        {
+          "success": true,
+          "query": "milk price",
+          "has_coles": true,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 383,
+          "response_preview": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Pureharvest Organic Oat Milk 1 Litre | Coles | $1.55 | Half Price, $1.50 per litre |\n\n**Verdict**: Coles has Pureharvest Organic Oat Milk for $1...."
+        },
+        {
+          "success": true,
+          "query": "bread price",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 981,
+          "response_preview": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Woolworths White Soft Toast Bread 650g |..."
+        }
+      ]
+    },
+    {
+      "category": "Specific Products",
+      "results": [
+        {
+          "success": true,
+          "query": "Bulla ice cream",
+          "has_coles": true,
+          "has_woolworths": true,
+          "both_shops": true,
+          "num_images": 2,
+          "shops_found": [
+            "Coles",
+            "Woolworths"
+          ],
+          "response_length": 344,
+          "response_preview": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Bulla Ice Cream | Woolworths | $10.50 | WAS $11.50 |\n\n**Verdict**: Woolworths has Bulla Ice Cream for $10.50.\n\n\n---\n*I compare deals from mall ca..."
+        },
+        {
+          "success": true,
+          "query": "Peters ice cream",
+          "has_coles": true,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 502,
+          "response_preview": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Peters Original Twin Pole Sticks 8 Pack 544mL-590mL | Coles | $4.75 | SAVE $4.75 WAS $9.50 |\n| Peters Maxibon 4 Pack-6 Pack 560mL | Coles | $8.40..."
+        },
+        {
+          "success": true,
+          "query": "Coca Cola",
+          "has_coles": true,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 357,
+          "response_preview": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coca-Cola | Coles | $11.00 | 10x375mL $2.78 per litre |\n\n**Verdict**: Coca-Cola 10x375mL is available at Coles for $11.00.\n\n\n---\n*I compare deals..."
+        },
+        {
+          "success": true,
+          "query": "Oreo",
+          "has_coles": true,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 366,
+          "response_preview": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Oreo Creme Cookies 128g-131g | Coles | $1.88 | SAVE 65\u00a2 WAS $2.50 |\n\n**Verdict**: Coles has Oreo Creme Cookies 128g-131g for $1.88.\n\n\n---\n*I comp..."
+        },
+        {
+          "success": true,
+          "query": "Drumstix crackers",
+          "has_coles": true,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 258,
+          "response_preview": "Product not found\n\n\n(I also checked online but couldn't find a reliable price.)\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the s..."
+        }
+      ]
+    },
+    {
+      "category": "General Questions",
+      "results": [
+        {
+          "success": true,
+          "query": "what's the cheapest ice cream?",
+          "has_coles": true,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 410,
+          "response_preview": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Bulla Creamy Classics Ice Cream Tub 2 Litre | Coles | $4.75 | SAVE $4.75 WAS $9.50 |\n\n**Verdict**: Bulla Creamy Classics Ice Cream Tub 2 Litre is..."
+        },
+        {
+          "success": true,
+          "query": "which shop has better chocolate deals?",
+          "has_coles": true,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 454,
+          "response_preview": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Cadbury Chocolate Bar 30g-55g | Coles | $1.75 | 1/2 Price, WAS $3 SAVE $1.75 |\n\n**Verdict**: Coles has Cadbury Chocolate Bar for $1.75. I don't h..."
+        },
+        {
+          "success": true,
+          "query": "show me soft drink prices",
+          "has_coles": true,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 258,
+          "response_preview": "Product not found\n\n\n(I also checked online but couldn't find a reliable price.)\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the s..."
+        },
+        {
+          "success": true,
+          "query": "compare biscuit prices",
+          "has_coles": true,
+          "has_woolworths": false,
+          "both_shops": false,
+          "num_images": 2,
+          "shops_found": [
+            "Coles"
+          ],
+          "response_length": 899,
+          "response_preview": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Oreo Creme Cookies 128g-131g | Coles | $2.35 | SAVE 65\u00a2 WAS $3 |\n| Arnott's Salada or Vita-Weat Top 20 Variety Pack 375g | Coles | $2.00 | SAVE $..."
+        }
+      ]
+    }
+  ]
+}

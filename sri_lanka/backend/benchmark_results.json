@@ -1,0 +1,310 @@
+{
+    "summary": {
+        "total_questions": 50,
+        "successful_finds": 29,
+        "failed_finds": 21,
+        "total_duration_seconds": 410.03,
+        "average_response_time": 8.2
+    },
+    "details": [
+        {
+            "question": "What is the price of Coles Australian Baby Beetroot 250g?",
+            "response": "### Coles Australian Baby Beetroot 250g Pack\n- **Coles**: $2.50 Was $3 NOV 2025\n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper because the price is $2.50 while the product is not found at Woolworths.\n",
+            "duration": 5.47,
+            "success": true
+        },
+        {
+            "question": "How much are the Coles Classic Burgers?",
+            "error": "connection to server at \"agent-marketplace-db.cmt466aga8u0.us-east-1.rds.amazonaws.com\" (98.95.27.55), port 5432 failed: Connection timed out\n\tIs the server running on that host and accepting TCP/IP connections?\n",
+            "success": false
+        },
+        {
+            "question": "What is the price for Coles Simply Hamburger rolls 6 pack?",
+            "response": "### Coles Simply Hamburger or Hot Dog Rolls 6 Pack 450g-540g\n- **Coles**: $2.50 WAS $3 NOV 2025\n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper because the price is $2.50 and the product is not found at Woolworths.\n",
+            "duration": 5.99,
+            "success": true
+        },
+        {
+            "question": "Are there any deals on Tassal Smoked Salmon?",
+            "response": "### Tassal Smoked Salmon 250g\n- **Coles**: $60.00 per kg SAVE $1.80\n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper because Woolworths does not stock this product.\n",
+            "duration": 4.58,
+            "success": true
+        },
+        {
+            "question": "Show me the price for Coles Tasmanian Fresh Salmon Skin On.",
+            "response": "### Coles Tasmanian Fresh Salmon Skin On\n- **Coles**: $34.00 per kg Not found\n- **Woolworths**: Not found Not found\n\n**Verdict**: Cannot determine which shop is cheaper as Woolworths does not have the product.\n",
+            "duration": 4.45,
+            "success": true
+        },
+        {
+            "question": "What is the cost of Rana Filled Pasta 325g?",
+            "response": "### Rana Filled Pasta 325g\n- **Coles**: $7.22 \n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper because the price is listed and the product is not found at Woolworths.\n",
+            "duration": 6.19,
+            "success": true
+        },
+        {
+            "question": "Price for Berocca Immune Daily Defence Effervescent Tablets?",
+            "response": "### Berocca Immune Daily Defence Effervescent Tablets Pk 45\n- **Coles**: Not found\n- **Woolworths**: $13.00 SAVE $13.00\n\n**Verdict**: Woolworths is cheaper as the product is not available at Coles.\n",
+            "duration": 4.94,
+            "success": true
+        },
+        {
+            "question": "How much is the Berocca Vitamin B & C Energy pk 45?",
+            "response": "### Berocca Vitamin B & C Energy Effervescent Tablets Pk 45\n- **Coles**: Not found\n- **Woolworths**: $13.00, SAVE $13.00\n\n**Verdict**: Woolworths is cheaper because the product is available there, while it is not found at Coles.\n",
+            "duration": 6.13,
+            "success": true
+        },
+        {
+            "question": "What is the price of Ostelin Vitamin D3 1000IU Capsules Pk 250?",
+            "response": "### Ostelin Vitamin D3 1000IU Capsules Pk 250\n- **Coles**: Not found\n- **Woolworths**: $24.50 SAVE $24.50\n\n**Verdict**: Woolworths has this product for $24.50. It is not available at Coles based on the provided context.\n",
+            "duration": 4.78,
+            "success": true
+        },
+        {
+            "question": "Price for Ostelin Calcium & Vitamin D3 + K2 Tablets Pk 60?",
+            "response": "### Ostelin Calcium & Vitamin D3 + K2 Tablets Pk 60\n- **Coles**: Not found\n- **Woolworths**: $20.45 SAVE $20.50\n\n**Verdict**: Woolworths is cheaper as the product is available at $20.45 while it is not found at Coles.",
+            "duration": 6.72,
+            "success": true
+        },
+        {
+            "question": "How much does Cenovis Sugarless C Chewable Tablets cost?",
+            "response": "### Cenovis Sugarless C Chewable Tablets Pk 320\n- **Coles**: Not found\n- **Woolworths**: $13.00 SAVE $13.00\n\n**Verdict**: Woolworths is cheaper because the product is available at Woolworths, but not at Coles.\n",
+            "duration": 5.83,
+            "success": true
+        },
+        {
+            "question": "What is the price for Nature's Own Glucosamine Sulfate?",
+            "response": "### Nature's Own Glucosamine Sulfate With Chondroitin Tablets 200 Pack\n- **Coles**: Not found On sale for 2 weeks\n- **Woolworths**: Not found\n\n**Verdict**: Product not found\n",
+            "duration": 4.57,
+            "success": false
+        },
+        {
+            "question": "Are there discounts on Glad Aromatics kitchen tidy bags?",
+            "response": "### Glad Aromatics Kitchen Tidy Bags Cherry Blossom Large 20 Pack\n- **Coles**: $4.60 Was $6.60\n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper because it has the product on sale while Woolworths does not sell this product.\n",
+            "duration": 6.48,
+            "success": true
+        },
+        {
+            "question": "How much is the Remedy Kombucha 750ml?",
+            "response": "Product not found\n",
+            "duration": 6.72,
+            "success": false
+        },
+        {
+            "question": "What is the price of Daily Juice orange juice 2 litre?",
+            "response": "### Daily Juice Orange Juice 2 Litre\n- **Coles**: Not found\n- **Woolworths**: $6.50 WAS $7.50\n\n**Verdict**: Woolworths is cheaper as the product is not found at Coles.",
+            "duration": 5.96,
+            "success": true
+        },
+        {
+            "question": "How much are the Optus X-Phones?",
+            "response": "Product not found\n",
+            "duration": 5.88,
+            "success": false
+        },
+        {
+            "question": "What is the price of Listerine Freshburst antibacterial mouthwash 500ml?",
+            "response": "### Listerine Freshburst Antibacterial Mouthwash 500ml\n- **Coles**: Not found\n- **Woolworths**: $4.00 SAVE $4\n\n**Verdict**: Woolworths is cheaper as the product is available and Coles does not stock it.",
+            "duration": 4.38,
+            "success": true
+        },
+        {
+            "question": "Price for Palmolive foam hand wash ref?",
+            "response": "### Palmolive Foam Hand Wash Refill 1 Litre\n- **Coles**: Not found\n- **Woolworths**: $4.50 SAVE $4.50\n\n**Verdict**: Woolworths is cheaper as the product is not found at Coles.\n",
+            "duration": 5.13,
+            "success": true
+        },
+        {
+            "question": "How much are the Dove products on sale?",
+            "response": "Product not found\n",
+            "duration": 4.65,
+            "success": false
+        },
+        {
+            "question": "What is the price for Finish ultimate dishwashing?",
+            "response": "### Finish Ultimate Dishwashing Tablets 46 Pack\n- **Coles**: $0.53 per each Not found\n- **Woolworths**: Not found Not found\n\n**Verdict**: Cannot determine which shop is cheaper as the price at Coles is per tablet and the total price is not found.\n### Finish Ultimate Plus Dishwasher Tablets Pk 82\n- **Coles**: Not found Not found\n- **Woolworths**: $39 SAVE $39\n\n**Verdict**: Woolworths is cheaper as the price is $39 and it is not found at Coles.\n",
+            "duration": 6.57,
+            "success": true
+        },
+        {
+            "question": "Current price for Pringles Potato Crisps?",
+            "response": "### Pringles Potato Crisps 118g-134g\n- **Coles**: $7.25 SAVE $3.60\n- **Woolworths**: $2.75 SAVE $2.75\n\n**Verdict**: Woolworths is cheaper because Pringles Potato Crisps 118-134g is $2.75 compared to Coles' price of $7.25.",
+            "duration": 6.03,
+            "success": true
+        },
+        {
+            "question": "How much are Zooper Dooper Water Ice?",
+            "response": "### Zooper Dooper Water Ice 24 Pack\n- **Coles**: $3.60 $0.15 per each, SAVE $3.60\n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper because they sell Zooper Dooper Water Ice for $3.60.\n",
+            "duration": 6.45,
+            "success": true
+        },
+        {
+            "question": "What is the price of Nature's Way kids smart probiotic?",
+            "response": "### Nature's Way Kids Smart Probiotic Choc Balls Pk 50\n- **Coles**: Not found\n- **Woolworths**: $9.00 SAVE $9\n\n**Verdict**: Woolworths is cheaper as the product is not available at Coles.\n",
+            "duration": 4.44,
+            "success": true
+        },
+        {
+            "question": "How much is the Swisse ultiboost magnesium glycinate?",
+            "response": "### Swisse Ultiboost Magnesium Glycinate Tablets Pk 60\n- **Coles**: Not found\n- **Woolworths**: $14.75 SAVE $14.75\n\n**Verdict**: Woolworths is cheaper as the price is listed, whereas Coles has no listing.\n",
+            "duration": 5.26,
+            "success": true
+        },
+        {
+            "question": "Price for Nature's Way vitamin c 50?",
+            "response": "Product not found\n",
+            "duration": 5.15,
+            "success": false
+        },
+        {
+            "question": "What is the cost of Coles Australian Beef Mince?",
+            "response": "Product not found\n",
+            "duration": 5.46,
+            "success": false
+        },
+        {
+            "question": "How much is a whole roast chicken?",
+            "response": "### Woolworths Country Style Hot Roast Chicken with RSPCA Approved Chicken & a Coca-Cola, Sprite, Fanta or Mount Franklin Variety 1.25 Litre, Combo\n- **Coles**: Not found\n- **Woolworths**: $13.50\n\n**Verdict**: Woolworths is cheaper as Coles does not sell this product.",
+            "duration": 15.42,
+            "success": true
+        },
+        {
+            "question": "Price for Cadbury Dairy Milk chocolate block 180g?",
+            "response": "### Cadbury Dairy Milk Block Chocolate 150g-190g\n- **Coles**: $5.00 SAVE $1.50\n- **Woolworths**: $8.50 Cadbury Dairy Milk Large Chocolate Blocks 315-345g\n\n**Verdict**: Coles is cheaper because it sells Cadbury Dairy Milk Block Chocolate 150g-190g for $5.00 while Woolworths sells Cadbury Dairy Milk Large Chocolate Blocks 315-345g for $8.50.\n",
+            "duration": 6.08,
+            "success": true
+        },
+        {
+            "question": "What is the price of Coca-Cola 30 pack?",
+            "response": "Product not found\n",
+            "duration": 4.33,
+            "success": false
+        },
+        {
+            "question": "How much are the Huggies Nappies jumbo pk?",
+            "response": "### Huggies Ultra Dry Bulk Nappies Pk 30-54\n- **Coles**: Not found\n- **Woolworths**: $13.00 SAVE $9\n\n**Verdict**: Woolworths has Huggies Ultra Dry Bulk Nappies Pk 30-54 for $13.00. Coles does not have this product.\n\n### Huggies Pure & Sensitive Nappy Pants 40 Pack-54 Pack\n- **Coles**: $28 SAVE $7\n- **Woolworths**: Not found\n\n**Verdict**: Coles has Huggies Pure & Sensitive Nappy Pants 40 Pack-54 Pack for $28. Woolworths does not have this product.\n",
+            "duration": 5.29,
+            "success": true
+        },
+        {
+            "question": "What is the price for Kleenex Toilet Tissue 12 pack?",
+            "response": "Product not found\n",
+            "duration": 5.28,
+            "success": false
+        },
+        {
+            "question": "Price of Sorbent Toilet Paper 10 pack?",
+            "response": "Product not found\n",
+            "duration": 4.59,
+            "success": false
+        },
+        {
+            "question": "How much is the Omo Laundry Liquid 2L?",
+            "response": "### Omo Laundry Liquid 2 Litre\n- **Coles**: $15.00 SAVE $15 WAS $30\n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper as the price is $15.00 and Woolworths does not have the product.\n",
+            "duration": 5.69,
+            "success": true
+        },
+        {
+            "question": "What is the cost of Fairy Dishwasher Tablets 40pk?",
+            "response": "Product not found\n",
+            "duration": 6.16,
+            "success": false
+        },
+        {
+            "question": "Price for Nescafe Blend 43 500g?",
+            "response": "Product not found\n",
+            "duration": 4.34,
+            "success": false
+        },
+        {
+            "question": "How much is the Moccona Freeze Dried Coffee 400g?",
+            "response": "### Moccona Freeze Dried Instant Coffee 400g\n- **Coles**: $26.00 SAVE $7.\n- **Woolworths**: $26.00 SAVE $11.50\n\n**Verdict**: Woolworths is cheaper because it offers a larger discount on the same product.\n",
+            "duration": 5.9,
+            "success": true
+        },
+        {
+            "question": "What is the price for Vegemite 560g?",
+            "response": "Product not found\n",
+            "duration": 7.46,
+            "success": false
+        },
+        {
+            "question": "Price of Bega Peanut Butter 475g?",
+            "response": "### Bega Peanut Butter\n- **Coles**: Not found\n- **Woolworths**: Not found\n\n**Verdict**: Product not found.\n",
+            "duration": 4.35,
+            "success": false
+        },
+        {
+            "question": "How much is the Western Star Butter 500g?",
+            "response": "### Western Star Butter 500g\n- **Coles**: Not found\n- **Woolworths**: Not found\n\n**Verdict**: Product not found\n",
+            "duration": 6.1,
+            "success": false
+        },
+        {
+            "question": "What is the price for Devondale Milk 2L?",
+            "response": "Product not found\n",
+            "duration": 5.15,
+            "success": false
+        },
+        {
+            "question": "Price of A2 Milk 2L?",
+            "response": "Product not found\n",
+            "duration": 5.82,
+            "success": false
+        },
+        {
+            "question": "How much are the Red Bull 4x250ml?",
+            "response": "Product not found\n",
+            "duration": 4.18,
+            "success": false
+        },
+        {
+            "question": "What is the cost of V Energy Drink 4 pack?",
+            "response": "### V Energy Drink 10x250mL \n- **Coles**: Not found\n- **Woolworths**: Not found\n\n**Verdict**: Product not found\n\n### Monster Energy Drink 4x500mL\n- **Coles**: $9.60 Save $6.40 WAS $16\n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper because Woolworths does not have the product.\n",
+            "duration": 5.44,
+            "success": false
+        },
+        {
+            "question": "Price for Smiths Potato Chips 170g?",
+            "response": "Product not found\n",
+            "duration": 5.89,
+            "success": false
+        },
+        {
+            "question": "How much are the Doritos 170g?",
+            "response": "### Doritos Corn Chips, 150-170g\n- **Coles**: Not found\n- **Woolworths**: $2.50 SAVE $2.50\n\n**Verdict**: Woolworths is cheaper because the price is $2.50 and Coles does not sell the product.",
+            "duration": 5.51,
+            "success": true
+        },
+        {
+            "question": "What is the price of Kellogg's Corn Flakes 725g?",
+            "response": "Product not found\n",
+            "duration": 4.16,
+            "success": false
+        },
+        {
+            "question": "Price of Sanitarium Weet-Bix 1.2kg?",
+            "response": "### Sanitarium Weet-Bix 1.2kg\n- **Coles**: $7.25 Save $7.25 WAS $14.50\n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper because it is the only shop that has the product.\n",
+            "duration": 6.27,
+            "success": true
+        },
+        {
+            "question": "How much is the Uncle Tobys Oats 1kg?",
+            "response": "### Uncle Tobys Rolled Oats 1kg\n- **Coles**: $3.32 Save $3.25\n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper as the price is provided while Woolworths is not found.\n",
+            "duration": 6.86,
+            "success": true
+        },
+        {
+            "question": "What is the price for Gippsland Yogurt 720g?",
+            "response": "```markdown\n### Gippsland Dairy Twist Yogurt 700g\n- **Coles**: Not found\n- **Woolworths**: $6.30, SAVE $1.60\n\n**Verdict**: Woolworths is cheaper as the product is not available at Coles.\n```",
+            "duration": 4.46,
+            "success": true
+        },
+        {
+            "question": "Find the cheapest price for dishwashing liquid.",
+            "response": "### Morning Fresh Dishwashing Liquid 350mL\n- **Coles**: $3.00 Save $3.50\n- **Woolworths**: Not found\n\n**Verdict**: Coles is cheaper as it is the only shop with the product.\n",
+            "duration": 4.31,
+            "success": true
+        }
+    ]
+}

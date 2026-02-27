@@ -1,0 +1,202 @@
+[
+  {
+    "product": "milk",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.01s",
+    "raw_images": []
+  },
+  {
+    "product": "bread",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "butter",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "eggs",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "cheese",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "chicken",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "beef",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "rice",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "pasta",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "tomato",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "potato",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "onion",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "carrot",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "apple",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "banana",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "orange",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "yogurt",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "chocolate",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "coffee",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  },
+  {
+    "product": "tea",
+    "status": "EXCEPTION",
+    "coles": "N/A",
+    "woolworths": "N/A",
+    "images": 0,
+    "image_match": "All connection attem",
+    "duration": "0.00s",
+    "raw_images": []
+  }
+]

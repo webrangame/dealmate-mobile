@@ -1,0 +1,550 @@
+Coles Product Listing
+================================================================================
+
+1. [Page 1] $$2277 55
+2. [Page 1] SAVE $2.75 SAVE $2
+3. [Page 1] WAS $5.50 WAS $4
+4. [Page 1] $1.60 per litre
+5. [Page 1] $$2277 55 $$3366 00
+6. [Page 1] SAVE $2.75 SAVE $3.60
+7. [Page 1] WAS $5.50 WAS $7.20
+8. [Page 1] 1 Litre $2.75 per litre 24 Pack $0.15 per each
+9. [Page 1] $$1100
+10. [Page 1] SAVE $3
+11. [Page 1] $9.09 per kg Serving suggestion only
+12. [Page 2] $$112255 $$2211 00 $$2244 00
+13. [Page 2] SAVE $1.25 SAVE $2.10 SAVE $2.40
+14. [Page 2] WAS $2.50 WAS $4.20 WAS $4.80
+15. [Page 2] Chocolate Bar 44g-56g $3.50 per litre 6 Pack 300g $0.80 per 100g
+16. [Page 2] $$33 $$44
+17. [Page 2] $$4477 55
+18. [Page 2] SAVE $3 SAVE $4 SAVE $4.75
+19. [Page 2] WAS $6 WAS $8 WAS $9.50
+20. [Page 2] $1.82 per 100g. 8 Pack-10 Pack Kit 350g $1.36 per 100g
+21. [Page 2] $$9955 00 $$1155
+22. [Page 2] SAVE $6 SAVE $9.50 SAVE $15
+23. [Page 2] WAS $12 WAS $19 WAS $30
+24. [Page 2] Ice Cream Tub 2 Litre $0.95 per 100mL Powder 2kg On sale for 2 weeks
+25. [Page 2] $0.30 per 100mL.
+26. [Page 3] $$1155 00 $$1166 55 $$1177 55
+27. [Page 3] SAVE $1.50 SAVE $1.65 SAVE $1.75
+28. [Page 3] WAS $3 WAS $3.30 WAS $3.50
+29. [Page 3] 35g-50g 105g-110g $1.40 per 100g
+30. [Page 3] $$2222 55 $$2277 55 $$3322 55
+31. [Page 3] SAVE $2.25 SAVE $2.75 SAVE $3.25
+32. [Page 3] WAS $4.50 WAS $5.50 WAS $6.50
+33. [Page 3] 110g $2.50 per 100g Biscuits 175g $1.86 per 100g
+34. [Page 3] $$1155 00
+35. [Page 3] $$11225500
+36. [Page 3] SAVE $1.50 SAVE $2 SAVE $12.50
+37. [Page 3] WAS $3 WAS $4 WAS $25
+38. [Page 3] Drink 1.1 Litre $1.36 per litre Drink 1.25 Litre $1.60 per litre 15x250mL $3.33 per litre
+39. [Page 4] $$221155 $$552255
+40. [Page 4] SAVE $1.45 SAVE $3.70
+41. [Page 4] WAS $3.60 WAS $8.95
+42. [Page 4] $1.43 per litre $4.20 per litre. On sale for 2 weeks
+43. [Page 4] $$1122 $$1122
+44. [Page 4] SAVE $8 SAVE $8
+45. [Page 4] WAS $20 WAS $20
+46. [Page 4] 10x375mL $3.20 per litre $3.20 per litre
+47. [Page 4] $$9966 00 $$1122 $$2200
+48. [Page 4] SAVE $6.40 SAVE $8 SAVE $17.50
+49. [Page 4] WAS $16 WAS $20 WAS $37.50
+50. [Page 4] $4.80 per litre 10x375mL $3.20 per litre Sugar Soft Drink 24x375mL
+51. [Page 4] $2.22 per litre
+52. [Page 5] $$449955
+53. [Page 5] $$66 $$66
+54. [Page 5] WAS $6.75 WA S $10 WAS $8.70
+55. [Page 5] 4x250mL $4.95 per litre $4.17 per litre Soft Drink 6x250mL
+56. [Page 5] $4.00 per litre
+57. [Page 5] $$663300 $$663300 $$449955
+58. [Page 5] WAS $8.10 WAS $7.70 WAS $5.95
+59. [Page 5] 6x200mL $5.25 per litre Passionfruit or Guava Soft $3.96 per litre
+60. [Page 5] Drink 4x375mL $4.20 per litre
+61. [Page 5] $$1166 22 $$66 ffoorr $$3300
+62. [Page 5] SAVE $1.63 SAVE $3.60 SAVE $8
+63. [Page 5] WAS $3.25 WAS $38
+64. [Page 5] Water 1.25 Litre $1.30 per litre or Apple Juice 2 Litre $2.67 per litre
+65. [Page 5] $1.50 per litre
+66. [Page 6] $$7755 00 $$11008800
+67. [Page 6] SAVE $5.50 SAVE $7.20
+68. [Page 6] WAS $13 WAS $18
+69. [Page 6] $0.75 per 100g $0.86 per 100g
+70. [Page 6] $$8888 00 $$9999 55
+71. [Page 6] SAVE $1.80 SAVE $2.20 SAVE $3
+72. [Page 6] WAS $8.80 WAS $11 WAS $12.95
+73. [Page 6] *See page 25 for T&Cs $3.06 per 100g
+74. [Page 6] $$1100 $$9966 00 $$11 ffoo 22 rr
+75. [Page 6] SAVE $2.95 SAVE $2.40
+76. [Page 6] SAVE $2
+77. [Page 6] WAS $12.95 WAS $12
+78. [Page 6] 2 Pack 360g $2.78 per 100g 20 Pieces 500g $1.92 per 100g 200g $3.00 per 100g.
+79. [Page 7] SAVE $2.40
+80. [Page 8] SAVE $1
+81. [Page 8] WAS $5
+82. [Page 8] 400g $1.50 per 100g 175g $2.29 per 100g
+83. [Page 8] $$3355 00 $$4455 00
+84. [Page 8] SAVE $1.50 SAVE $1.50 SAVE $3
+85. [Page 8] WAS $5 WAS $6 WAS $8
+86. [Page 8] $$2255 00 $$44 AA $$ nn 88 yy 22 ffoorr
+87. [Page 8] SAVE 80¢ SAVE $1 SAVE $6
+88. [Page 8] WAS $3.30 WAS $5
+89. [Page 8] Ripple Biscuits 250g $1.00 per 100g Shapes Crackers Multipacks 120g-150g
+90. [Page 9] WAS $8.50 NOV 2025
+91. [Page 9] WAS $3 NOV 2025
+92. [Page 9] 250g Pack $10.00 per kg Serving suggestion only
+93. [Page 10] $$1111
+94. [Page 10] WA S $13
+95. [Page 10] 1kg $11.00 per kg. Product sold uncooked
+96. [Page 10] ffoorr $$118800
+97. [Page 10] SAVE $1
+98. [Page 10] Mix 200g Pack $12.50 per kg $0.60 per 100mL 470g $0.85 per 100g
+99. [Page 11] $$665500
+100. [Page 11] SAVE $1
+101. [Page 11] $260 $340
+102. [Page 11] $$2266 $$3344 $$3344
+103. [Page 11] SAVE $6.50
+104. [Page 11] SAVE $7
+105. [Page 11] SAVE $4
+106. [Page 11] WAS $32.50kg WAS $41kg WAS $38kg
+107. [Page 11] $26.00 per kg. Selected stores $34.00 per kg. Selected stores Skin On $34.00 per kg. Selected
+108. [Page 11] $$669900
+109. [Page 11] $$1155 $$7722 00
+110. [Page 11] WA S $8 SAVE $6 SAVE $1.80
+111. [Page 11] DEC 2025 WAS $21 WAS $9
+112. [Page 11] $6.90 per kg. Selected stores $60.00 per kg. 2nd week on sale $2.22 per 100g
+113. [Page 11] $$11999900
+114. [Page 11] $19.90 per kg. Selected stores only#
+115. [Page 12] $$2255 00
+116. [Page 12] $$33 $$99
+117. [Page 12] SAVE $2.50 SAVE $3 SAVE $9
+118. [Page 12] WAS $5 WAS $6 WAS $18
+119. [Page 12] On sale for 2 weeks $6.00 per 100mL 1 Pack $9.00 per each
+120. [Page 12] $$5500
+121. [Page 12] eeaa eeaa $$5555 00
+122. [Page 12] SAVE $3
+123. [Page 12] SAVE $50 WAS $6 eeaa
+124. [Page 12] WAS $100
+125. [Page 12] Oral B Pro Health Advanced SAVE $5.50
+126. [Page 12] Oral B Pro 800 Cross Action Deep Clean or Whitening WAS $11
+127. [Page 12] 1 Pack $50.00 per each. $2.73 per 100g. Voost Effervescent Tablets
+128. [Page 12] On sale for 2 weeks On sale for 2 weeks 20 Pack^ $27.50 per 100 each
+129. [Page 12] $$1188 $$1188
+130. [Page 12] $$22005500
+131. [Page 12] SAVE $18 SAVE $18
+132. [Page 12] WAS $36 WAS $36 SAVE $20.50
+133. [Page 12] WAS $41
+134. [Page 12] $45.00 per 100 each 1000IU Capsules 400 Pack^ $34.17 per 100 each
+135. [Page 13] $$1100 $$11005500
+136. [Page 13] SAVE $10 SAVE $10.50
+137. [Page 13] WAS $20 WAS $21
+138. [Page 13] 950mL $1.05 per 100mL 660mL $1.59 per 100mL
+139. [Page 13] $$11225500 $$7755 00
+140. [Page 13] SAVE $12.50 SAVE $7.50
+141. [Page 13] WAS $25 WAS $15
+142. [Page 13] $4.17 per 100mL Conditioner 600mL $1.25 per 100mL
+143. [Page 13] $$1111
+144. [Page 13] SAVE $11
+145. [Page 13] WAS $22
+146. [Page 13] $1.57 per 100mL
+147. [Page 13] $$557755
+148. [Page 13] SAVE $5.75
+149. [Page 13] WAS $11.50 $$997755
+150. [Page 13] $2.30 per 100mL SAVE $9.75
+151. [Page 13] WAS $19.50
+152. [Page 13] $$9955 00 Dove Shampoo or
+153. [Page 13] DOVE eeaa $1.15 per 100mL
+154. [Page 13] Exclusions apply† SAVE $9.50
+155. [Page 13] WAS $19
+156. [Page 13] 1 Litre $0.95 per 100mL
+157. [Page 14] $$3355 00 $$3355 00 $$1166
+158. [Page 14] SAVE $3.50 SAVE $3.50 SAVE $16
+159. [Page 14] WAS $7 WAS $7 WAS $32
+160. [Page 14] Toilet Cleaner 700mL Cleaner 39g $8.97 per 100g Gold Stain Remover Powder
+161. [Page 14] $0.50 per 100mL 2kg $8.00 per kg
+162. [Page 14] $$552255 $$1100
+163. [Page 14] SAVE $3 SAVE $5.25 SAVE $10
+164. [Page 14] WAS $6 WAS $10.50 WAS $20
+165. [Page 14] Liquid 350mL $0.86 per 100mL Conditioner 850mL 2 Litre or Powder 2kg
+166. [Page 14] $6.18 per litre
+167. [Page 14] $$1100 $$11445500 $$1122
+168. [Page 14] SAVE $10 SAVE $14.50 SAVE $12
+169. [Page 14] WAS $20 WAS $29 WAS $24
+170. [Page 14] 2 Litre or Capsules 26 Pack Liquid 2 Litre $7.25 per litre Laundry Liquid 2 Litre
+171. [Page 16] $$3355 00 $$4444 00 $$5522 55
+172. [Page 16] SAVE $3.50 SAVE $4.40 SAVE $5.25
+173. [Page 16] WAS $7 WAS $8.80 WAS $10.50
+174. [Page 16] $$5588 77
+175. [Page 16] $$1155
+176. [Page 16] SAVE $5.88 SAVE $8 SAVE $15
+177. [Page 16] WAS $11.75 WAS $16 WAS $30
+178. [Page 16] Assorted 12 Pack Cup 850mL $15.00 per each
+179. [Page 16] $$1111 00
+180. [Page 16] $$11225500
+181. [Page 16] SAVE $1.10 SAVE $7 SAVE $12.50
+182. [Page 16] WAS $2.20 WAS $14 WAS $25
+183. [Page 16] Pencils 3 Pack 517mL $7.00 per each Set 1 Each $12.50 per each
+184. [Page 17] $$2255 00
+185. [Page 17] $$55 $$66 $$77
+186. [Page 17] $5.00 per each 400mL $6.00 per each 750mL $7.00 per each
+187. [Page 17] $$4422 00
+188. [Page 17] SAVE $1.75 SAVE $1.80
+189. [Page 17] WAS $5.75 WAS $6
+190. [Page 18] $$4488 • Honey Soy Wing Nibbles
+191. [Page 18] $20.00 per kg. While stocks last. No rainchecks Serving suggestion only
+192. [Page 18] $$1155
+193. [Page 18] SAVE $2
+194. [Page 19] $$11335500
+195. [Page 19] SAVE $2
+196. [Page 19] WAS $15.50
+197. [Page 19] $27.00 per kg Serving suggestion only
+198. [Page 19] $$77 $$11225500 22 ffoorr
+199. [Page 19] $$1100
+200. [Page 19] SAVE $2
+201. [Page 19] SAVE $1 WAS $14.50 SAVE $2
+202. [Page 19] WAS $8
+203. [Page 19] Kebabs Honey & Soy 375g Béarnaise Butter 265g Mince 500g $10.00 per kg
+204. [Page 19] $18.67 per kg $47.17 per kg
+205. [Page 19] $$11005500 $$1177 $$2266
+206. [Page 19] SAVE $1.50
+207. [Page 19] SAVE $3
+208. [Page 19] SAVE $7
+209. [Page 19] WAS $12kg WAS $20kg WAS $33kg
+210. [Page 19] Hormones Beef Corned Silverside $17.00 per kg. 2nd week on sale Chops $26.00 per kg
+211. [Page 19] $10.50 per kg
+212. [Page 19] $$1166
+213. [Page 19] SAVE $3
+214. [Page 19] WAS $19kg FRESH PORK
+215. [Page 19] Large Pack $16.00 per kg. 2nd week on sale Serving suggestion only
+216. [Page 20] SAVE $1
+217. [Page 20] $$8855 00
+218. [Page 20] $$1100
+219. [Page 20] SAVE $1
+220. [Page 20] WAS $9.50 DOWN DOWN
+221. [Page 20] SAVE 50¢ WA S $11
+222. [Page 20] WAS $3.50 Coles Bakery Apple OCT 2025
+223. [Page 20] Coles Bakery Pastries 2 Pack $4.25 per each. Selected stores Coles Chocolate Party Cake
+224. [Page 20] $1.50 per each. Selected stores only only. From the Patisserie fridge. 16 Slice 700g $1.43 per 100g.
+225. [Page 20] $$4455 00
+226. [Page 20] $$119900 $$4455 00
+227. [Page 20] WAS $5 SAVE $1
+228. [Page 20] WAS $5.50
+229. [Page 20] or Baguette 1 Each $1.90 per each. Pane di Casa $4.50 per each. $0.79 per 100g
+230. [Page 21] $$111155 $$2266 00 $$3344 00
+231. [Page 21] 1.25 Litre $0.92 per litre 400g $0.65 per 100g $0.49 per 100g
+232. [Page 21] $$4433 00 $$6655 00 $$6655 00
+233. [Page 21] $4.78 per kg. $26.00 per kg Burrata 150g $43.33 per kg
+234. [Page 21] $$1122 $$1188
+235. [Page 21] Dino Nuggets 1kg $9.00 per kg 24x600mL $0.83 per litre $7.20 per litre
+236. [Page 22] $32.00 per kg
+237. [Page 22] $4.90 per kg
+238. [Page 23] $12.00 per kg
+239. [Page 23] $$2255 00 $$11999900
+240. [Page 23] 250g Pack $10.00 per kg $19.90 per kg
+241. [Page 23] $$99 $$1144
+242. [Page 23] SAVE $2 SAVE $2
+243. [Page 23] WAS $16
+244. [Page 23] $18.67 per kg
+245. [Page 23] WAS $7 NOV 2025
+246. [Page 23] $7.50 per kg
+247. [Page 24] $$1177 55 $$2244 55 $$11335500
+248. [Page 24] SAVE $1.75 SAVE $2.45 SAVE $13.50
+249. [Page 24] WAS $3.50 WAS $4.90 WAS $27
+250. [Page 24] $18.42 per kg 190g-220g $0.27 per 100g
+251. [Page 24] $$3322 55 $$4422 55 $$7722 55
+252. [Page 24] SAVE $3.25 SAVE $4.25 SAVE $7.25
+253. [Page 24] WAS $6.50 WAS $8.50 WAS $14.50
+254. [Page 24] $0.33 per 100g 8 Pack $0.53 per each Excludes Decaf.
+255. [Page 24] $$66 $$77
+256. [Page 24] $$2266
+257. [Page 24] SAVE $2.50 SAVE $11.50
+258. [Page 24] WAS $8.50 WAS $37.50
+259. [Page 24] or Granola 650g-750g $0.58 per 100g Coffee 400g $6.50 per 100g
+260. [Page 25] $$2233 00 $$3333 55 $$11335500
+261. [Page 25] Firm Tofu 300g $0.77 per 100g $10.98 per litre 750g $18.00 per kg
+262. [Page 25] $$1100
+263. [Page 25] SAVE $1.50 SAVE $1
+264. [Page 25] WAS $7.50 WAS $11
+265. [Page 25] $24.00 per kg $20.00 per kg
+266. [Page 25] $$77 $$88 $$885500
+267. [Page 25] SAVE $2 SAVE $2 SAVE $4
+268. [Page 25] 220g 130g $1.31 per 100g
+269. [Page 25] Bonus * Spend $20 in one transaction, scan your Flybuys and receive one bonus
+270. [Page 25] brand, per transaction. $20 spend excludes the purchase of Coles Insurance
+271. [Page 25] and spend $20 in one transaction fees and liquor purchases in WA North and NT. For full terms & conditions visit
+272. [Page 26] $$$$660055000000 $$$$ 0011550000
+273. [Page 26] WWAASS $$70..5000 WWAAS S$ 0$1.090
+274. [Page 26] $1.91 per 100g $3.00 per 100g
+275. [Page 26] $$443355
+276. [Page 26] $$88 $$55
+277. [Page 26] $$1100
+278. [Page 26] SAVE $1.30 SAVE $2.50
+279. [Page 26] WAS $6.30 WAS $12.50
+280. [Page 26] 150g $29.00 per kg Apricots 500g Australian Peanut Chocolate Spread 750g
+281. [Page 26] $16.00 per kg Butter 280g-375g $1.33 per 100g
+282. [Page 26] $$3355
+283. [Page 26] $$11005500 $$1111 $$33665500 eeaa
+284. [Page 26] eeaa eeaa eeaa SAVE $9
+285. [Page 26] WAS $44
+286. [Page 26] SAVE $4.50 SAVE $5 SAVE $9.50
+287. [Page 26] WAS $15 WAS $16 WAS $46 Lavazza Espresso
+288. [Page 26] Lavazza A Modo Mio Vittoria Coffee Bags Grinders Coffee Beans 1kg $3.50 per 100g.
+289. [Page 26] Coffee Capsules 16 Pack 20 Pack $0.55 per each. 1kg $3.65 per 100g. Excludes Organic.
+290. [Page 26] $0.66 per each On sale for 2 weeks Excludes Café-Q On sale for 2 weeks
+291. [Page 27] $$11332200 $$1166
+292. [Page 27] SAVE $8.80 SAVE $11
+293. [Page 27] WAS $22 WAS $27
+294. [Page 27] 750mL $1.76 per 100mL $1.60 per 100mL
+295. [Page 27] $$3311 55 $$3355 00
+296. [Page 27] SAVE 90¢ SAVE $1.35 SAVE $1
+297. [Page 27] WAS $2.90 WAS $4.50 WAS $4.50
+298. [Page 27] 300g $0.67 per 100g. $0.32 per 100g $1.52 per 100g
+299. [Page 27] $$4444 00 $$4400 $$5500
+300. [Page 27] SAVE $1.10 SAVE $9 SAVE $15
+301. [Page 27] WAS $5.50 WAS $49 WAS $65
+302. [Page 27] Mix 380g-630g Noodles 12 Pack 3.78 Litre 3 Litre $1.67 per 100mL
+303. [Page 27] On sale for 2 weeks 864g-888g $1.06 per 100mL
+304. [Page 28] eeaa $$445500
+305. [Page 28] SAVE $7.25
+306. [Page 28] WAS $14.50
+307. [Page 28] Excludes Specialty Blend *See page 25 for T&Cs 6x200mL $3.75 per litre
+308. [Page 28] $$4455 00 $$5555 00 $$7755 00
+309. [Page 28] SAVE $2.50 SAVE $1.50 SAVE $2
+310. [Page 28] WAS $7 WAS $7 WAS $9.50
+311. [Page 28] Crunchy Nut Corn Flakes 380g Sachets 368g $1.49 per 100g 620g-705g On sale for 2 weeks
+312. [Page 28] $$7755 00 $$885500 $$1188
+313. [Page 28] SAVE $2
+314. [Page 28] WAS $9.50
+315. [Page 28] On sale for 2 weeks $1.70 per 100g. Breakfast 12x250mL $6.00 per litre
+316. [Page 29] SAVE $2
+317. [Page 30] $$1122 $$1166
+318. [Page 30] SAVE $8
+319. [Page 30] SAVE $4
+320. [Page 30] WAS $20
+321. [Page 30] $3.20 per litre $5.33 per litre
+322. [Page 30] $$1166 22 $$332200 $$55 ffoorr
+323. [Page 30] SAVE $1.63 SAVE $1.40
+324. [Page 30] WAS $3.25
+325. [Page 30] Water 1.25 Litre $2.56 per litre Water 1.5 Litre
+326. [Page 30] $1.30 per litre $1.67 per litre
+327. [Page 31] $$1111
+328. [Page 31] SAVE $11
+329. [Page 31] WAS $22
+330. [Page 31] $11.00 per kg
+331. [Page 32] $$3344 00
+332. [Page 32] $$11225500
+333. [Page 32] Twin Pack 450g $0.76 per 100g 600g $1.00 per 100g $0.69 per 100g
+334. [Page 32] $$229955 $$3344 00
+335. [Page 32] SAVE $1.35 SAVE 85¢
+336. [Page 32] WAS $4.30 WAS $4.25
+337. [Page 32] $8.94 per litre $6.80 per litre. On sale for 2 weeks
+338. [Page 32] $$228800 $$3399 55 $$4455 00
+339. [Page 32] SAVE 70¢ SAVE $1 SAVE $1.50
+340. [Page 32] WAS $3.50 WAS $4.95 WAS $6
+341. [Page 32] $5.60 per litre $9.88 per litre 500g $0.90 per 100g.
+342. [Page 33] $$3333 00
+343. [Page 33] SAVE $1
+344. [Page 33] WAS $4.30
+345. [Page 34] $$445500 $$445500 $$447700
+346. [Page 34] WA S $5 WAS $5.20 WAS $5.20
+347. [Page 34] Juice 1 Litre $4.50 per litre $0.90 per 100g $1.88 per 100g
+348. [Page 34] $$663300 $$667755
+349. [Page 34] WA S $7 WAS $7.50 WAS $8.95
+350. [Page 34] 200g $31.50 per kg 250g $27.00 per kg $0.70 per 100g
+351. [Page 34] $$775500
+352. [Page 34] $$11335500
+353. [Page 34] WAS $9.20 WA S $9 WA S $15
+354. [Page 34] or Slices 250g $28.00 per kg $18.75 per kg $0.68 per 100g
+355. [Page 35] eeaa $$2211 55
+356. [Page 35] SAVE $1.50 eeaa
+357. [Page 35] WAS $2.95 SAVE 55¢
+358. [Page 35] WAS $2.70
+359. [Page 35] 140g-150g Added 150g $1.43 per 100g
+360. [Page 35] $$2244 55 $$4422 00 $$449955
+361. [Page 35] SAVE 65¢ SAVE $1.80
+362. [Page 35] WAS $3.10 WAS $6
+363. [Page 35] Pouch 150g $1.63 per 100g 4x115g $0.91 per 100g $0.50 per 100g
+364. [Page 35] $$6699 55
+365. [Page 35] $$1100
+366. [Page 35] SAVE $2.50
+367. [Page 35] Pouch 140g $1.43 per 100g 700g $1.14 per 100g Yogurt 950g-1kg
+368. [Page 36] $$55 $$66
+369. [Page 36] SAVE $5 SAVE $6
+370. [Page 36] WAS $10 WAS $12
+371. [Page 36] 472mL-750mL $0.30 per 100mL
+372. [Page 36] $$885500
+373. [Page 36] $$44 $$77
+374. [Page 36] SAVE $1 SAVE $2 WA S $12
+375. [Page 36] WAS $5 WAS $9 OCT 2025
+376. [Page 36] Blueberries 300g or Cyclone Sticks 5 Pack-10 Pack $0.85 per 100mL
+377. [Page 36] $$ AA 99 nnyy 55 ffoo 00 rr $$8877 00 $$773300 $$665500
+378. [Page 36] SAVE $9.50
+379. [Page 36] SAVE $2.20
+380. [Page 36] WAS $10.90
+381. [Page 36] 475mL-490mL $0.22 per 100mL $0.88 per 100mL 400mL $1.63 per 100mL
+382. [Page 37] SAVE $5.40 eeaa
+383. [Page 37] WAS $13.50 SAVE $2
+384. [Page 37] WAS $8
+385. [Page 37] $1.77 per 100mL 8 Pack 544mL-590mL
+386. [Page 37] $$8844 00 $$8855 00 $$8855 00
+387. [Page 37] SAVE $2.60 SAVE $4 SAVE $3
+388. [Page 37] WAS $11 WAS $12.50 WAS $11.50
+389. [Page 37] Dessert Tub 475mL $1.77 per 100mL 4 Pack 380mL $2.24 per 100mL $1.52 per 100mL. On sale for 2 weeks
+390. [Page 37] $$9955 00 $$1100 $$1100
+391. [Page 37] SAVE $5 SAVE $3.50 SAVE $2.50
+392. [Page 37] WAS $14.50 WAS $13.50 WAS $12.50
+393. [Page 37] 427mL-458mL $2.00 per 100mL. On sale for 2 weeks 500mL $2.00 per 100mL
+394. [Page 38] $$4422 55
+395. [Page 38] SAVE $4.25 SAVE $6.60
+396. [Page 38] WAS $8.50 WAS $12.60
+397. [Page 38] 230g $1.85 per 100g 380g $15.79 per kg
+398. [Page 38] $$33 $$55
+399. [Page 38] $$4499 00
+400. [Page 38] SAVE $1.30
+401. [Page 38] WAS $6.20
+402. [Page 38] 500g $6.00 per kg Rosemary Chips 600g $6.67 per kg
+403. [Page 38] $8.17 per kg
+404. [Page 38] $$1100
+405. [Page 38] $$8888 00 $$9999 55
+406. [Page 38] SAVE $2.20 SAVE $3 WAS $12.50
+407. [Page 38] WAS $11 WAS $12.95 OCT 2025
+408. [Page 38] $23.16 per kg 300g $33.17 per kg 1kg $10.00 per kg
+409. [Page 39] $$3355 00 $$4455 00 $$4455 00
+410. [Page 39] SAVE $1.50 SAVE $2 SAVE $2
+411. [Page 39] WAS $5 WAS $6.50 WAS $6.50
+412. [Page 39] Regular or Super 16 Pack Ultra Thin or Extra 12 Pack 8 Pack $0.56 per each
+413. [Page 39] $0.22 per each $0.38 per each
+414. [Page 39] $$5555 00 $$8866 00
+415. [Page 39] SAVE $3
+416. [Page 39] SAVE $2.50 WAS $10 SAVE $3.70
+417. [Page 39] WAS $8 WAS $12.30
+418. [Page 39] 165mL $3.33 per 100mL 200g $3.50 per 100g. Whitening or Cool Mint
+419. [Page 39] *See page 25 for T&Cs Toothpaste 100g^ $8.60 per 100g
+420. [Page 39] $$1177 $$2244
+421. [Page 39] SAVE $7.40
+422. [Page 39] WAS $24.40
+423. [Page 39] 40 Pack^ $0.43 per each 2.5mL $28.00 per 10mL $10.00 per 10mL
+424. [Page 40] $$2244 00
+425. [Page 40] $$1100
+426. [Page 40] SAVE $1.60 SAVE $4 SAVE $7
+427. [Page 40] WAS $4 WAS $10 WAS $17
+428. [Page 40] 150g $1.60 per 100g 500mL $1.20 per 100mL 10 Pack-12 Pack
+429. [Page 40] $$1155 00
+430. [Page 40] $$11119900 $$2200
+431. [Page 40] eeaa $$1155
+432. [Page 40] WAS $1.80 SAVE $5.10 SAVE $5
+433. [Page 40] WAS $17 WAS $25 SAVE $2.50
+434. [Page 40] Heinz 4 Months+, WAS $17.50
+435. [Page 40] $1.25 per 100g Sleeptime Wash 500mL Drink 800g 26 Pack-54 Pack
+436. [Page 40] *See page 25 for T&Cs $2.38 per 100mL $2.50 per 100g On sale for 2 weeks
+437. [Page 40] $$2288 $$775500
+438. [Page 40] $$2200
+439. [Page 40] eeaa $$4455 00
+440. [Page 40] SAVE $7 eeaa
+441. [Page 40] WAS $35 SAVE $5 DOWN DOWN
+442. [Page 40] SAVE $2.54 WAS $25 WA S $12
+443. [Page 40] Huggies Pure & WAS $7.04 NOV 2025
+444. [Page 40] On sale for 2 weeks. Continence Liners 12 Pack $1.67 per each. 1 Litre $0.75 per 100mL
+445. [Page 40] *See page 25 for T&Cs 20 Pack $0.23 per each 2nd week on sale
+446. [Page 41] $$6666 00 $$1188
+447. [Page 41] $$11662200
+448. [Page 41] SAVE $4.40 SAVE $12
+449. [Page 41] SAVE $10.80 WAS $11 WAS $30
+450. [Page 41] WAS $27
+451. [Page 41] 1 Pack $16.20 per each. $1.94 per 100mL. Lamination 200mL
+452. [Page 41] $$3366
+453. [Page 41] $$9955 00 $$3366
+454. [Page 41] SAVE $24
+455. [Page 41] SAVE $6.50 SAVE $24 WAS $60
+456. [Page 41] WAS $16 WAS $60
+457. [Page 41] $9.50 per 100g. Night Cream 50g $72.00 per $72.00 per 100g.
+458. [Page 41] $$66 $$99
+459. [Page 41] $$1144
+460. [Page 41] SAVE $4.50
+461. [Page 41] WAS $10.50
+462. [Page 41] 207mL $2.90 per 100mL 500mL^ $1.80 per 100mL 1 Litre^ $1.40 per 100mL
+463. [Page 42] $$22445500
+464. [Page 42] SAVE $24.50 SAVE $6
+465. [Page 42] WAS $49 WAS $12
+466. [Page 42] 46 Pack $0.53 per each. On sale for 2 weeks $0.05 per each. On sale for 2 weeks
+467. [Page 42] $$6666 00
+468. [Page 42] $$11222255
+469. [Page 42] SAVE $4.40 SAVE $2 SAVE $5.25
+470. [Page 42] WAS $11 WAS $5 WAS $17.50
+471. [Page 42] $2.20 per 100g. 3 Pack $1.67 per 100 sheets Crawling Insect Surface Spray 350g
+472. [Page 42] On sale for 2 weeks $3.50 per 100g. *See page 25 for T&Cs
+473. [Page 42] $$445500
+474. [Page 42] $$448800 $$1111
+475. [Page 42] WA S $5
+476. [Page 42] Domestic Cleaning Wipes 20 Pack $0.31 per 100 sheets Cherry Blossom Large 20 Pack
+477. [Page 42] 50 Pack $0.10 per each $0.23 per each
+478. [Page 42] $$336600 $$447700
+479. [Page 42] WA S $4 WAS $5.25
+480. [Page 42] 750mL $0.48 per 100mL Sandwich Bags 100 Pack
+481. [Page 42] $0.05 per each
+482. [Page 43] eeaa $$9988 00
+483. [Page 43] SAVE $4 eeaa
+484. [Page 43] WAS $10 SAVE $4.20
+485. [Page 43] WAS $14
+486. [Page 43] $1.01 per 100g $1.31 per 100g
+487. [Page 43] $$3322 00 $$11668800
+488. [Page 43] SAVE 80¢ SAVE $7.20 SAVE $2
+489. [Page 43] WAS $4 WAS $24 WAS $10
+490. [Page 43] 4x12g $6.67 per 100g $0.60 per each. $1.33 per 100g
+491. [Page 43] $$2277
+492. [Page 43] $$1144 $$1100
+493. [Page 43] SAVE $6 SAVE $3.30 WA S $36
+494. [Page 43] WAS $20 WAS $13.30 OCT 2025
+495. [Page 43] $0.47 per 100g 1.7kg $0.59 per 100g. 6.7kg-7kg
+496. [Page 43] $$1166 00 $$2211
+497. [Page 43] $0.40 per 100g $1.03 per 100g
+498. [Page 44] $$11445500
+499. [Page 44] SAVE $14.50 SAVE $7
+500. [Page 44] WAS $29 WAS $14
+501. [Page 44] $0.73 per each On sale for 2 weeks
+502. [Page 44] SAVE $3
+503. [Page 44] WAS $10
+504. [Page 44] $7.00 per each 29cm While stocks last. $0.30 per each.
+505. [Page 44] $$1122 $$2255
+506. [Page 44] cards per customer per day applies. $20 = 400 Flybuys Points; $30 = 600 Flybuys Points; $50 = 1,000 Flybuys Points; $100 = 2,000 Flybuys
+507. [Page 44] Points; $200 = 4,000 Flybuys Points. While stocks last, no rainchecks. Gift Cards can't be used to purchase other Gift Cards at Coles.
+508. [Page 45] $$448899
+509. [Page 45] SAVE $110
+510. [Page 45] WAS $599
+511. [Page 45] $$2255 $$222299 $$3399 $$113399
+512. [Page 45] SAVE $34 SAVE $121 SAVE $20 SAVE $30
+513. [Page 45] WAS $59 WAS $350 WAS $59 WAS $169
+514. [Page 45] Optus $59 Prepaid SIM Optus $350 Prepaid SIM Optus X Lite 4 4G Optus X Pro 5G
+515. [Page 45] apply, see individual packs. Limit 5 per customer. Optus $59 SIM: Activate by 10/3/26 for bonus data on first 3 recharges within
+516. [Page 45] 90 days of activation. 28 day expiry. Optus $350 SIM: 300GB first 3 recharges within 3 years of activation. 220GB thereafter.
+517. [Page 46] $$4499 $$112299 $$9999
+518. [Page 46] SAVE $30 SAVE $20 SAVE $100
+519. [Page 46] WAS $79 WAS $149 WAS $199
+520. [Page 46] $$7799 $$1133 $$111199
+521. [Page 46] SAVE $20 SAVE $22 $35 SAVE $61
+522. [Page 46] WAS $99 WAS $35 WAS $180
+523. [Page 46] Optus Optus Activate by 10/C3o/m26p.a Ptirbelep adeidv iSceIM re qfourir epdh.ones & tablets. Optus $180
+524. [Page 46] Portable $35 AutoRecharge Prepaid SIM
+525. [Page 46] $180 SIM Starter Kit offer ends 6/1/26. Motorola moto g35 5G, Optus $35 AutoRecharge only SIM Starter Kit offers end 13/1/26.
+526. [Page 46] recharge to an available plan of same value. See optus.com.au/prepaidplans for full plan details. $35 SIM Starter Kit: Includes
+527. [Page 46] $35 recharge. AutoRecharge setup with credit/debit card required to activate. If AutoRecharge turned off, choose from our
+528. [Page 46] reverts to 20GB after 3rd recharge (or as otherwise notified). $180 SIM Starter Kit: Includes $180 recharge. New services only. First
+529. [Page 47] $$1100++ $$117799++ $$118899++
+530. [Page 47] SAVE $15 SAVE $41 SAVE $51
+531. [Page 47] WAS $25 WAS $220 WAS $240
+532. [Page 47] $25 Prepaid SIM $220 Prepaid SIM $240 Prepaid SIM
+533. [Page 47] requires recharge before expiry. $25 SIM Offer: Pay $10 for the $25 SIM by 13/1/26 and activate onto the $25 plan by 1/4/26 to
+534. [Page 47] to apply. Discount for first recharge only. Ongoing recharges revert to standard price of $25 every 28 days. Offer may be
+535. [Page 48] $63 $59 $13 $20
+536. [Page 48] $54 $56 $9 $13
+537. [Page 48] $33 $24 $87 $150
+538. [Page 48] $28 $18 $69 $110
+539. [Page 49] †††To qualify for this offer you must spend $250 or more in-store in one transaction. Excludes gift cards, smoking/tobacco product purchases.
+540. [Page 49] $50 discount will be loaded to your Flybuys card after your qualifying shop and cannot be used to redeem part of your qualifying transaction.
+541. [Page 49] $60 $49 2 $22
+542. [Page 49] $58 $47 $15
+543. [Page 49] 24x330mL SAVE $4 Sauvignon Blanc
+544. [Page 49] $54 $64 $82 $64
+545. [Page 49] $48 $57 $70 $57
+546. [Page 49] $10 OFF YOUR
+547. [Page 49] 2,000 points equates to $10 Flybuys dollars. For Flybuys dollars T&Cs visit flybuys.com.au

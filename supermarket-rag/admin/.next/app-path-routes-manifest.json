@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/admin/dashboard/route": "/api/admin/dashboard",
+  "/api/admin/logs/route": "/api/admin/logs",
+  "/api/admin/products/[id]/route": "/api/admin/products/[id]",
+  "/api/admin/products/route": "/api/admin/products",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/auth/logout/route": "/api/auth/logout",
+  "/login/page": "/login",
+  "/logs/page": "/logs",
+  "/page": "/",
+  "/products/page": "/products"
+}

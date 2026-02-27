@@ -1,0 +1,29 @@
+SUPERMARKET PRODUCT SUMMARY
+================================================================================
+
+
+Coles
+--------------------------------------------------------------------------------
+Total Products: 547
+
+Sample Products (first 10):
+
+1. [Page 1] $$2277 55
+2. [Page 1] SAVE $2.75 SAVE $2
+3. [Page 1] WAS $5.50 WAS $4
+4. [Page 1] $1.60 per litre
+5. [Page 1] $$2277 55 $$3366 00
+6. [Page 1] SAVE $2.75 SAVE $3.60
+7. [Page 1] WAS $5.50 WAS $7.20
+8. [Page 1] 1 Litre $2.75 per litre 24 Pack $0.15 per each
+9. [Page 1] $$1100
+10. [Page 1] SAVE $3
+
+... and 537 more products
+
+Woolworths
+--------------------------------------------------------------------------------
+Total Products: 0
+
+Sample Products (first 10):
+

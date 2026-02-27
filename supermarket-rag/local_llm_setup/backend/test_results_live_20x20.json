@@ -1,0 +1,375 @@
+{
+  "timestamp": "2026-02-14T15:03:53.359894",
+  "api_url": "https://xfukqtd5pc.us-east-1.awsapprunner.com",
+  "summary": {
+    "total_questions": 40,
+    "successful": 40,
+    "failed": 0,
+    "success_rate": "100.0%",
+    "general_success": "20/20",
+    "product_success": "20/20",
+    "multi_shop_coverage": "18/20 product questions"
+  },
+  "results": [
+    {
+      "index": 1,
+      "type": "general",
+      "question": "What are the current specials at Coles?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Arnott's Shapes Crackers 130g-190g | Coles | $2.00 | 1/2 Price, WAS $4, SAVE $2 |\n| V Energy Drink 4x250mL | Coles | $5.87 per litre | SAVE $5.88",
+      "has_multi_shop": false,
+      "response_time": 15.173695
+    },
+    {
+      "index": 2,
+      "type": "general",
+      "question": "Do you have any half-price deals this week?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Cadbury Favourites 264g-265g Celebrations Gift Box | Coles | $7.00 | 1/2 PRICE, SAVE $7, WAS $14 |\n| Mars Maltesers 400g or Darrell Lea Rocklea R",
+      "has_multi_shop": false,
+      "response_time": 14.350201
+    },
+    {
+      "index": 3,
+      "type": "general",
+      "question": "What's on sale at Woolworths?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Pasta Spirals 500g | Woolworths | $1.00 |  |\n| Pasta Risoni 500g | Woolworths | $2.50 |  |\n| Life Savers 150-205g | Woolworths | $2.50 | SAVE $2.",
+      "has_multi_shop": false,
+      "response_time": 15.58194
+    },
+    {
+      "index": 4,
+      "type": "general",
+      "question": "Are there any discounts on meat?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Primo Sliced Meat 80g-100g | Coles | $2.00 per 100mL | SAVE 70\u00a2 WAS $3.50 |\n| Australian Lamb Forequarter Chops | Woolworths | $19.00 per kg | SA",
+      "has_multi_shop": false,
+      "response_time": 4.534693
+    },
+    {
+      "index": 5,
+      "type": "general",
+      "question": "What chocolate is on special?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Mars Chocolate Bar 30g-50g | Coles | $1.25 | 1/2 Price, Save $1.75, Was $3 |\n| Nestl\u00e9 Chocolate Bar 35g-50g | Coles | $1.50 | 1/2 Price, Save $1.",
+      "has_multi_shop": false,
+      "response_time": 7.115292
+    },
+    {
+      "index": 6,
+      "type": "general",
+      "question": "Tell me about Valentine's Day deals",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Plush Rose - Assorted | Woolworths | $4.00 | SAVE $1 |\n| Novelty Plush - Assorted | Woolworths | $9.60 | SAVE $2.40 |\n| Plush Heart Cushion | Woo",
+      "has_multi_shop": false,
+      "response_time": 9.360082
+    },
+    {
+      "index": 7,
+      "type": "general",
+      "question": "What frozen treats are on sale?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coles Frozen Dulce De Leche Churros 240g | Coles | $7.00 | $2.92 per 100g |\n| Bulla Splits Varieties 1 Litre | Woolworths | $5.00 | SAVE $5 |\n| B",
+      "has_multi_shop": false,
+      "response_time": 5.008358
+    },
+    {
+      "index": 8,
+      "type": "general",
+      "question": "Are there any cat food promotions?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Dine Wet Cat Food | Woolworths | $5.00 | Pk 7 x 85g, SAVE $5 |\n| Fancy Feast Classics Wet Cat Food | Woolworths | $1.00 | 85g, SAVE 60\u00a2 |\n| Delec",
+      "has_multi_shop": false,
+      "response_time": 4.306953
+    },
+    {
+      "index": 9,
+      "type": "general",
+      "question": "What's the best deal on snacks?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Arnott's Shapes Crackers 130g-190g | Coles | $5.87 | SAVE $5.88 WAS $11.75 |\n| Thins Potato Chips 150-175g | Woolworths | $2.50 | SAVE $2.50 |\n| ",
+      "has_multi_shop": false,
+      "response_time": 9.534128
+    },
+    {
+      "index": 10,
+      "type": "general",
+      "question": "Any specials on breakfast items?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Uncle Tobys Muesli Bars 145-185g Pk 5-6 | Woolworths | $2.75 | SAVE $2.75 |\n| Nescaf\u00e9 Blend 43 140-150g | Woolworths | $7.25 | SAVE $7.25 |\n| Nes",
+      "has_multi_shop": false,
+      "response_time": 4.614594
+    },
+    {
+      "index": 11,
+      "type": "general",
+      "question": "What fruit and vegetables are on sale?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Australian Yellow or White Nectarines | Woolworths | $3.30/kg |  |\n| Coles Australian Cherry Tomatoes | Coles | $2.50/250g | $10.00 per kg |\n| Au",
+      "has_multi_shop": false,
+      "response_time": 2.72534
+    },
+    {
+      "index": 12,
+      "type": "general",
+      "question": "Are there any buy 2 for $15 deals?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Lean Cuisine, On The Menu or Ruffle Meal Bowls | Woolworths | N/A | ANY 2 FOR $10 |\n\nVerdict: There are no \"buy 2 for $15\" deals. Woolworths has ",
+      "has_multi_shop": false,
+      "response_time": 3.387657
+    },
+    {
+      "index": 13,
+      "type": "general",
+      "question": "What's on special in the dairy section?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Farmers Union Greek Yogurt Pouches 130g | Woolworths | $1.25 | SAVE $1.25 |\n| Dairy Farmers Thick & Creamy Yoghurt 140-150g | Woolworths | $1.45 ",
+      "has_multi_shop": false,
+      "response_time": 3.708665
+    },
+    {
+      "index": 14,
+      "type": "general",
+      "question": "Any deals on cleaning products?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Palmolive Liquid Hand Wash Refill 1 Litre | Coles | $5.25 | SAVE $2.25 WAS $7.50 |\n| Fairy 5 Power Action Dishwashing Tablets 70 Pack | Coles | $",
+      "has_multi_shop": false,
+      "response_time": 9.545993
+    },
+    {
+      "index": 15,
+      "type": "general",
+      "question": "What beverages are discounted?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| V Energy Drink | Coles | $5.87 per litre | SAVE $5.88 WAS $11.75 |\n| V Energy Drink | Woolworths | $8.35 | SAVE $8.40, 4 x 500ml |\n| Cocobella St",
+      "has_multi_shop": false,
+      "response_time": 4.821959
+    },
+    {
+      "index": 16,
+      "type": "general",
+      "question": "Are there any bakery specials?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coles Hot Cross Buns 3 Pack, 6 Pack or 9 Pack | Coles | $2.20 - $3 | SAVE 80\u00a2 |\n| Coles Bakery Stone Baked by Laurent Mini Pane di Casa 3 Pack or",
+      "has_multi_shop": false,
+      "response_time": 3.570282
+    },
+    {
+      "index": 17,
+      "type": "general",
+      "question": "What's on sale for dinner tonight?",
+      "status": "success",
+      "response": "Okay, I can help you with that! To give you the best recommendations, could you tell me what kind of dinner you're in the mood for? Are you thinking of something with chicken, beef, pasta, or maybe a ",
+      "has_multi_shop": false,
+      "response_time": 1.91242
+    },
+    {
+      "index": 18,
+      "type": "general",
+      "question": "Any health and beauty deals?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Blackmores Odourless Fish Oil 1000mg Capsules 200 Pack | Coles | $21.00 | 1/2 PRICE, SAVE $21, WAS $40, $10.50 per 100 each |\n| Blackmores Execut",
+      "has_multi_shop": false,
+      "response_time": 11.598331
+    },
+    {
+      "index": 19,
+      "type": "general",
+      "question": "What pet food is on special?",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Supercoat Dry Dog Food | Woolworths | $9.00 | SAVE $9 |\n| Supercoat Dry Dog Food | Woolworths | $9.00 | SAVE $9 |\n| Dine Wet Cat Food Pk 7 x 85g ",
+      "has_multi_shop": false,
+      "response_time": 4.217074
+    },
+    {
+      "index": 20,
+      "type": "general",
+      "question": "Are there any online-only offers?",
+      "status": "success",
+      "response": "Yes, both Coles and Woolworths often have online-only offers!\n\nTo help you find the best deals, are you interested in any particular product categories, like groceries, household items, or something e",
+      "has_multi_shop": false,
+      "response_time": 1.662077
+    },
+    {
+      "index": 1,
+      "type": "product",
+      "question": "ice cream price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coles Irresistible Salted Caramel Ice Cream Tub 1 Litre | Coles | $6.50 | $0.65 per 100mL |\n| Coles Frozen Dulce De Leche Churros 240g | Coles | ",
+      "has_multi_shop": true,
+      "response_time": 5.039754
+    },
+    {
+      "index": 2,
+      "type": "product",
+      "question": "milk price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| So Good Almond Milk | Woolworths | $1.50 | SAVE $1.50 |\n| Coles Coconut Milk | Coles | $1.77 | EVERY DAY |\n\nWoolworths is cheaper for Almond Milk",
+      "has_multi_shop": true,
+      "response_time": 2.377521
+    },
+    {
+      "index": 3,
+      "type": "product",
+      "question": "bread price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coles Asia Thick Egg Noodles | Coles | $2.15 | EVERY DAY |\n\nVerdict: Only Coles has egg noodles. Woolworths does not have any bread price related",
+      "has_multi_shop": true,
+      "response_time": 2.274977
+    },
+    {
+      "index": 4,
+      "type": "product",
+      "question": "chicken price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coles RSPCA Approved Chicken Schnitzel Crumbed | Coles | $4.50 | SAVE $1.50 |\n| Chicken Garlic Kyiv | Woolworths | $1.50 | SAVE $1.50 |\n| Woolwor",
+      "has_multi_shop": true,
+      "response_time": 4.631724
+    },
+    {
+      "index": 5,
+      "type": "product",
+      "question": "beef price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coles Australian Pork & Beef Bolognese Mince 500g | Coles | $5.00 | $10.00 per kg, SAVE $1.50, WAS $6.50 |\n| Coles Australian No Added Hormones B",
+      "has_multi_shop": true,
+      "response_time": 2.992521
+    },
+    {
+      "index": 6,
+      "type": "product",
+      "question": "chocolate price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Mars Chocolate Bar 30g-50g | Coles | $1.25 | 1/2 PRICE, SAVE $1.75, WAS $3 |\n| Nestl\u00e9 Chocolate Bar 35g-50g | Coles | $1.50 | 1/2 PRICE, SAVE $1.",
+      "has_multi_shop": true,
+      "response_time": 7.088307
+    },
+    {
+      "index": 7,
+      "type": "product",
+      "question": "coffee price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Nescaf\u00e9 Blend 43 Instant Coffee 140g-150g | Coles | $17.50 | SAVE $17.50 WAS $35 |\n| Nescaf\u00e9 Gold Instant Coffee Excludes Specialty Blend 140g-15",
+      "has_multi_shop": true,
+      "response_time": 4.061871
+    },
+    {
+      "index": 8,
+      "type": "product",
+      "question": "tea price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Twinings Tea Bags | Woolworths | $6.75 | SAVE $6.75 |\n| Twinings Tea Bags | Woolworths | $6.75 | SAVE $6.75 |\n\nWoolworths is the only store with ",
+      "has_multi_shop": false,
+      "response_time": 2.241716
+    },
+    {
+      "index": 9,
+      "type": "product",
+      "question": "cheese price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Perfect Italiano Cheese Varieties | Woolworths | $4.00 | Range was $4.50 |\n| Riverina Fetta Varieties | Woolworths | $4.70 | Range was $5.30 |\n| ",
+      "has_multi_shop": true,
+      "response_time": 3.798128
+    },
+    {
+      "index": 10,
+      "type": "product",
+      "question": "yogurt price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Farmers Union Greek Style Yogurt | Woolworths | $1.25 | SAVE $1.25 |\n| Chobani FIT Yogurt Pouch | Woolworths | $1.80 | SAVE $1.20 |\n| Chobani Fee",
+      "has_multi_shop": true,
+      "response_time": 3.504282
+    },
+    {
+      "index": 11,
+      "type": "product",
+      "question": "apple price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Woolworths Indulgent Apple & Cinnamon Hot Cross Buns | Woolworths | $4.40 | Pk 4 |\n| New Season Australian Royal Gala Apples | Woolworths | $4.90",
+      "has_multi_shop": true,
+      "response_time": 2.480531
+    },
+    {
+      "index": 12,
+      "type": "product",
+      "question": "banana price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Thawed Large Australian Green Banana Prawns | Woolworths | $15/kg | SAVE $7 |\n\nVERDICT: Only Woolworths has a deal on banana prawns. Coles does n",
+      "has_multi_shop": true,
+      "response_time": 2.421048
+    },
+    {
+      "index": 13,
+      "type": "product",
+      "question": "tomato price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coles Australian Cherry Tomatoes | Coles | $2.50 | $10.00 per kg |\n| MasterFoods Tomato Sauce | Woolworths | $2.50 | SAVE $1.70 |\n\nVerdict: Coles",
+      "has_multi_shop": true,
+      "response_time": 2.629386
+    },
+    {
+      "index": 14,
+      "type": "product",
+      "question": "potato price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Thins Potato Chips | Woolworths | $2.50 | SAVE $2.50 |\n\nVerdict: Only Woolworths has a deal on potato chips. Coles does not have any potato chip ",
+      "has_multi_shop": true,
+      "response_time": 2.232025
+    },
+    {
+      "index": 15,
+      "type": "product",
+      "question": "rice price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Sunrice Medium Grain Rice | Coles | $9.50 | 5kg $0.19 per 100g, SAVE $9.50, WAS $19 |\n| Sunrice Microwave Flavoured Rice Cups | Coles | $2.90 | 2",
+      "has_multi_shop": true,
+      "response_time": 3.150074
+    },
+    {
+      "index": 16,
+      "type": "product",
+      "question": "pasta price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| La Molisana High Protein Pasta 400g | Woolworths | $3.30 | WAS $4 |\n| Cucina Matese Pasta 500g | Coles | $2.50 | SAVE $1.50, WAS $6.50 |\n| Cucina",
+      "has_multi_shop": true,
+      "response_time": 3.709723
+    },
+    {
+      "index": 17,
+      "type": "product",
+      "question": "cereal price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Sanitarium Weet-Bix | Woolworths | $2.50 | SAVE $2.50, 575g |\n| Sanitarium Weet-Bix Bites | Woolworths | $3.25 | SAVE $3.25, 500-510g |\n| Weet-Bi",
+      "has_multi_shop": true,
+      "response_time": 2.992261
+    },
+    {
+      "index": 18,
+      "type": "product",
+      "question": "eggs price",
+      "status": "success",
+      "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Woolworths 6 Extra Large Free Range Eggs",
+      "has_multi_shop": false,
+      "response_time": 2.275279
+    },
+    {
+      "index": 19,
+      "type": "product",
+      "question": "butter price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Bega Peanut Butter | Woolworths | $3.45 | SAVE $3.45 |\n| Coles All Butter Croissants | Coles | $4.60 | SAVE 55\u00a2 WAS $5.15 |\n\nWoolworths is cheape",
+      "has_multi_shop": true,
+      "response_time": 3.198254
+    },
+    {
+      "index": 20,
+      "type": "product",
+      "question": "orange juice price",
+      "status": "success",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| The Juice Brothers Juice Varieties | Woolworths | $4.00 | SAVE $1, 1 Litre |\n\nVerdict: Only Woolworths has juice in the provided context. Coles d",
+      "has_multi_shop": true,
+      "response_time": 2.377748
+    }
+  ]
+}

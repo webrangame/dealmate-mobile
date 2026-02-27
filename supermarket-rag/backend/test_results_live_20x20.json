@@ -1,0 +1,375 @@
+{
+  "timestamp": "2026-02-21T18:27:29.303334",
+  "api_url": "https://xfukqtd5pc.us-east-1.awsapprunner.com",
+  "summary": {
+    "total_questions": 40,
+    "successful": 40,
+    "failed": 0,
+    "success_rate": "100.0%",
+    "general_success": "20/20",
+    "product_success": "20/20",
+    "multi_shop_coverage": "19/20 product questions"
+  },
+  "results": [
+    {
+      "index": 1,
+      "type": "general",
+      "question": "What are the current specials at Coles?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Valentine's Day Plush Rose Pink | None | Woolworths | National | $3.50 | SAVE $1.50 |\n| Australian No Added Hormones Beef",
+      "has_multi_shop": false,
+      "response_time": 6.033663
+    },
+    {
+      "index": 2,
+      "type": "general",
+      "question": "Do you have any half-price deals this week?",
+      "status": "success",
+      "response": "I'd love to help you find the best prices! Which product are you looking for today? (e.g., 'price of milk' or 'Sunrice rice deals')",
+      "has_multi_shop": false,
+      "response_time": 1.311315
+    },
+    {
+      "index": 3,
+      "type": "general",
+      "question": "What's on sale at Woolworths?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Birds Pack | None | Woolworths | National | $4 | SAVE $2 |\n| Pets Pack | None | Woolworths | National | $5 | SAVE $3 |\n| ",
+      "has_multi_shop": false,
+      "response_time": 4.041607
+    },
+    {
+      "index": 4,
+      "type": "general",
+      "question": "Are there any discounts on meat?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Sliced Meat | 80g-100g | Coles | NSW | $6.70 | SAVE $1.20 |\n| Party Meat Pies | 12 Pack 560g | Coles | NSW | $7.70 | SAVE",
+      "has_multi_shop": false,
+      "response_time": 3.931326
+    },
+    {
+      "index": 5,
+      "type": "general",
+      "question": "What chocolate is on special?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chocolate Bar | 30g-50g | Coles | National | $1.25 | SAVE $1.75 |\n| Chocolate Bar | 35g-50g | Coles | National | $1.50 | ",
+      "has_multi_shop": false,
+      "response_time": 5.100496
+    },
+    {
+      "index": 6,
+      "type": "general",
+      "question": "Tell me about Valentine's Day deals",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Valentine's Day Plush Rose Pink | None | Woolworths | National | $3.50 | SAVE $1.50 |\n| Valentine's Day Plush Rose Pink |",
+      "has_multi_shop": false,
+      "response_time": 4.757175
+    },
+    {
+      "index": 7,
+      "type": "general",
+      "question": "What frozen treats are on sale?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Irresistible Salted Caramel Ice Cream Tub | 1 Litre | Coles | National | $6.50 | None |\n\nVERDICT: Only Coles has the Irre",
+      "has_multi_shop": false,
+      "response_time": 3.248002
+    },
+    {
+      "index": 8,
+      "type": "general",
+      "question": "Are there any cat food promotions?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Purina One Wet Cat Food | 70g | Woolworths | National | $0.95 | SAVE 95 |\n| Whiskas Wet Cat Food Pk | 12 x 85g | Woolwort",
+      "has_multi_shop": false,
+      "response_time": 4.987235
+    },
+    {
+      "index": 9,
+      "type": "general",
+      "question": "What's the best deal on snacks?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| TeeVee Snacks or Wagon Wheels Biscuits | 175g-190g | Coles | NSW | $3.30 | SAVE $2.20, WAS $5.50 |\n\nVerdict: Coles NSW ha",
+      "has_multi_shop": false,
+      "response_time": 2.990771
+    },
+    {
+      "index": 10,
+      "type": "general",
+      "question": "Any specials on breakfast items?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Twinings English Breakfast | Pk 80-100 | Woolworths | National | $6.75 | SAVE $6.75 |\n| Twinings Tea Bags English Breakfa",
+      "has_multi_shop": false,
+      "response_time": 4.629427
+    },
+    {
+      "index": 11,
+      "type": "general",
+      "question": "What fruit and vegetables are on sale?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Australian Cherry Tomatoes | 250g Pack | Coles | National | $2.50 | None |\n\nVERDICT: Coles has Australian Cherry Tomatoes",
+      "has_multi_shop": false,
+      "response_time": 3.873468
+    },
+    {
+      "index": 12,
+      "type": "general",
+      "question": "Are there any buy 2 for $15 deals?",
+      "status": "success",
+      "response": "I'd love to help you find the best prices! Which product are you looking for today? (e.g., 'price of milk' or 'Sunrice rice deals')",
+      "has_multi_shop": false,
+      "response_time": 1.288019
+    },
+    {
+      "index": 13,
+      "type": "general",
+      "question": "What's on special in the dairy section?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Pauls Plus+ High Protein Dairy Snack Pot | 160g | Woolworths | National | $2.45 | 65\u00b0 |\n| Pauls Plus+ High Protein Dairy ",
+      "has_multi_shop": false,
+      "response_time": 4.427334
+    },
+    {
+      "index": 14,
+      "type": "general",
+      "question": "Any deals on cleaning products?",
+      "status": "success",
+      "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Coles | Coles | $15 | [View](https://www",
+      "has_multi_shop": false,
+      "response_time": 6.960661
+    },
+    {
+      "index": 15,
+      "type": "general",
+      "question": "What beverages are discounted?",
+      "status": "success",
+      "response": "Based on the provided context, there are no beverages listed as discounted in either Coles or Woolworths.\n\n| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\nProduct not foun",
+      "has_multi_shop": false,
+      "response_time": 3.116811
+    },
+    {
+      "index": 16,
+      "type": "general",
+      "question": "Are there any bakery specials?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bakery Mud Cake | 600g | Coles | National | $6.00 | SAVE 60\u00a2 |\n| Bakery Mud Cake | 600g | Coles | NSW | $6.00 | SAVE 60\u00a2 ",
+      "has_multi_shop": false,
+      "response_time": 3.605602
+    },
+    {
+      "index": 17,
+      "type": "general",
+      "question": "What's on sale for dinner tonight?",
+      "status": "success",
+      "response": "Product not found.",
+      "has_multi_shop": false,
+      "response_time": 1.452968
+    },
+    {
+      "index": 18,
+      "type": "general",
+      "question": "Any health and beauty deals?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bone & Muscle Health Tablets | 100 Pack | Coles | NSW | $10.50 | SAVE $10.50 |\n| Mascara & Lipstick | None | Woolworths |",
+      "has_multi_shop": false,
+      "response_time": 5.032033
+    },
+    {
+      "index": 19,
+      "type": "general",
+      "question": "What pet food is on special?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Purina One Wet Cat Food | 70g | Woolworths | National | $0.95 | SAVE 95 |\n| Whiskas Wet Cat Food Pk | 12 x 85g | Woolwort",
+      "has_multi_shop": false,
+      "response_time": 4.257767
+    },
+    {
+      "index": 20,
+      "type": "general",
+      "question": "Are there any online-only offers?",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Valentine's Day Plush Rose Pink | None | Coles | National | $3.50 | SAVE $1.50 |\n| Birds Pack | None | Woolworths | Natio",
+      "has_multi_shop": false,
+      "response_time": 3.539203
+    },
+    {
+      "index": 1,
+      "type": "product",
+      "question": "ice cream price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Connoisseur Ice Cream | 1 Litre | Woolworths | National | $6.00 | SAVE $6 |\n| Coles Irresistible Salted Caramel Ice Cream",
+      "has_multi_shop": true,
+      "response_time": 4.946456
+    },
+    {
+      "index": 2,
+      "type": "product",
+      "question": "milk price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Devondale Milk Full Cream | 6 x 200ml | Woolworths | National | $5.40 | None |\n| Devondale Milk Full Cream | 6 x 200ml | ",
+      "has_multi_shop": true,
+      "response_time": 4.250658
+    },
+    {
+      "index": 3,
+      "type": "product",
+      "question": "bread price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bread Roll Varieties | Pk 6 | Woolworths | National | $3.00 | None |\n| Bread Roll Varieties | Pk 6 | Woolworths | NSW | $",
+      "has_multi_shop": true,
+      "response_time": 3.60642
+    },
+    {
+      "index": 4,
+      "type": "product",
+      "question": "chicken price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| RSPCA Approved Chicken Schnitzel Crumbed | None | Coles | National | $1.50 | SAVE $1.50 |\n| RSPCA Approved Chicken Schnit",
+      "has_multi_shop": true,
+      "response_time": 5.663057
+    },
+    {
+      "index": 5,
+      "type": "product",
+      "question": "beef price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Australian No Added Hormones Beef Eye Fillet Steak | 450g | Coles | National | $22 | SAVE $3 |\n| Australian No Added Horm",
+      "has_multi_shop": true,
+      "response_time": 6.62134
+    },
+    {
+      "index": 6,
+      "type": "product",
+      "question": "chocolate price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chocolate Bar | 30g-50g | Coles | National | $1.25 | SAVE $1.75 |\n| Chocolate Bar | 35g-50g | Coles | National | $1.50 | ",
+      "has_multi_shop": true,
+      "response_time": 6.521686
+    },
+    {
+      "index": 7,
+      "type": "product",
+      "question": "coffee price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Jarrah Coffee or Hot Choc Sachets Pk 10 or Coffee Tins | 250g | Woolworths | National | $4.25 | SAVE $4.25 |\n| Jarrah Cof",
+      "has_multi_shop": true,
+      "response_time": 6.47139
+    },
+    {
+      "index": 8,
+      "type": "product",
+      "question": "tea price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Ice Tea | 1.25 Litre | Coles | NSW | $2.00 | None |\n| Tea Bags English Breakfast | Pk 80-100 | Woolworths | National | $6",
+      "has_multi_shop": true,
+      "response_time": 3.338709
+    },
+    {
+      "index": 9,
+      "type": "product",
+      "question": "cheese price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bega Block, Grated or Sliced Cheese | 250g | Woolworths | National | $6.00 | SAVE $1.50 |\n| Primo Kransky Double Smoked o",
+      "has_multi_shop": true,
+      "response_time": 5.217519
+    },
+    {
+      "index": 10,
+      "type": "product",
+      "question": "yogurt price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chobani Greek Yogurt Pot | 160g | Woolworths | National | $2.15 | 55\u00b0 |\n| Chobani Greek Yogurt Pot | 160g | Woolworths | ",
+      "has_multi_shop": true,
+      "response_time": 3.899996
+    },
+    {
+      "index": 11,
+      "type": "product",
+      "question": "apple price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Apples | kg | Woolworths | National | $4.90 | None |\n| Royal Gala Apples New Season | kg | Woolworths | National | $4.90 ",
+      "has_multi_shop": true,
+      "response_time": 4.071032
+    },
+    {
+      "index": 12,
+      "type": "product",
+      "question": "banana price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Green Banana Prawns | kg | Woolworths | National | $15.00 | SAVE $7 |\n| Thawed Large Australian Green Banana Prawns | Non",
+      "has_multi_shop": true,
+      "response_time": 4.164359
+    },
+    {
+      "index": 13,
+      "type": "product",
+      "question": "tomato price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Australian Cherry Tomatoes | 250g Pack | Coles | National | $2.50 | None |\n| Australian Cherry Tomatoes | 250g Pack | Col",
+      "has_multi_shop": true,
+      "response_time": 4.323098
+    },
+    {
+      "index": 14,
+      "type": "product",
+      "question": "potato price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Mashing or Roasting Potatoes | 1.5 kg Pack | Woolworths | National | $5.50 | None |\n| Duck Fat Roast Potatoes | 600g | Wo",
+      "has_multi_shop": true,
+      "response_time": 4.730276
+    },
+    {
+      "index": 15,
+      "type": "product",
+      "question": "rice price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Medium Grain Rice | 5kg | Coles | National | $9.50 | SAVE $9.50 |\n| Medium Grain Rice | 5kg | Coles | NSW | $9.50 | SAVE ",
+      "has_multi_shop": true,
+      "response_time": 5.571193
+    },
+    {
+      "index": 16,
+      "type": "product",
+      "question": "pasta price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Cucina Matese Pasta | 500g | Coles | National | $2.80 | None |\n| Cucina Matese Pasta | 500g | Coles | NSW | $2.80 | None ",
+      "has_multi_shop": true,
+      "response_time": 3.893403
+    },
+    {
+      "index": 17,
+      "type": "product",
+      "question": "cereal price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Oats 1 kg or Fruity Bites Wildberry Cereal | 500g | Woolworths | National | $3.25 | SAVE $3.25 |\n| Oat Crisp Cereal | 415",
+      "has_multi_shop": true,
+      "response_time": 3.811739
+    },
+    {
+      "index": 18,
+      "type": "product",
+      "question": "eggs price",
+      "status": "success",
+      "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Egg Index: How Much Eggs Cost in Superma",
+      "has_multi_shop": false,
+      "response_time": 4.016459
+    },
+    {
+      "index": 19,
+      "type": "product",
+      "question": "butter price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Flora Buttery | None | Woolworths | National | $7.00 | None |\n| Flora Buttery | None | Woolworths | NSW | $7.00 | None |\n",
+      "has_multi_shop": true,
+      "response_time": 3.805779
+    },
+    {
+      "index": 20,
+      "type": "product",
+      "question": "orange juice price",
+      "status": "success",
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Impressed Cold Pressed Juice | 1 Litre | Woolworths | National | $4.95 | SAVE 55\u00b0 |\n| Impressed Cold Pressed Juice | 1 Li",
+      "has_multi_shop": true,
+      "response_time": 3.303464
+    }
+  ]
+}

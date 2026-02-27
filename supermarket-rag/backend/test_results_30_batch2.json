@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the price of Arnott's Scotch Finger 250g in Coles?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Arnott's Scotch Finger Biscuits 250g | Coles | $1.95 | SAVE $1.35 WAS $3.30 |\n\n**Verdict**: Coles has Arnott's Scotch Finger Biscuits 250g for $1.95.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 5.574215412139893
+  },
+  {
+    "question": "How much is Arnott's Tina Wafer 250g?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Arnott's Tina Wafer Biscuits 250g | Coles | $1.95 | SAVE $1 WAS $3 |\n\n**Verdict**: Coles is the only store with the product.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 12.427520036697388
+  },
+  {
+    "question": "Is Arnott's Hundreds & Thousands on sale in Coles?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Arnott's Hundreds & Thousands Biscuits | Coles | $1.95 | SAVE $1 WAS $3 |\n\n**Verdict**: Arnott's Hundreds & Thousands Biscuits are on sale at Coles for $1.95.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 10.44225549697876
+  },
+  {
+    "question": "Price of Iced Vovo Biscuits 200g-210g?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Iced Vovo Biscuits 200g-210g | Coles | $1.95 | SAVE $1 WAS $3.30 |\n\n**Verdict**: Coles is the only store listed with the Iced Vovo Biscuits 200g-210g for $1.95.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 8.08720850944519
+  },
+  {
+    "question": "What is the deal for Sukin Hand Wash 500ml in Coles?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Sukin Hand Wash 500ml | Coles | Not found | Not found |\n| Sukin Hand Wash 500ml | Woolworths | $6.00 | SAVE $6 |\n\n**Verdict**: Woolworths is cheaper because the Sukin Hand Wash 500ml is priced at $6.00 and has a $6 saving, while the product was not found at Coles.\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 3.2815940380096436
+  },
+  {
+    "question": "How much is Sunsilk Shampoo 700ml in Coles?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Sunsilk Shampoo 700ml | Coles | Not found |  |\n| Sunsilk Shampoo 700ml | Woolworths | $6.75 | SAVE $6.75 |\n\n**Verdict**: Sunsilk Shampoo 700ml is available at Woolworths for $6.75. It is not found in Coles.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 10.268481492996216
+  },
+  {
+    "question": "Price of Vaseline Intensive Care Body Lotion 750ml?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Vaseline Intensive Care Body Lotion 750ml | Coles | Not found | Not found |\n| Vaseline Intensive Care Body Lotion 750ml | Woolworths | $8.75 | SAVE $8.75 |\n\n**Verdict**: Woolworths is cheaper because they have Vaseline Intensive Care Body Lotion 750ml for $8.75, while it is not found at Coles.\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 4.496880292892456
+  },
+  {
+    "question": "What is the price of John Frieda Premium Shampoo 250ml?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| John Frieda Premium Shampoo 250ml | Coles | $16 - $8.40 = $7.60 | SAVE $8.40, WAS $16 |\n| John Frieda Premium Shampoo 250ml | Woolworths | $10.50 | SAVE $10.50 |\n\n**Verdict**: Coles has John Frieda Premium Shampoo 250ml for $7.60, while Woolworths has it for $10.50. Therefore, Coles is cheaper.\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 2.7290866374969482
+  },
+  {
+    "question": "How much is Revlon Illuminance Glow Filter 30ml in Coles?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Revlon Illuminance Glow Filter 30ml | Coles | Not found |  |\n| Revlon Illuminance Glow Filter 30ml | Woolworths | $18.00 | SAVE $18 |\n\n**Verdict**: Revlon Illuminance Glow Filter 30ml is available at Woolworths for $18.00. It is not found in the provided Coles context.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 6.280410289764404
+  },
+  {
+    "question": "Price of U By Kotex Ultrathins Pk 8-16?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| U By Kotex Ultrathins, Maxi or Zero Pads Pk 8-16 | Woolworths | $3.90 | SAVE $1.70 |\n\n**Verdict**: Woolworths has U By Kotex Ultrathins, Maxi or Zero Pads Pk 8-16 for $3.90.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 8.506067991256714
+  },
+  {
+    "question": "Is Sensodyne Repair & Protect Toothpaste 100g on sale?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Sensodyne Repair & Protect Toothpaste 100g | Coles | $7.55 | SAVE $5, WAS $12.50 |\n\n**Verdict**: Sensodyne Repair & Protect Toothpaste 100g is on sale at Coles. The price is $7.55, which is calculated from \"WAS $12.50 SAVE $5\".\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 4.735175609588623
+  },
+  {
+    "question": "Price of Essano Hydration+ Daily Facial Moisturiser 100ml?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Essano Hydration+ Daily Facial Moisturiser 100ml | Coles | Not found |  |\n| Essano Hydration+ Daily Facial Moisturiser 100ml | Woolworths | $10.20 | SAVE $6.80 |\n\n**Verdict**: Woolworths is cheaper as the product is available there for $10.20.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 2.381004810333252
+  },
+  {
+    "question": "How much is the Metallic Heart Garland 180cm in Coles?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Metallic Heart Garland 180cm | Coles | $6 |  |\n\n**Verdict**: Coles has the Metallic Heart Garland 180cm for $6.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 6.902287483215332
+  },
+  {
+    "question": "Price of Bear With Heart and Patch in Coles?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Bear With Heart and Patch | Coles | $20 |  |\n\n**Verdict**: Coles has Bear With Heart and Patch for $20.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 8.919606685638428
+  },
+  {
+    "question": "What is the price of Date Box in Coles?",
+    "status": "NOT_FOUND",
+    "response": "Product not found\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 10.351053476333618
+  },
+  {
+    "question": "How much is Woolworths American Style Slaw Kit 450g?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Woolworths American Style Slaw Kit 450g | Woolworths | $5.00 |  |\n\n**Verdict**: Woolworths sells Woolworths American Style Slaw Kit 450g for $5.00.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 6.445627689361572
+  },
+  {
+    "question": "Price of Australian Corn Cobbettes 425g Pack in Woolworths?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Australian Corn Cobbettes 425g Pack | Woolworths | $3.90 | WAS $5.90 |\n\n**Verdict**: Woolworths is the only store listed with the product.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 2.300107002258301
+  },
+  {
+    "question": "Is Woolworths BBQ Texas Style Butterflied Boneless Chicken on sale?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Woolworths BBQ Texas Style Butterflied Boneless Chicken | Woolworths | $11.00 | Not found |\n\n**Verdict**: Woolworths BBQ Texas Style Butterflied Boneless Chicken is $11.00 at Woolworths. It is on sale because it is listed in the context.\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 8.460315227508545
+  },
+  {
+    "question": "How much are Woolworths Australian Beef Burgers 400-500g?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Woolworths Australian Beef Burgers 400-500g | Woolworths | $7.50 | WAS $8.50 |\n\n**Verdict**: Woolworths sells Woolworths Australian Beef Burgers 400-500g for $7.50.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 10.713494777679443
+  },
+  {
+    "question": "Price of Australian Pork Shoulder Boneless Roast in Woolworths?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Australian Pork Shoulder Boneless Roast | Woolworths | $10 | SAVE $2 |\n\n**Verdict**: Woolworths sells Australian Pork Shoulder Boneless Roast for $10 with a saving of $2.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 4.391909122467041
+  },
+  {
+    "question": "What is the deal for Woolworths Marinated Kebab Varieties 750g Pk 12?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Woolworths Marinated Kebab Varieties 750g Pk 12 | Woolworths | $9.00 | SAVE $2.50 |\n\n**Verdict**: Only found at Woolworths.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 8.246394872665405
+  },
+  {
+    "question": "Price of Macro Free Range Australian Fresh Whole Plain Chicken?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Macro Free Range Australian Fresh Whole Plain RSPCA Approved Chicken | Coles | Not found | Not found |\n| Macro Free Range Australian Fresh Whole Plain RSPCA Approved Chicken | Woolworths | $5.50 | SAVE $1 |\n\n**Verdict**: Woolworths is cheaper as they have Macro Free Range Australian Fresh Whole Plain RSPCA Approved Chicken for $5.50.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 2.7810933589935303
+  },
+  {
+    "question": "How much is Australian Fresh RSPCA Approved Chicken Breast Diced 1kg?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coles RSPCA Approved Chicken Breast Diced 500g | Coles | $11.88 | SAVE $2.50 kg |\n\n**Verdict**: Coles RSPCA Approved Chicken Breast Diced 500g is $11.88. Therefore, Coles RSPCA Approved Chicken Breast Diced 1kg is $23.76.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 10.485079288482666
+  },
+  {
+    "question": "What is the price of Australian Beef Rump Steak Bulk Pack in Woolworths?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Australian Beef Rump Steak Bulk Pack | Coles | Not found | Not found |\n| Australian Beef Rump Steak Bulk Pack | Woolworths | $24 | WHILE STOCKS LAST |\n\n**Verdict**: Woolworths is cheaper because they have Australian Beef Rump Steak Bulk Pack for $24, while it is not found at Coles.\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 4.456777334213257
+  },
+  {
+    "question": "Price of Thawed Large Australian Cooked Tiger Prawns?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Thawed Large Australian Cooked Tiger Prawns | Coles | Not found | Not found |\n| Thawed Large Australian Cooked Tiger Prawns | Woolworths | $26 | SAVE $9 |\n\n**Verdict**: Woolworths is cheaper because they have Thawed Large Australian Cooked Tiger Prawns for $26.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 6.397660732269287
+  },
+  {
+    "question": "How much is Fresh Tasmanian Atlantic Salmon Fillets Skin On in Woolworths?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Fresh Tasmanian Atlantic Salmon Fillets Skin On | Coles | Not found | Not found |\n| Fresh Tasmanian Atlantic Salmon Fillets Skin On | Woolworths | $34 | SAVE $4 |\n\n**Verdict**: Woolworths sells Fresh Tasmanian Atlantic Salmon Fillets Skin On for $34, while this product was not found at Coles.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 10.012661457061768
+  },
+  {
+    "question": "Price of Woolworths Pasta Spirals 500g?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Woolworths Pasta Spirals 500g | Woolworths | $1.00 |  |\n\n**Verdict**: Woolworths sells Woolworths Pasta Spirals 500g for $1.00.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 2.8207132816314697
+  },
+  {
+    "question": "How much is Barilla Pasta Risoni 500g in Woolworths?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Barilla Pasta Risoni 500g | Woolworths | $2.50 |  |\n\n**Verdict**: Woolworths is the only store with the product.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 8.211570978164673
+  },
+  {
+    "question": "Is Australian Fresh RSPCA Approved Chicken Breast Fillets on sale?",
+    "status": "PASS",
+    "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Australian Fresh RSPCA Approved Chicken Breast Diced | Coles | $11.50/kg | SAVE $2.50, WAS $14/kg |\n| Australian Fresh RSPCA Approved Chicken Breast Diced | Woolworths | $13.50/kg | SAVE $2 |\n\n**Verdict**: Coles is cheaper because it sells Australian Fresh RSPCA Approved Chicken Breast Diced for $11.50/kg, while Woolworths sells Australian Fresh RSPCA Approved Chicken Breast Diced for $13.50/kg.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 5.175122976303101
+  },
+  {
+    "question": "What is the price of Australian Lamb Leg Roast in Woolworths?",
+    "status": "NOT_FOUND",
+    "response": "Product not found\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+    "duration": 6.505748987197876
+  }
+]

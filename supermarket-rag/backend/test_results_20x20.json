@@ -1,0 +1,1929 @@
+[
+  {
+    "id": 1,
+    "type": "General",
+    "question": "Hello",
+    "status": 200,
+    "duration": 0.99,
+    "response": {
+      "response": "Hello! I'm your Niyogen Assistant. How can I help you find the best prices today?",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 2,
+    "type": "General",
+    "question": "Good morning",
+    "status": 200,
+    "duration": 0.24,
+    "response": {
+      "response": "Hello! I'm your Niyogen Assistant. How can I help you find the best prices today?",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 3,
+    "type": "General",
+    "question": "Who are you?",
+    "status": 200,
+    "duration": 2.11,
+    "response": {
+      "response": "Hi there! I'm Niyogen Assistant, your friendly supermarket guide. I'm here to help you find the best prices and deals at Coles and Woolworths.\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 4,
+    "type": "General",
+    "question": "What can you do?",
+    "status": 200,
+    "duration": 2.12,
+    "response": {
+      "response": "I'd love to help you find the best prices! Which product are you looking for today? (e.g., 'price of milk' or 'Sunrice rice deals')",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 5,
+    "type": "General",
+    "question": "How does this app work?",
+    "status": 200,
+    "duration": 1.79,
+    "response": {
+      "response": "Hi there! This app helps you find the best prices on groceries at Coles and Woolworths. Are you looking for deals on something specific today?\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 6,
+    "type": "General",
+    "question": "Thanks",
+    "status": 200,
+    "duration": 0.25,
+    "response": {
+      "response": "Hello! I'm your Niyogen Assistant. How can I help you find the best prices today?",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 7,
+    "type": "General",
+    "question": "What is the weather usually like?",
+    "status": 200,
+    "duration": 2.11,
+    "response": {
+      "response": "Hello! I hope you're having a great day.\n\nWhile I can't give you weather forecasts, I can definitely help you find the best deals at Coles and Woolworths for things you might need, rain or shine!\n\nAre you planning on doing some grocery shopping soon? Perhaps I can help you find some specials!\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 8,
+    "type": "General",
+    "question": "Tell me a joke",
+    "status": 200,
+    "duration": 2.19,
+    "response": {
+      "response": "Okay, here's a joke for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!\n\nNow, while I'm good for a laugh, I'm really here to help you find the best deals at Coles and Woolworths. Is there anything you're looking to buy this week?\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 9,
+    "type": "General",
+    "question": "What time is it?",
+    "status": 200,
+    "duration": 2.87,
+    "response": {
+      "response": "It is [Current Time].\n\nI specialize in finding the best deals at Coles and Woolworths. Is there anything you'd like to know about current specials or products at either store?\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 10,
+    "type": "General",
+    "question": "Goodbye",
+    "status": 200,
+    "duration": 1.9,
+    "response": {
+      "response": "Goodbye! Let me know if you need help finding any great deals at Coles or Woolworths in the future.\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 11,
+    "type": "General",
+    "question": "Are you a human?",
+    "status": 200,
+    "duration": 2.04,
+    "response": {
+      "response": "Hello! I am Niyogen Assistant, here to help you find the best prices at Coles and Woolworths. I am not a human, but a helpful AI assistant.\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 12,
+    "type": "General",
+    "question": "Where are you hosted?",
+    "status": 200,
+    "duration": 2.82,
+    "response": {
+      "response": "As Niyogen Assistant, I don't have a physical location. I exist as a program to help you find the best prices at Coles and Woolworths!\n\nSince I specialize in supermarket deals, is there anything you'd like help finding at Coles or Woolworths today?\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 13,
+    "type": "General",
+    "question": "Can you cook?",
+    "status": 200,
+    "duration": 2.2,
+    "response": {
+      "response": "As a supermarket assistant, my expertise lies in finding you the best deals at Coles and Woolworths, not in the kitchen!\n\nWhile I can't cook, I can certainly help you find the ingredients you need at the best prices. Are you looking for any specific ingredients or recipes at the moment?\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 14,
+    "type": "General",
+    "question": "What is your name?",
+    "status": 200,
+    "duration": 1.95,
+    "response": {
+      "response": "Hi there! I'm Niyogen Assistant. I'm here to help you find the best prices and deals at Coles and Woolworths.\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 15,
+    "type": "General",
+    "question": "Help me",
+    "status": 200,
+    "duration": 1.37,
+    "response": {
+      "response": "I'd love to help you find the best prices! Which product are you looking for today? (e.g., 'price of milk' or 'Sunrice rice deals')",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 16,
+    "type": "General",
+    "question": "I need assistance",
+    "status": 200,
+    "duration": 1.43,
+    "response": {
+      "response": "I'd love to help you find the best prices! Which product are you looking for today? (e.g., 'price of milk' or 'Sunrice rice deals')",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 17,
+    "type": "General",
+    "question": "Hi there",
+    "status": 200,
+    "duration": 0.31,
+    "response": {
+      "response": "Hello! I'm your Niyogen Assistant. How can I help you find the best prices today?",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 18,
+    "type": "General",
+    "question": "Good evening",
+    "status": 200,
+    "duration": 0.31,
+    "response": {
+      "response": "Hello! I'm your Niyogen Assistant. How can I help you find the best prices today?",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 19,
+    "type": "General",
+    "question": "What stores do you check?",
+    "status": 200,
+    "duration": 1.96,
+    "response": {
+      "response": "I check prices at Coles and Woolworths to help you find the best deals! Is there anything specific you're looking for today?\n",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 20,
+    "type": "General",
+    "question": "Is this free?",
+    "status": 200,
+    "duration": 1.42,
+    "response": {
+      "response": "I'd love to help you find the best prices! Which product are you looking for today? (e.g., 'price of milk' or 'Sunrice rice deals')",
+      "metadata": [],
+      "backend_version": "v1"
+    }
+  },
+  {
+    "id": 21,
+    "type": "Product",
+    "question": "Price of milk",
+    "status": 200,
+    "duration": 3.3,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Milk Full Cream | 6 x 200ml | Woolworths | National | $5.40 | None |\n| Milk Full Cream | 6 x 200ml | Woolworths | NSW | $5.40 | None |\n\nWoolworths National and NSW regions both have Devondale Milk Full Cream (6 x 200ml) for $5.40. Coles does not have this product in the provided data.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 30,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p30_item7_page_30_1771384150.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p30_item7_page_30_1771384150_thumb.jpg",
+          "product_name": "Devondale Milk Full Cream",
+          "product": "Devondale Milk Full Cream",
+          "price": "$5.40",
+          "deal": "None",
+          "item_name": "Milk Full Cream 6 x 200ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 30,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p30_item7_page_30_1771888410.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p30_item7_page_30_1771888410_thumb.jpg",
+          "product_name": "Devondale Milk Full Cream",
+          "product": "Devondale Milk Full Cream",
+          "price": "$5.40",
+          "deal": "None",
+          "item_name": "Milk Full Cream 6 x 200ml"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 30,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p30_item11_page_30_1771815554.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p30_item11_page_30_1771815554_thumb.jpg",
+          "product_name": "Devondale Milk Full Cream",
+          "product": "Devondale Milk Full Cream",
+          "price": "$5.40",
+          "deal": "None",
+          "item_name": "Milk Full Cream 6 x 200ml"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 22,
+    "type": "Product",
+    "question": "How much is Coca Cola?",
+    "status": 200,
+    "duration": 6.99,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Coca-Cola Soft Drink | 30x375mL | Coles | National | $28 | SAVE $12 |\n| Coca-Cola Soft Drink | 30x375mL | Coles | NSW | $28 | SAVE $12 |\n| Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties | 24 x 375ml | Woolworths | National | $24.75 | SAVE $12.75 |\n| Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties | 6 x 250ml | Woolworths | National | $6.00 | SAVE $4 |\n| Coca-Cola Zero Sugar | 24 | Woolworths | National | $4.95 | SAVE $3.30 |\n| Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties | 24 x 375ml | Woolworths | National | $24.75 | SAVE $12.75 |\n| Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties | 6 x 250ml | Woolworths | National | $6.00 | SAVE $4 |\n| Coca-Cola mini Zero Sugar | 6 x 250ml | Woolworths | National | $7.80 | SAVE $5.20 |\n| Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties | 24 x 375ml | Woolworths | National | $24.75 | SAVE $12.75 |\n| Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties | 6 x 250ml | Woolworths | National | $6.00 | SAVE $4 |\n| Coca-Cola mini Zero Sugar | 6 x 250 ml | Woolworths | National | $7.80 | SAVE $5.20 |\n| Coca-Cola Zero Sugar | 24 | Woolworths | National | $4.95 | SAVE $3.30 |\n| Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties | 24 x 375ml | Woolworths | NSW | $24.75 | SAVE $12.75 |\n| Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties | 6 x 250ml | Woolworths | NSW | $6.00 | SAVE $4 |\n| Coca-Cola Zero Sugar | 24 | Woolworths | NSW | None | None |\n\nVerdict:\nColes offers Coca-Cola Soft Drink for $28 for 30x375mL in both National and NSW regions. Woolworths offers Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties for $24.75 for 24 x 375ml in both National and NSW regions. Woolworths also has smaller packs and different varieties available.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 0,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item4_page_0_1771401723.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item4_page_0_1771401723_thumb.jpg",
+          "product_name": "Coca-Cola Soft Drink",
+          "product": "Coca-Cola Soft Drink",
+          "price": "$28",
+          "deal": "SAVE $12",
+          "item_name": "Soft Drink 30x375mL"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 0,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item4_page_0_1771889039.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p0_item4_page_0_1771889039_thumb.jpg",
+          "product_name": "Coca-Cola Soft Drink",
+          "product": "Coca-Cola Soft Drink",
+          "price": "$28",
+          "deal": "SAVE $12",
+          "item_name": "Soft Drink 30x375mL"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 28,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p28_item1_page_28_1771889561.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p28_item1_page_28_1771889561_thumb.jpg",
+          "product_name": "Coca-Cola Soft Drink",
+          "product": "Coca-Cola Soft Drink",
+          "price": "$2.40",
+          "deal": "SAVE $1.60",
+          "item_name": "Soft Drink 1.25 Litre"
+        },
+        {
+          "shop_name": "Coles_NSW",
+          "store": "Coles_NSW",
+          "page": 0,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p0_item4_page_0_1771833788.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p0_item4_page_0_1771833788_thumb.jpg",
+          "product_name": "Coca-Cola Soft Drink",
+          "product": "Coca-Cola Soft Drink",
+          "price": "$28",
+          "deal": "SAVE $12",
+          "item_name": "Soft Drink 30x375mL"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item0_page_3_1771383534.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item0_page_3_1771383534_thumb.jpg",
+          "product_name": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties",
+          "product": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties",
+          "price": "$24.75",
+          "deal": "SAVE $12.75",
+          "item_name": "Classic, Zero Sugar or Diet Soft Drink Varieties 24 x 375ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item1_page_3_1771383537.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item1_page_3_1771383537_thumb.jpg",
+          "product_name": "Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties",
+          "product": "Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties",
+          "price": "$6.00",
+          "deal": "SAVE $4",
+          "item_name": "Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties 6 x 250ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item5_page_3_1771383542.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item5_page_3_1771383542_thumb.jpg",
+          "product_name": "Coca-Cola Zero Sugar",
+          "product": "Coca-Cola Zero Sugar",
+          "price": "$4.95",
+          "deal": "SAVE $3.30",
+          "item_name": "Zero Sugar 24"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item0_page_3_1771887709.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item0_page_3_1771887709_thumb.jpg",
+          "product_name": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties",
+          "product": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties",
+          "price": "$24.75",
+          "deal": "SAVE $12.75",
+          "item_name": "Classic, Zero Sugar or Diet Soft Drink Varieties 24 x 375ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item1_page_3_1771887711.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item1_page_3_1771887711_thumb.jpg",
+          "product_name": "Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties",
+          "product": "Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties",
+          "price": "$6.00",
+          "deal": "SAVE $4",
+          "item_name": "Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties 6 x 250ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item2_page_3_1771887712.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item2_page_3_1771887712_thumb.jpg",
+          "product_name": "Coca-Cola mini Zero Sugar",
+          "product": "Coca-Cola mini Zero Sugar",
+          "price": "$7.80",
+          "deal": "SAVE $5.20",
+          "item_name": "mini Zero Sugar 6 x 250ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item0_page_3_1771672514.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item0_page_3_1771672514_thumb.jpg",
+          "product_name": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties",
+          "product": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties",
+          "price": "$24.75",
+          "deal": "SAVE $12.75",
+          "item_name": "Classic, Zero Sugar or Diet Soft Drink Varieties 24 x 375ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item1_page_3_1771672516.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item1_page_3_1771672516_thumb.jpg",
+          "product_name": "Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties",
+          "product": "Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties",
+          "price": "$6.00",
+          "deal": "SAVE $4",
+          "item_name": "Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties 6 x 250ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item2_page_3_1771672517.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item2_page_3_1771672517_thumb.jpg",
+          "product_name": "Coca-Cola mini Zero Sugar",
+          "product": "Coca-Cola mini Zero Sugar",
+          "price": "$7.80",
+          "deal": "SAVE $5.20",
+          "item_name": "mini Zero Sugar 6 x 250 ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item5_page_3_1771672521.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p3_item5_page_3_1771672521_thumb.jpg",
+          "product_name": "Coca-Cola Zero Sugar",
+          "product": "Coca-Cola Zero Sugar",
+          "price": "$4.95",
+          "deal": "SAVE $3.30",
+          "item_name": "Zero Sugar 24"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p3_item0_page_3_1771814912.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p3_item0_page_3_1771814912_thumb.jpg",
+          "product_name": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties",
+          "product": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties",
+          "price": "$24.75",
+          "deal": "SAVE $12.75",
+          "item_name": "Classic, Zero Sugar or Diet Soft Drink Varieties 24 x 375ml"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p3_item1_page_3_1771814915.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p3_item1_page_3_1771814915_thumb.jpg",
+          "product_name": "Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties",
+          "product": "Coca-Cola Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties",
+          "price": "$6.00",
+          "deal": "SAVE $4",
+          "item_name": "Classic, Zero Sugar or Diet, Sprite or Fanta Soft Drink Varieties 6 x 250ml"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p3_item5_page_3_1771814920.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p3_item5_page_3_1771814920_thumb.jpg",
+          "product_name": "Coca-Cola Zero Sugar",
+          "product": "Coca-Cola Zero Sugar",
+          "price": null,
+          "deal": "None",
+          "item_name": "Zero Sugar 24"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 23,
+    "type": "Product",
+    "question": "Cheapest bread",
+    "status": 200,
+    "duration": 4.27,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bread Roll Varieties | Pk 6 | Woolworths | National | $3.00 | None |\n| Bread Roll Varieties | Pk 6 | Woolworths | NSW | $3.00 | None |\n| Wonder White Bread Loaf Varieties | 700g | Woolworths | National | $4.50 | None |\n| White Bread Loaf Varieties | 700g | Woolworths | National | $4.50 | None |\n| White Bread Loaf Varieties | 700g | Woolworths | NSW | $4.50 | None |\n\nWoolworths offers bread roll varieties for $3.00 (Pk 6) and Wonder White Bread Loaf Varieties for $4.50 (700g) nationally and in NSW. There are no deals available. Coles data is missing, so a full comparison is not possible.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 14,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item7_page_14_1771887957.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item7_page_14_1771887957_thumb.jpg",
+          "product_name": "None Bread Roll Varieties",
+          "product": "None Bread Roll Varieties",
+          "price": "$3.00",
+          "deal": "None",
+          "item_name": "Bread Roll Varieties Pk 6#"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 14,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item8_page_14_1771887958.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item8_page_14_1771887958_thumb.jpg",
+          "product_name": "Wonder Wonder White Bread Loaf Varieties",
+          "product": "Wonder Wonder White Bread Loaf Varieties",
+          "price": "$4.50",
+          "deal": "None",
+          "item_name": "Wonder White Bread Loaf Varieties 700g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 14,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item7_page_14_1771383743.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item7_page_14_1771383743_thumb.jpg",
+          "product_name": "None Bread Roll Varieties",
+          "product": "None Bread Roll Varieties",
+          "price": "$3.00",
+          "deal": "None",
+          "item_name": "Bread Roll Varieties Pk 6"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 14,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item8_page_14_1771383744.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item8_page_14_1771383744_thumb.jpg",
+          "product_name": "Wonder White Bread Loaf Varieties",
+          "product": "Wonder White Bread Loaf Varieties",
+          "price": "$4.50",
+          "deal": "None",
+          "item_name": "White Bread Loaf Varieties 700g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 14,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item7_page_14_1771672868.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item7_page_14_1771672868_thumb.jpg",
+          "product_name": "None Bread Roll Varieties",
+          "product": "None Bread Roll Varieties",
+          "price": "$3.00",
+          "deal": "None",
+          "item_name": "Bread Roll Varieties Pk 6"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 14,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item8_page_14_1771672869.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p14_item8_page_14_1771672869_thumb.jpg",
+          "product_name": "Wonder Wonder White Bread Loaf Varieties",
+          "product": "Wonder Wonder White Bread Loaf Varieties",
+          "price": "$4.50",
+          "deal": "None",
+          "item_name": "Wonder White Bread Loaf Varieties 700g"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 14,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p14_item7_page_14_1771815108.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p14_item7_page_14_1771815108_thumb.jpg",
+          "product_name": "None Bread Roll Varieties",
+          "product": "None Bread Roll Varieties",
+          "price": "$3.00",
+          "deal": "None",
+          "item_name": "Bread Roll Varieties Pk 6"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 14,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p14_item8_page_14_1771815109.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p14_item8_page_14_1771815109_thumb.jpg",
+          "product_name": "Wonder White Bread Loaf Varieties",
+          "product": "Wonder White Bread Loaf Varieties",
+          "price": "$4.50",
+          "deal": "None",
+          "item_name": "White Bread Loaf Varieties 700g"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 24,
+    "type": "Product",
+    "question": "Cost of bananas",
+    "status": 200,
+    "duration": 3.11,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chocolate, that's bananas | 450ml | Woolworths | NSW | None | None |\n\nProduct not found\n\n\n(I also checked online but couldn't find a reliable price.)\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 28,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p28_item15_page_28_1771815437.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p28_item15_page_28_1771815437_thumb.jpg",
+          "product_name": "Proud & Punch Chocolate, that's bananas",
+          "product": "Proud & Punch Chocolate, that's bananas",
+          "price": null,
+          "deal": "None",
+          "item_name": "Chocolate, that's bananas 450ml"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 25,
+    "type": "Product",
+    "question": "Price of eggs",
+    "status": 200,
+    "duration": 2.64,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Thick Egg Noodles | 340g | Coles | National | $2.15 | None |\n\nProduct not found\n\n\n(I also checked online but couldn't find a reliable price.)\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 14,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p14_item3_page_14_1771889168.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p14_item3_page_14_1771889168_thumb.jpg",
+          "product_name": "Coles Asia Thick Egg Noodles",
+          "product": "Coles Asia Thick Egg Noodles",
+          "price": "$2.15",
+          "deal": "None",
+          "item_name": "Thick Egg Noodles 340g"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 26,
+    "type": "Product",
+    "question": "Woolworths pasta sauce",
+    "status": 200,
+    "duration": 2.75,
+    "response": {
+      "response": "Product not found\n\n\n(I also checked online but couldn't find a reliable price.)\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 27,
+    "type": "Product",
+    "question": "Cadbury chocolate",
+    "status": 200,
+    "duration": 5.27,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Favourites Boxed Chocolate | 340g | Woolworths | National | $8.00 | SAVE $8.00 |\n| Old Gold Dark Chocolate | 175-180g | Woolworths | National | $4.00 | SAVE $4 |\n| Baking Chocolate Chips, Melts or Blocks | 180-225g | Woolworths | National | $5.25 | SAVE $2.25 |\n| Favourites Boxed Chocolate | 340g | Woolworths | NSW | $8.00 | SAVE $8.00 |\n| Old Gold Dark Chocolate Bundaberg Rum | 180g | Woolworths | NSW | $4.00 | SAVE $4 |\n| Baking Chocolate Chips, Melts or Blocks | 180-225g | Woolworths | NSW | $5.25 | SAVE $2.25 |\n| or Europe Chocolate Bites | 120g-150g | Coles | National | $4.00 | SAVE $3 WAS $7 |\n| Dairy Milk Block Chocolate | 160g-190g | Coles | National | $5.00 | SAVE $3 WAS$8 |\n\nVERDICT: Woolworths and Coles both offer Cadbury chocolate. Woolworths has Favourites, Old Gold, and Baking Chocolate, while Coles has Chocolate Bites and Dairy Milk Block Chocolate. Prices and sizes vary between the stores and product types. Woolworths NSW prices are the same as the national prices.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 26,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p26_item3_page_26_1771889523.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p26_item3_page_26_1771889523_thumb.jpg",
+          "product_name": "Cadbury or Europe Chocolate Bites",
+          "product": "Cadbury or Europe Chocolate Bites",
+          "price": "$4.00",
+          "deal": "SAVE $3 WAS $7",
+          "item_name": "or Europe Chocolate Bites 120g-150g"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 26,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p26_item5_page_26_1771889525.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p26_item5_page_26_1771889525_thumb.jpg",
+          "product_name": "Cadbury Dairy Milk Block Chocolate",
+          "product": "Cadbury Dairy Milk Block Chocolate",
+          "price": "$5.00",
+          "deal": "SAVE $3 WAS$8",
+          "item_name": "Dairy Milk Block Chocolate 160g-190g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 23,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p23_item1_page_23_1771383903.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p23_item1_page_23_1771383903_thumb.jpg",
+          "product_name": "Cadbury Favourites Boxed Chocolate",
+          "product": "Cadbury Favourites Boxed Chocolate",
+          "price": "$8.00",
+          "deal": "SAVE $8.00",
+          "item_name": "Favourites Boxed Chocolate 340g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 32,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p32_item0_page_32_1771384242.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p32_item0_page_32_1771384242_thumb.jpg",
+          "product_name": "Cadbury Old Gold Dark Chocolate",
+          "product": "Cadbury Old Gold Dark Chocolate",
+          "price": "$4.00",
+          "deal": "SAVE $4",
+          "item_name": "Old Gold Dark Chocolate 175-180g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item8_page_34_1771384181.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item8_page_34_1771384181_thumb.jpg",
+          "product_name": "Cadbury Baking Chocolate Chips, Melts or Blocks",
+          "product": "Cadbury Baking Chocolate Chips, Melts or Blocks",
+          "price": "$5.25",
+          "deal": "SAVE $2.25",
+          "item_name": "Baking Chocolate Chips, Melts or Blocks 180-225g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 23,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p23_item1_page_23_1771888216.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p23_item1_page_23_1771888216_thumb.jpg",
+          "product_name": "Cadbury Favourites Boxed Chocolate",
+          "product": "Cadbury Favourites Boxed Chocolate",
+          "price": "$8.00",
+          "deal": "SAVE $8.00",
+          "item_name": "Favourites Boxed Chocolate 340g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item8_page_34_1771888437.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item8_page_34_1771888437_thumb.jpg",
+          "product_name": "Cadbury Baking Chocolate Chips, Melts or Blocks",
+          "product": "Cadbury Baking Chocolate Chips, Melts or Blocks",
+          "price": "$5.25",
+          "deal": "SAVE $2.25",
+          "item_name": "Baking Chocolate Chips, Melts or Blocks 180-225g"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 23,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p23_item1_page_23_1771815273.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p23_item1_page_23_1771815273_thumb.jpg",
+          "product_name": "Cadbury Favourites Boxed Chocolate",
+          "product": "Cadbury Favourites Boxed Chocolate",
+          "price": "$8.00",
+          "deal": "SAVE $8.00",
+          "item_name": "Favourites Boxed Chocolate 340g"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 32,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p32_item0_page_32_1771815500.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p32_item0_page_32_1771815500_thumb.jpg",
+          "product_name": "Cadbury Old Gold Dark Chocolate Bundaberg Rum",
+          "product": "Cadbury Old Gold Dark Chocolate Bundaberg Rum",
+          "price": "$4.00",
+          "deal": "SAVE $4",
+          "item_name": "Old Gold Dark Chocolate Bundaberg Rum 180g"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p34_item8_page_34_1771815583.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p34_item8_page_34_1771815583_thumb.jpg",
+          "product_name": "Cadbury Baking Chocolate Chips, Melts or Blocks",
+          "product": "Cadbury Baking Chocolate Chips, Melts or Blocks",
+          "price": "$5.25",
+          "deal": "SAVE $2.25",
+          "item_name": "Baking Chocolate Chips, Melts or Blocks 180-225g"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 28,
+    "type": "Product",
+    "question": "Price of Tim Tams",
+    "status": 200,
+    "duration": 4.34,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Tim Tam | 165-200g | Woolworths | National | $3.00 | SAVE $3 |\n| Tim Tam | 165-200g | Woolworths | NSW | $3.00 | SAVE $3 |\n| Tim Tam | 165-200g | Woolworths | National | $3.00 | SAVE $3 |\n| Tim Tam | 165-200g | Woolworths | National | $3.00 | SAVE $3 |\n\nWoolworths consistently offers Tim Tams for $3.00 (165-200g) nationally and in NSW, with a saving of $3. Coles data is not available in the provided context.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 0,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p0_item2_page_0_1771383519.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p0_item2_page_0_1771383519_thumb.jpg",
+          "product_name": "Arnott's Biscuit Tim Tam",
+          "product": "Arnott's Biscuit Tim Tam",
+          "price": "$3.00",
+          "deal": "SAVE $3",
+          "item_name": "Tim Tam 165-200g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 0,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p0_item2_page_0_1771887754.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p0_item2_page_0_1771887754_thumb.jpg",
+          "product_name": "Arnott's Tim Tam",
+          "product": "Arnott's Tim Tam",
+          "price": "$3.00",
+          "deal": "SAVE $3",
+          "item_name": "Tim Tam 165-200g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 0,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p0_item2_page_0_1771672542.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p0_item2_page_0_1771672542_thumb.jpg",
+          "product_name": "Arnott's Biscuit Tim Tam",
+          "product": "Arnott's Biscuit Tim Tam",
+          "price": "$3.00",
+          "deal": "SAVE $3",
+          "item_name": "Tim Tam 165-200g"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 0,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p0_item2_page_0_1771814899.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p0_item2_page_0_1771814899_thumb.jpg",
+          "product_name": "Arnott's Tim Tam",
+          "product": "Arnott's Tim Tam",
+          "price": "$3.00",
+          "deal": "SAVE $3",
+          "item_name": "Tim Tam 165-200g"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 29,
+    "type": "Product",
+    "question": "Frozen chips price",
+    "status": 200,
+    "duration": 3.85,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Beer Battered Steakhouse Chips | 750g | Coles | National | $4.50 | None |\n| Beer Battered Steakhouse Chips | 750g | Coles | NSW | $4.50 | None |\n| Pub Style Chips | 750g | Woolworths | National | $4.00 | SAVE $2 |\n\nVERDICT: Coles has Beer Battered Steakhouse Chips for $4.50 (750g) in both National and NSW regions. Woolworths has Pub Style Chips for $4.00 (750g) nationally with a saving of $2.\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p3_item2_page_3_1771401743.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p3_item2_page_3_1771401743_thumb.jpg",
+          "product_name": "Coles Beer Battered Steakhouse Chips",
+          "product": "Coles Beer Battered Steakhouse Chips",
+          "price": "$4.50",
+          "deal": "None",
+          "item_name": "Beer Battered Steakhouse Chips 750g"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p3_item2_page_3_1771889051.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p3_item2_page_3_1771889051_thumb.jpg",
+          "product_name": "Coles Beer Battered Steakhouse Chips",
+          "product": "Coles Beer Battered Steakhouse Chips",
+          "price": "$4.50",
+          "deal": "None",
+          "item_name": "Beer Battered Steakhouse Chips 750g"
+        },
+        {
+          "shop_name": "Coles_NSW",
+          "store": "Coles_NSW",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p3_item2_page_3_1771833712.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p3_item2_page_3_1771833712_thumb.jpg",
+          "product_name": "Coles Beer Battered Steakhouse Chips",
+          "product": "Coles Beer Battered Steakhouse Chips",
+          "price": "$4.50",
+          "deal": "None",
+          "item_name": "Beer Battered Steakhouse Chips 750g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 21,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p21_item6_page_21_1771383996.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p21_item6_page_21_1771383996_thumb.jpg",
+          "product_name": "McCain Pub Style Chips",
+          "product": "McCain Pub Style Chips",
+          "price": "$4.00",
+          "deal": "SAVE $2",
+          "item_name": "Pub Style Chips 750g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 21,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p21_item6_page_21_1771888138.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p21_item6_page_21_1771888138_thumb.jpg",
+          "product_name": "McCain Pub Style Chips",
+          "product": "McCain Pub Style Chips",
+          "price": "$4.00",
+          "deal": "SAVE $2",
+          "item_name": "Pub Style Chips 750g"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 21,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p21_item6_page_21_1771815296.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p21_item6_page_21_1771815296_thumb.jpg",
+          "product_name": "McCain Pub Style Chips",
+          "product": "McCain Pub Style Chips",
+          "price": "$4.00",
+          "deal": "SAVE $2",
+          "item_name": "Pub Style Chips 750g"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 30,
+    "type": "Product",
+    "question": "Toilet paper price",
+    "status": 200,
+    "duration": 4.13,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Quilton King Size, Coconut or Shea Butter Toilet Tissue Pk | 6 | Woolworths | National | $2.90 | SAVE $2.90 |\n| Quilton King Size, Coconut or Shea Butter Toilet Tissue Pk | 6 | Woolworths | NSW | $2.90 | SAVE $2.90 |\n| Quilton King Size, Coconut or Shea Butter Toilet Tissue | Pk 6 | Woolworths | National | $2.90 | SAVE $2.90 |\n\nWoolworths National and NSW regions have the same price for Quilton King Size, Coconut or Shea Butter Toilet Tissue. Coles does not have this product in the provided context.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 46,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p46_item10_page_46_1771384596.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p46_item10_page_46_1771384596_thumb.jpg",
+          "product_name": "Quilton King Size, Coconut or Shea Butter Toilet Tissue Pk",
+          "product": "Quilton King Size, Coconut or Shea Butter Toilet Tissue Pk",
+          "price": "$2.90",
+          "deal": "SAVE\n$2.90",
+          "item_name": "King Size, Coconut or Shea Butter Toilet Tissue Pk 6"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 46,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p46_item8_page_46_1771888745.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p46_item8_page_46_1771888745_thumb.jpg",
+          "product_name": "Quilton King Size, Coconut or Shea Butter Toilet Tissue",
+          "product": "Quilton King Size, Coconut or Shea Butter Toilet Tissue",
+          "price": "$2.90",
+          "deal": "SAVE $2.90",
+          "item_name": "King Size, Coconut or Shea Butter Toilet Tissue Pk 6"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 46,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p46_item8_page_46_1771815894.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p46_item8_page_46_1771815894_thumb.jpg",
+          "product_name": "Quilton King Size, Coconut or Shea Butter Toilet Tissue Pk",
+          "product": "Quilton King Size, Coconut or Shea Butter Toilet Tissue Pk",
+          "price": "$2.90",
+          "deal": "SAVE $2.90",
+          "item_name": "King Size, Coconut or Shea Butter Toilet Tissue Pk 6"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 31,
+    "type": "Product",
+    "question": "Nescafe coffee price",
+    "status": 200,
+    "duration": 4.96,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| NESCAFE Blend 43 Instant Coffee | 140g-150g | Coles | National | $7.25 | SAVE $7.25 |\n| NESCAFE Gold Instant Coffee | 90g-100g | Coles | National | $7.25 | SAVE $7.25 |\n| NESCAFE Blend 43 Instant Coffee | 140g-150g | Coles | National | $7.25 | SAVE $7.25 |\n| NESCAFE Gold Instant Coffee | 90g-100g | Coles | National | $7.25 | SAVE $7.25 |\n\nColes and Woolworths both have deals on Nescafe coffee. Coles has deals on both Blend 43 and Gold Instant Coffee at $7.25. Woolworths data is not available in the given context.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item5_page_9_1771401906.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item5_page_9_1771401906_thumb.jpg",
+          "product_name": "NESCAFE Blend 43 Instant Coffee",
+          "product": "NESCAFE Blend 43 Instant Coffee",
+          "price": "$7.25",
+          "deal": "SAVE $7.25",
+          "item_name": "Blend 43 Instant Coffee 140g-150g"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item6_page_9_1771401906.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item6_page_9_1771401906_thumb.jpg",
+          "product_name": "NESCAFE Gold Instant Coffee",
+          "product": "NESCAFE Gold Instant Coffee",
+          "price": "$7.25",
+          "deal": "SAVE $7.25",
+          "item_name": "Gold Instant Coffee 90g-100g"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item5_page_9_1771889129.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item5_page_9_1771889129_thumb.jpg",
+          "product_name": "NESCAFE Blend 43 Instant Coffee",
+          "product": "NESCAFE Blend 43 Instant Coffee",
+          "price": "$7.25",
+          "deal": "SAVE $7.25",
+          "item_name": "Blend 43 Instant Coffee 140g-150g"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item6_page_9_1771889130.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item6_page_9_1771889130_thumb.jpg",
+          "product_name": "NESCAFE Gold Instant Coffee",
+          "product": "NESCAFE Gold Instant Coffee",
+          "price": "$7.25",
+          "deal": "SAVE $7.25",
+          "item_name": "Gold Instant Coffee 90g-100g"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 32,
+    "type": "Product",
+    "question": "Best deal on rice",
+    "status": 200,
+    "duration": 4.74,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Medium Grain Rice | 5kg | Coles | National | $9.50 | SAVE $9.50 |\n| Premium Jasmine Rice | 5kg | Coles | National | $17.50 | SAVE $17.50 |\n| Medium Grain Rice | 5kg | Coles | NSW | $9.50 | SAVE $9.50 |\n| Premium Jasmine Rice | 5kg | Coles | NSW | $17.50 | SAVE $17.50 WAS$35 |\n| Jasmine Fragrant Rice | 5 kg | Woolworths | National | $12.50 | SAVE $14.50 |\n| Jasmine Fragrant Rice | 5 kg | Woolworths | National | $12.50 | SAVE $14.50 |\n| Jasmine Fragrant Rice | 5 kg | Woolworths | National | $12.50 | SAVE $14.50 |\n\nVERDICT: Coles offers Medium Grain Rice for $9.50 (5kg) and Premium Jasmine Rice for $17.50 (5kg) nationally and in NSW. Woolworths offers Jasmine Fragrant Rice for $12.50 (5kg) nationally. Coles' Medium Grain Rice is the cheapest option overall. Coles NSW Premium Jasmine Rice has a \"was\" price of $35, indicating a better deal than the national price.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 1,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p1_item2_page_1_1771401730.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p1_item2_page_1_1771401730_thumb.jpg",
+          "product_name": "Sunrice Medium Grain Rice",
+          "product": "Sunrice Medium Grain Rice",
+          "price": "$9.50",
+          "deal": "SAVE $9.50",
+          "item_name": "Medium Grain Rice 5kg"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item7_page_9_1771401907.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item7_page_9_1771401907_thumb.jpg",
+          "product_name": "Sunrice Premium Jasmine Rice",
+          "product": "Sunrice Premium Jasmine Rice",
+          "price": "$17.50",
+          "deal": "SAVE $17.50",
+          "item_name": "Premium Jasmine Rice 5kg"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 1,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p1_item2_page_1_1771888982.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p1_item2_page_1_1771888982_thumb.jpg",
+          "product_name": "Sunrice Medium Grain Rice",
+          "product": "Sunrice Medium Grain Rice",
+          "price": "$9.50",
+          "deal": "SAVE $9.50",
+          "item_name": "Medium Grain Rice 5kg"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item7_page_9_1771889131.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p9_item7_page_9_1771889131_thumb.jpg",
+          "product_name": "Sunrice Premium Jasmine Rice",
+          "product": "Sunrice Premium Jasmine Rice",
+          "price": "$17.50",
+          "deal": "SAVE $17.50",
+          "item_name": "Premium Jasmine Rice 5kg"
+        },
+        {
+          "shop_name": "Coles_NSW",
+          "store": "Coles_NSW",
+          "page": 1,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p1_item2_page_1_1771833782.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p1_item2_page_1_1771833782_thumb.jpg",
+          "product_name": "Sunrice Medium Grain Rice",
+          "product": "Sunrice Medium Grain Rice",
+          "price": "$9.50",
+          "deal": "SAVE $9.50",
+          "item_name": "Medium Grain Rice 5kg"
+        },
+        {
+          "shop_name": "Coles_NSW",
+          "store": "Coles_NSW",
+          "page": 9,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p9_item7_page_9_1771833829.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p9_item7_page_9_1771833829_thumb.jpg",
+          "product_name": "Sunrice Premium Jasmine Rice",
+          "product": "Sunrice Premium Jasmine Rice",
+          "price": "$17.50",
+          "deal": "SAVE $17.50 WAS$35",
+          "item_name": "Premium Jasmine Rice 5kg"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 19,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p19_item0_page_19_1771888086.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p19_item0_page_19_1771888086_thumb.jpg",
+          "product_name": "SunRice Jasmine Fragrant Rice",
+          "product": "SunRice Jasmine Fragrant Rice",
+          "price": "$12.50",
+          "deal": "SAVE $14.50",
+          "item_name": "Jasmine Fragrant Rice 5 kg"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 19,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p19_item0_page_19_1771383865.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p19_item0_page_19_1771383865_thumb.jpg",
+          "product_name": "SunRice Jasmine Fragrant Rice",
+          "product": "SunRice Jasmine Fragrant Rice",
+          "price": "$12.50",
+          "deal": "SAVE $14.50",
+          "item_name": "Jasmine Fragrant Rice 5 kg"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 19,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p19_item0_page_19_1771672964.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p19_item0_page_19_1771672964_thumb.jpg",
+          "product_name": "SunRice Jasmine Fragrant Rice",
+          "product": "SunRice Jasmine Fragrant Rice",
+          "price": "$12.50",
+          "deal": "SAVE $14.50",
+          "item_name": "Jasmine Fragrant Rice 5 kg"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 19,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p19_item0_page_19_1771815222.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p19_item0_page_19_1771815222_thumb.jpg",
+          "product_name": "SunRice Jasmine Fragrant Rice",
+          "product": "SunRice Jasmine Fragrant Rice",
+          "price": "$12.50",
+          "deal": "SAVE $14.50",
+          "item_name": "Jasmine Fragrant Rice 5 kg"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 33,
+    "type": "Product",
+    "question": "Price of chicken breast",
+    "status": 200,
+    "duration": 3.93,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| RSPCA Approved Chicken Breast Diced | 500g | Coles | National | $15 | SAVE $1 |\n| Made Easy Chicken Breasts Filled with Garlic & Herb Butter | 500g | Coles | National | $11.50 | SAVE $2 |\n\nVERDICT: Coles has two chicken breast options available, with the 'Made Easy' variety being the cheaper option at $11.50. Woolworths data was not provided, so no comparison can be made.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 21,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p21_item1_page_21_1771889418.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p21_item1_page_21_1771889418_thumb.jpg",
+          "product_name": "Coles RSPCA Approved Chicken Breast Diced",
+          "product": "Coles RSPCA Approved Chicken Breast Diced",
+          "price": "$15",
+          "deal": "SAVE $1",
+          "item_name": "RSPCA Approved Chicken Breast Diced 500g"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 21,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p21_item4_page_21_1771889421.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p21_item4_page_21_1771889421_thumb.jpg",
+          "product_name": "Coles Made Easy Chicken Breasts Filled with Garlic & Herb Butter",
+          "product": "Coles Made Easy Chicken Breasts Filled with Garlic & Herb Butter",
+          "price": "$11.50",
+          "deal": "SAVE $2",
+          "item_name": "Made Easy Chicken Breasts Filled with Garlic & Herb Butter 500g"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 34,
+    "type": "Product",
+    "question": "Coles ice cream",
+    "status": 200,
+    "duration": 4.03,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Irresistible Salted Caramel Ice Cream Tub | 1 Litre | Coles | National | $6.50 | None |\n| Irresistible Salted Caramel Ice Cream Tub | 1 Litre | Coles | NSW | $6.50 | None |\n| Irresistible Salted Caramel Ice Cream Tub | 1 Litre | Coles | National | $6.50 | None |\n| Irresistible Ice Cream Tub | 1 Litre | Coles | National | $6.50 | None |\n\nColes has multiple listings for their Irresistible Salted Caramel Ice Cream Tub at $6.50 for 1 Litre, available nationally and in NSW. They also have a listing for Irresistible Ice Cream Tub (presumably also salted caramel) at the same price and size nationally. Woolworths data was not provided, so no comparison is possible.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p3_item4_page_3_1771401743.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p3_item4_page_3_1771401743_thumb.jpg",
+          "product_name": "Coles Irresistible Salted Caramel Ice Cream Tub",
+          "product": "Coles Irresistible Salted Caramel Ice Cream Tub",
+          "price": "$6.50",
+          "deal": "None",
+          "item_name": "Irresistible Salted Caramel Ice Cream Tub 1 Litre"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p3_item4_page_3_1771889053.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p3_item4_page_3_1771889053_thumb.jpg",
+          "product_name": "Coles Irresistible Salted Caramel Ice Cream Tub",
+          "product": "Coles Irresistible Salted Caramel Ice Cream Tub",
+          "price": "$6.50",
+          "deal": "None",
+          "item_name": "Irresistible Salted Caramel Ice Cream Tub 1 Litre"
+        },
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 23,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p23_item0_page_23_1771889437.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p23_item0_page_23_1771889437_thumb.jpg",
+          "product_name": "Coles Irresistible Ice Cream Tub",
+          "product": "Coles Irresistible Ice Cream Tub",
+          "price": "$6.50",
+          "deal": "None",
+          "item_name": "Irresistible Ice Cream Tub 1 Litre"
+        },
+        {
+          "shop_name": "Coles_NSW",
+          "store": "Coles_NSW",
+          "page": 3,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p3_item4_page_3_1771833712.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles_NSW/Coles_NSW_p3_item4_page_3_1771833712_thumb.jpg",
+          "product_name": "Coles Irresistible Salted Caramel Ice Cream Tub",
+          "product": "Coles Irresistible Salted Caramel Ice Cream Tub",
+          "price": "$6.50",
+          "deal": "None",
+          "item_name": "Irresistible Salted Caramel Ice Cream Tub 1 Litre"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 35,
+    "type": "Product",
+    "question": "Olive oil cost",
+    "status": 200,
+    "duration": 6.63,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Olive Oil 1l | None | Woolworths | National | $14.00 | None |\n| Extra Virgin Olive Oil Medi... | None | Woolworths | National | $8.75 | None |\n| Olive Oil 1l | 1l | Woolworths | National | $14.00 | None |\n| Extra Virgin Olive Oil Medi... | None | Woolworths | National | $8.75 | None |\n| Olive Oil | 1 Litre | Woolworths | National | $13 | SAVE $13 |\n| Mediterranean or Spanish Olive Oil | 1 Litre | Woolworths | National | $15.00 | None |\n| Classic Olive Oil | 1 Litre | Woolworths | National | $15.00 | None |\n| Olive Oil 1l | 1l | Woolworths | National | $14.00 | None |\n| Extra Virgin Olive Oil Medi... | None | Woolworths | National | $8.75 | None |\n| Olive Oil | 1 Litre | Woolworths | National | $13 | SAVE $13 |\n| Mediterranean or Spanish Olive Oil | 1 Litre | Woolworths | National | $15.00 | None |\n| Olive Oil 1l | None | Woolworths | NSW | $14.00 | None |\n| Extra Virgin Olive Oil Medi... | None | Woolworths | NSW | $8.75 | None |\n| Olive Oil | 1 Litre | Woolworths | NSW | $13.00 | SAVE $13 |\n\nVerdict: Woolworths offers several olive oil options, with prices ranging from $8.75 to $15.00 depending on the brand and type. La Gina Olive Oil has a significant saving of $13. Coles data is not available in the provided context.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 17,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item0_page_17_1771888056.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item0_page_17_1771888056_thumb.jpg",
+          "product_name": "Essentials Olive Oil 1l",
+          "product": "Essentials Olive Oil 1l",
+          "price": "$14.00",
+          "deal": "None",
+          "item_name": "Olive Oil 1l None"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 17,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item1_page_17_1771888058.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item1_page_17_1771888058_thumb.jpg",
+          "product_name": "Macro Organic Extra Virgin Olive Oil Medi...",
+          "product": "Macro Organic Extra Virgin Olive Oil Medi...",
+          "price": "$8.75",
+          "deal": "None",
+          "item_name": "Extra Virgin Olive Oil Medi... None"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 17,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item0_page_17_1771383838.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item0_page_17_1771383838_thumb.jpg",
+          "product_name": "Essentials Olive Oil 1l",
+          "product": "Essentials Olive Oil 1l",
+          "price": "$14.00",
+          "deal": "None",
+          "item_name": "Olive Oil 1l 1l"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 17,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item1_page_17_1771383839.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item1_page_17_1771383839_thumb.jpg",
+          "product_name": "Macro Organic Extra Virgin Olive Oil Medi...",
+          "product": "Macro Organic Extra Virgin Olive Oil Medi...",
+          "price": "$8.75",
+          "deal": "None",
+          "item_name": "Extra Virgin Olive Oil Medi... None"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item3_page_34_1771384175.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item3_page_34_1771384175_thumb.jpg",
+          "product_name": "La Gina Olive Oil",
+          "product": "La Gina Olive Oil",
+          "price": "$13",
+          "deal": "SAVE $13",
+          "item_name": "Olive Oil 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item4_page_34_1771384177.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item4_page_34_1771384177_thumb.jpg",
+          "product_name": "La Gina CLASSIC OLIVE OIL",
+          "product": "La Gina CLASSIC OLIVE OIL",
+          "price": null,
+          "deal": "None",
+          "item_name": "CLASSIC OLIVE OIL 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item5_page_34_1771384178.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item5_page_34_1771384178_thumb.jpg",
+          "product_name": "La Gina LIGHT TASTING OLIVE OIL",
+          "product": "La Gina LIGHT TASTING OLIVE OIL",
+          "price": null,
+          "deal": "None",
+          "item_name": "LIGHT TASTING OLIVE OIL 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 36,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p36_item14_page_36_1771384317.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p36_item14_page_36_1771384317_thumb.jpg",
+          "product_name": "Woolworths Mediterranean or Spanish Olive Oil",
+          "product": "Woolworths Mediterranean or Spanish Olive Oil",
+          "price": "$15.00",
+          "deal": "None",
+          "item_name": "Mediterranean or Spanish Olive Oil 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 36,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p36_item15_page_36_1771384318.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p36_item15_page_36_1771384318_thumb.jpg",
+          "product_name": "Woolworths Classic Olive Oil",
+          "product": "Woolworths Classic Olive Oil",
+          "price": "$15.00",
+          "deal": "None",
+          "item_name": "Classic Olive Oil 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 17,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item0_page_17_1771672935.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item0_page_17_1771672935_thumb.jpg",
+          "product_name": "Essentials Olive Oil 1l",
+          "product": "Essentials Olive Oil 1l",
+          "price": "$14.00",
+          "deal": "None",
+          "item_name": "Olive Oil 1l 1l"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 17,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item1_page_17_1771672937.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p17_item1_page_17_1771672937_thumb.jpg",
+          "product_name": "Macro Organic Extra Virgin Olive Oil Medi...",
+          "product": "Macro Organic Extra Virgin Olive Oil Medi...",
+          "price": "$8.75",
+          "deal": "None",
+          "item_name": "Extra Virgin Olive Oil Medi... None"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item3_page_34_1771888432.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item3_page_34_1771888432_thumb.jpg",
+          "product_name": "La Gina Olive Oil",
+          "product": "La Gina Olive Oil",
+          "price": "$13",
+          "deal": "SAVE $13",
+          "item_name": "Olive Oil 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item4_page_34_1771888433.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item4_page_34_1771888433_thumb.jpg",
+          "product_name": "La Gina CLASSIC OLIVE OIL",
+          "product": "La Gina CLASSIC OLIVE OIL",
+          "price": null,
+          "deal": "None",
+          "item_name": "CLASSIC OLIVE OIL 1 le"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item5_page_34_1771888434.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p34_item5_page_34_1771888434_thumb.jpg",
+          "product_name": "La Gina LIGHT TASTING OLIVE OIL",
+          "product": "La Gina LIGHT TASTING OLIVE OIL",
+          "price": null,
+          "deal": "None",
+          "item_name": "LIGHT TASTING OLIVE OIL 1 le"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 36,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p36_item7_page_36_1771888509.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p36_item7_page_36_1771888509_thumb.jpg",
+          "product_name": "Woolworths Mediterranean or Spanish Olive Oil",
+          "product": "Woolworths Mediterranean or Spanish Olive Oil",
+          "price": "$15.00",
+          "deal": "None",
+          "item_name": "Mediterranean or Spanish Olive Oil 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 17,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p17_item0_page_17_1771815197.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p17_item0_page_17_1771815197_thumb.jpg",
+          "product_name": "Essentials Olive Oil 1l",
+          "product": "Essentials Olive Oil 1l",
+          "price": "$14.00",
+          "deal": "None",
+          "item_name": "Olive Oil 1l None"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 17,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p17_item1_page_17_1771815198.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p17_item1_page_17_1771815198_thumb.jpg",
+          "product_name": "Macro Organic Extra Virgin Olive Oil Medi...",
+          "product": "Macro Organic Extra Virgin Olive Oil Medi...",
+          "price": "$8.75",
+          "deal": "None",
+          "item_name": "Extra Virgin Olive Oil Medi... None"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p34_item3_page_34_1771815577.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p34_item3_page_34_1771815577_thumb.jpg",
+          "product_name": "La Gina Olive Oil",
+          "product": "La Gina Olive Oil",
+          "price": "$13.00",
+          "deal": "SAVE $13",
+          "item_name": "Olive Oil 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p34_item4_page_34_1771815578.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p34_item4_page_34_1771815578_thumb.jpg",
+          "product_name": "La Gina Classic Olive Oil",
+          "product": "La Gina Classic Olive Oil",
+          "price": null,
+          "deal": "None",
+          "item_name": "Classic Olive Oil 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 34,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p34_item5_page_34_1771815579.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p34_item5_page_34_1771815579_thumb.jpg",
+          "product_name": "La Gina Light Tasting Olive Oil",
+          "product": "La Gina Light Tasting Olive Oil",
+          "price": null,
+          "deal": "None",
+          "item_name": "Light Tasting Olive Oil 1 Litre"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 36,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p36_item7_page_36_1771815646.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p36_item7_page_36_1771815646_thumb.jpg",
+          "product_name": "Woolworths Mediterranean or Spanish Olive Oil",
+          "product": "Woolworths Mediterranean or Spanish Olive Oil",
+          "price": "$15.00",
+          "deal": "None",
+          "item_name": "Mediterranean or Spanish Olive Oil 1 Litre"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 36,
+    "type": "Product",
+    "question": "Detergent price",
+    "status": 200,
+    "duration": 3.36,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Ultimate Dishwasher Tablets | Pk 70 | Woolworths | National | $32.00 | SAVE $32 |\n\nVERDICT: Only Woolworths has a deal for dishwasher tablets. Coles does not have any matching products in the provided data.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 1,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p1_item7_page_1_1771383498.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p1_item7_page_1_1771383498_thumb.jpg",
+          "product_name": "Finish Ultimate Dishwasher Tablets",
+          "product": "Finish Ultimate Dishwasher Tablets",
+          "price": "$32.00",
+          "deal": "SAVE $32",
+          "item_name": "Ultimate Dishwasher Tablets Pk 70"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 37,
+    "type": "Product",
+    "question": "Shampoo deals",
+    "status": 200,
+    "duration": 3.71,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Head & Shoulders Shampoo or Conditioner | 850ml | Woolworths | National | $13.00 | SAVE $13 |\n| Head & Shoulders Shampoo or Conditioner | 850ml | Woolworths | NSW | $13.00 | SAVE $13 |\n| Head & Shoulders Shampoo or Conditioner | 850mL | Coles | National | $13.50 | SAVE $13.50 WAS $27 |\n\nColes has Head & Shoulders Shampoo or Conditioner for $13.50 (850mL, National), while Woolworths has the same product for $13.00 (850ml, National and NSW). Woolworths is slightly cheaper.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 11,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p11_item1_page_11_1771889252.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p11_item1_page_11_1771889252_thumb.jpg",
+          "product_name": "Head & Shoulders Shampoo or Conditioner",
+          "product": "Head & Shoulders Shampoo or Conditioner",
+          "price": "$13.50",
+          "deal": "SAVE $13.50 WAS$27",
+          "item_name": "Shampoo or Conditioner 850mL"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 7,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p7_item2_page_7_1771383674.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p7_item2_page_7_1771383674_thumb.jpg",
+          "product_name": "Head & Shoulders Shampoo or Conditioner",
+          "product": "Head & Shoulders Shampoo or Conditioner",
+          "price": "$13.00",
+          "deal": "SAVE $13",
+          "item_name": "Shampoo or Conditioner 850ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 7,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p7_item2_page_7_1771887809.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p7_item2_page_7_1771887809_thumb.jpg",
+          "product_name": "Head & Shoulders Shampoo or Conditioner",
+          "product": "Head & Shoulders Shampoo or Conditioner",
+          "price": "$13.00",
+          "deal": "SAVE $13",
+          "item_name": "Shampoo or Conditioner 850ml"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 7,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p7_item2_page_7_1771672662.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p7_item2_page_7_1771672662_thumb.jpg",
+          "product_name": "Head & Shoulders Shampoo or Conditioner",
+          "product": "Head & Shoulders Shampoo or Conditioner",
+          "price": "$13.00",
+          "deal": "SAVE $13",
+          "item_name": "Shampoo or Conditioner 850ml"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 7,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p7_item2_page_7_1771815006.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p7_item2_page_7_1771815006_thumb.jpg",
+          "product_name": "Head & Shoulders Shampoo or Conditioner",
+          "product": "Head & Shoulders Shampoo or Conditioner",
+          "price": "$13.00",
+          "deal": "SAVE $13",
+          "item_name": "Shampoo or Conditioner 850ml"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 38,
+    "type": "Product",
+    "question": "Dog food price",
+    "status": 200,
+    "duration": 5.77,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Supercoat Dry Dog Food | 6.7-7 kg | Woolworths | National | $27.00 | Range was $36 |\n| Supercoat Dry Dog Food | 6.7-7 kg | Woolworths | National | $27.00 | None |\n| Supercoat Dry Dog Food | 6.7-7 kg | Woolworths | Woolworths_NSW | $27.00 | None |\n| Supercoat Dry Dog Food | 6.7kg-7kg | Coles | National | $27.00 | None |\n| Optimum Dry Dog Food | 2.5-3 kg | Woolworths | National | $18.00 | SAVE $5 |\n| Optimum Dry Dog Food | 2.5-3 kg | Woolworths | National | $18.00 | SAVE $5 |\n| Optimum Dry Dog Food | 2.5-3 kg | Woolworths | Woolworths_NSW | $18.00 | SAVE $5 |\n| Ultimates Wet Dog Food | 400g | Woolworths | National | $2.00 | SAVE 90\u00a2 |\n| Ultimates Wet Dog Food | 400g | Woolworths | National | $2.00 | SAVE 90 |\n| Ultimates Wet Dog Food | 400g | Woolworths | Woolworths_NSW | $2.00 | SAVE 90 |\n\nVERDICT: Supercoat Dry Dog Food is the same price ($27.00) at both Coles and Woolworths nationally. Woolworths also has deals on Optimum and Ultimates dog food.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 39,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p39_item1_page_39_1771889784.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p39_item1_page_39_1771889784_thumb.jpg",
+          "product_name": "Supercoat Dry Dog Food",
+          "product": "Supercoat Dry Dog Food",
+          "price": "$27.00",
+          "deal": "None",
+          "item_name": "Dry Dog Food 6.7kg-7kg"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item6_page_47_1771384619.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item6_page_47_1771384619_thumb.jpg",
+          "product_name": "Optimum Dry Dog Food",
+          "product": "Optimum Dry Dog Food",
+          "price": "$18.00",
+          "deal": "SAVE $5",
+          "item_name": "Dry Dog Food 2.5-3 kg"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item7_page_47_1771384620.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item7_page_47_1771384620_thumb.jpg",
+          "product_name": "Ultimates Wet Dog Food",
+          "product": "Ultimates Wet Dog Food",
+          "price": "$2.00",
+          "deal": "SAVE 90",
+          "item_name": "Wet Dog Food 400g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item15_page_47_1771384629.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item15_page_47_1771384629_thumb.jpg",
+          "product_name": "Supercoat Dry Dog Food",
+          "product": "Supercoat Dry Dog Food",
+          "price": "$27.00",
+          "deal": "None",
+          "item_name": "Dry Dog Food 6.7-7 kg"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item6_page_47_1771888770.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item6_page_47_1771888770_thumb.jpg",
+          "product_name": "Optimum Dry Dog Food",
+          "product": "Optimum Dry Dog Food",
+          "price": "$18.00",
+          "deal": "SAVE $5",
+          "item_name": "Dry Dog Food 2.5-3 kg"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item7_page_47_1771888771.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item7_page_47_1771888771_thumb.jpg",
+          "product_name": "Ultimates Wet Dog Food",
+          "product": "Ultimates Wet Dog Food",
+          "price": "$2.00",
+          "deal": "SAVE 90\u00a2",
+          "item_name": "Wet Dog Food 400g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item15_page_47_1771888779.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item15_page_47_1771888779_thumb.jpg",
+          "product_name": "Supercoat Dry Dog Food",
+          "product": "Supercoat Dry Dog Food",
+          "price": "$27.00",
+          "deal": "Range was $36",
+          "item_name": "Dry Dog Food 6.7-7 kg"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p47_item18_page_47_1771815932.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p47_item18_page_47_1771815932_thumb.jpg",
+          "product_name": "Supercoat Dry Dog Food",
+          "product": "Supercoat Dry Dog Food",
+          "price": "$27.00",
+          "deal": "None",
+          "item_name": "Dry Dog Food 6.7-7 kg"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p47_item9_page_47_1771815923.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p47_item9_page_47_1771815923_thumb.jpg",
+          "product_name": "Ultimates Wet Dog Food",
+          "product": "Ultimates Wet Dog Food",
+          "price": "$2.00",
+          "deal": "SAVE 90",
+          "item_name": "Wet Dog Food 400g"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p47_item7_page_47_1771815921.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p47_item7_page_47_1771815921_thumb.jpg",
+          "product_name": "Optimum Dry Dog Food",
+          "product": "Optimum Dry Dog Food",
+          "price": "$18.00",
+          "deal": "SAVE $5",
+          "item_name": "Dry Dog Food 2.5-3 kg"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 39,
+    "type": "Product",
+    "question": "Cat food specials",
+    "status": 200,
+    "duration": 5.16,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Purina One Wet Cat Food | 70g | Woolworths | National | $0.95 | SAVE 95\u00a2 |\n| Purina One Wet Cat Food | 70g | Woolworths | NSW | $0.95 | SAVE 95 |\n| Whiskas Wet Cat Food Pk | 12 x 85g | Woolworths | National | $7.50 | SAVE $5.50 |\n| Whiskas Wet Cat Food Pk | 12 x 85g | Woolworths | NSW | $7.50 | SAVE $5.50 |\n| Felix Cat Food | 12x85g | Coles | National | $8.50 | SAVE $6 |\n\nWoolworths has Whiskas Wet Cat Food Pk for $7.50 (12 x 85g) and Coles has Felix Cat Food for $8.50 (12x85g). Woolworths also has Purina One Wet Cat Food for $0.95 (70g).\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 39,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p39_item5_page_39_1771889788.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p39_item5_page_39_1771889788_thumb.jpg",
+          "product_name": "Felix Cat Food",
+          "product": "Felix Cat Food",
+          "price": "$8.50",
+          "deal": "SAVE $6",
+          "item_name": "Cat Food 12x85g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item0_page_47_1771384612.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item0_page_47_1771384612_thumb.jpg",
+          "product_name": "Purina One Wet Cat Food",
+          "product": "Purina One Wet Cat Food",
+          "price": "$0.95",
+          "deal": "SAVE 95",
+          "item_name": "Wet Cat Food 70g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item3_page_47_1771384616.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item3_page_47_1771384616_thumb.jpg",
+          "product_name": "Whiskas Wet Cat Food Pk",
+          "product": "Whiskas Wet Cat Food Pk",
+          "price": "$7.50",
+          "deal": "SAVE $5.50",
+          "item_name": "Wet Cat Food Pk 12 x 85g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item0_page_47_1771888763.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item0_page_47_1771888763_thumb.jpg",
+          "product_name": "Purina One Wet Cat Food",
+          "product": "Purina One Wet Cat Food",
+          "price": "$0.95",
+          "deal": "SAVE 95\u00a2",
+          "item_name": "Wet Cat Food 70g"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item3_page_47_1771888767.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p47_item3_page_47_1771888767_thumb.jpg",
+          "product_name": "Whiskas Wet Cat Food Pk",
+          "product": "Whiskas Wet Cat Food Pk",
+          "price": "$7.50",
+          "deal": "SAVE $5.50",
+          "item_name": "Wet Cat Food Pk 12 x 85g"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p47_item0_page_47_1771815912.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p47_item0_page_47_1771815912_thumb.jpg",
+          "product_name": "Purina One Wet Cat Food",
+          "product": "Purina One Wet Cat Food",
+          "price": "$0.95",
+          "deal": "SAVE 95",
+          "item_name": "Wet Cat Food 70g"
+        },
+        {
+          "shop_name": "Woolworths_NSW",
+          "store": "Woolworths_NSW",
+          "page": 47,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p47_item3_page_47_1771815916.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths_NSW/Woolworths_NSW_p47_item3_page_47_1771815916_thumb.jpg",
+          "product_name": "Whiskas Wet Cat Food Pk",
+          "product": "Whiskas Wet Cat Food Pk",
+          "price": "$7.50",
+          "deal": "SAVE $5.50",
+          "item_name": "Wet Cat Food Pk 12 x 85g"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  },
+  {
+    "id": 40,
+    "type": "Product",
+    "question": "Butter usage",
+    "status": 200,
+    "duration": 3.93,
+    "response": {
+      "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| All Butter Croissants | 3 Pack or 4 Pack | Coles | National | $2.95 | None |\n| Buttery | None | Woolworths | National | $7.00 | None |\n\nColes offers All Butter Croissants for $2.95, while Woolworths has Flora Buttery for $7.00.\n\n\n---\n*I compare deals from mall catalogues and may miss the latest updates. Deals may be expired or unavailable at the store's discretion. This is for educational purposes only.*",
+      "metadata": [
+        {
+          "shop_name": "Coles",
+          "store": "Coles",
+          "page": 19,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p19_item2_page_19_1771889361.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Coles/Coles_p19_item2_page_19_1771889361_thumb.jpg",
+          "product_name": "Coles All Butter Croissants",
+          "product": "Coles All Butter Croissants",
+          "price": "$2.95",
+          "deal": "None",
+          "item_name": "All Butter Croissants 3 Pack or 4 Pack"
+        },
+        {
+          "shop_name": "Woolworths",
+          "store": "Woolworths",
+          "page": 36,
+          "image_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p36_item11_page_36_1771384314.jpg",
+          "thumbnail_url": "https://supermarket-catalog-images-582604091763.s3.us-east-1.amazonaws.com/catalog-pages/Woolworths/Woolworths_p36_item11_page_36_1771384314_thumb.jpg",
+          "product_name": "Flora Buttery",
+          "product": "Flora Buttery",
+          "price": "$7.00",
+          "deal": "None",
+          "item_name": "Buttery None"
+        }
+      ],
+      "backend_version": "v3_case_insensitive"
+    }
+  }
+]

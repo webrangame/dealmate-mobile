@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "question": "Price of milk",
+    "status": "SUCCESS",
+    "duration": 15.7,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 2
+  },
+  {
+    "id": 2,
+    "question": "How much is Coca Cola?",
+    "status": "SUCCESS",
+    "duration": 24.95,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 12
+  },
+  {
+    "id": 3,
+    "question": "Cheapest bread",
+    "status": "SUCCESS",
+    "duration": 15.75,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 6
+  },
+  {
+    "id": 4,
+    "question": "Cost of bananas",
+    "status": "SUCCESS",
+    "duration": 11.66,
+    "shops": [],
+    "has_metadata": false,
+    "metadata_count": 0
+  },
+  {
+    "id": 5,
+    "question": "Price of eggs",
+    "status": "SUCCESS",
+    "duration": 15.53,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 4
+  },
+  {
+    "id": 6,
+    "question": "Woolworths pasta sauce",
+    "status": "SUCCESS",
+    "duration": 14.26,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 4
+  },
+  {
+    "id": 7,
+    "question": "Cadbury chocolate",
+    "status": "SUCCESS",
+    "duration": 17.59,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 6
+  },
+  {
+    "id": 8,
+    "question": "Price of Tim Tams",
+    "status": "SUCCESS",
+    "duration": 15.15,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 3
+  },
+  {
+    "id": 9,
+    "question": "Frozen chips price",
+    "status": "SUCCESS",
+    "duration": 19.72,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 4
+  },
+  {
+    "id": 10,
+    "question": "Toilet paper price",
+    "status": "SUCCESS",
+    "duration": 25.06,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 1
+  },
+  {
+    "id": 11,
+    "question": "Nescafe coffee price",
+    "status": "SUCCESS",
+    "duration": 16.24,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 4
+  },
+  {
+    "id": 12,
+    "question": "Best deal on rice",
+    "status": "SUCCESS",
+    "duration": 16.56,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 20
+  },
+  {
+    "id": 13,
+    "question": "Price of chicken breast",
+    "status": "SUCCESS",
+    "duration": 27.7,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 21
+  },
+  {
+    "id": 14,
+    "question": "Coles ice cream",
+    "status": "SUCCESS",
+    "duration": 14.29,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 2
+  },
+  {
+    "id": 15,
+    "question": "Olive oil cost",
+    "status": "SUCCESS",
+    "duration": 16.71,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 12
+  },
+  {
+    "id": 16,
+    "question": "Detergent price",
+    "status": "SUCCESS",
+    "duration": 26.36,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 1
+  },
+  {
+    "id": 17,
+    "question": "Shampoo deals",
+    "status": "SUCCESS",
+    "duration": 18.18,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 6
+  },
+  {
+    "id": 18,
+    "question": "Dog food price",
+    "status": "SUCCESS",
+    "duration": 14.34,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 3
+  },
+  {
+    "id": 19,
+    "question": "Cat food specials",
+    "status": "SUCCESS",
+    "duration": 14.03,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 3
+  },
+  {
+    "id": 20,
+    "question": "Price of butter",
+    "status": "SUCCESS",
+    "duration": 15.05,
+    "shops": [
+      "Coles",
+      "Woolworths"
+    ],
+    "has_metadata": true,
+    "metadata_count": 2
+  }
+]

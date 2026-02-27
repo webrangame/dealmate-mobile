@@ -1,0 +1,212 @@
+[
+  {
+    "query": "milk price",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 11.74
+  },
+  {
+    "query": "bread price",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 13.28
+  },
+  {
+    "query": "butter deals",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": false,
+    "duration": 14.47
+  },
+  {
+    "query": "cheese cost",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": false,
+    "duration": 13.3
+  },
+  {
+    "query": "eggs price",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 12.81
+  },
+  {
+    "query": "yogurt specials",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": false,
+    "duration": 15.6
+  },
+  {
+    "query": "chicken breast price",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 14.55
+  },
+  {
+    "query": "beef mince deals",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": false,
+    "duration": 14.83
+  },
+  {
+    "query": "apples cost",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": true,
+    "duration": 15.5
+  },
+  {
+    "query": "bananas price",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": false,
+    "duration": 15.35
+  },
+  {
+    "query": "strawberries deals",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": false,
+    "duration": 15.12
+  },
+  {
+    "query": "blueberries price",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 13.58
+  },
+  {
+    "query": "potatoes cost",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": false,
+    "duration": 15.44
+  },
+  {
+    "query": "carrots price",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": false,
+    "duration": 14.38
+  },
+  {
+    "query": "onion deals",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": false,
+    "duration": 14.25
+  },
+  {
+    "query": "garlic price",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 14.41
+  },
+  {
+    "query": "pasta cost",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": false,
+    "duration": 17.27
+  },
+  {
+    "query": "rice deals",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": false,
+    "duration": 15.67
+  },
+  {
+    "query": "tomato sauce price",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": false,
+    "duration": 14.86
+  },
+  {
+    "query": "olive oil cost",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 15.55
+  },
+  {
+    "query": "coffee deals",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 18.05
+  },
+  {
+    "query": "tea price",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": true,
+    "duration": 15.2
+  },
+  {
+    "query": "sugar cost",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": false,
+    "duration": 15.72
+  },
+  {
+    "query": "flour price",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 15.0
+  },
+  {
+    "query": "cereal deals",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": false,
+    "duration": 17.02
+  },
+  {
+    "query": "chips price",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 16.5
+  },
+  {
+    "query": "chocolate cost",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 20.17
+  },
+  {
+    "query": "ice cream deals",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 18.22
+  },
+  {
+    "query": "soft drink price",
+    "status": 200,
+    "image_count": 2,
+    "is_specific": true,
+    "duration": 15.77
+  },
+  {
+    "query": "paper towel cost",
+    "status": 200,
+    "image_count": 1,
+    "is_specific": false,
+    "duration": 15.16
+  }
+]

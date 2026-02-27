@@ -1,0 +1,65 @@
+{
+    "Service": {
+        "ServiceName": "supermarket-rag-api",
+        "ServiceId": "bed1eb2079694639a2530c2e4e6f4624",
+        "ServiceArn": "arn:aws:apprunner:us-east-1:582604091763:service/supermarket-rag-api/bed1eb2079694639a2530c2e4e6f4624",
+        "ServiceUrl": "xfukqtd5pc.us-east-1.awsapprunner.com",
+        "CreatedAt": "2026-01-15T19:49:51+05:30",
+        "UpdatedAt": "2026-01-15T19:49:51+05:30",
+        "Status": "RUNNING",
+        "SourceConfiguration": {
+            "ImageRepository": {
+                "ImageIdentifier": "582604091763.dkr.ecr.us-east-1.amazonaws.com/supermarket-rag-api:latest",
+                "ImageConfiguration": {
+                    "RuntimeEnvironmentVariables": {
+                        "ADMIN_API_KEY": "5ab868c201588d172fdbe7f3e627098dc451d1cff012e03923f07f3889f03b0e",
+                        "AWS_ACCESS_KEY_ID": "AKIAYPJPI6FZUUV27FO4",
+                        "AWS_REGION": "us-east-1",
+                        "AWS_SECRET_ACCESS_KEY": "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",
+                        "DATABASE_URL": "postgresql://postgres:it371Ananda@agent-marketplace-db.cmt466aga8u0.us-east-1.rds.amazonaws.com:5432/postgres?sslmode=require",
+                        "LITELLM_API_BASE": "https://swzissb82u.us-east-1.awsapprunner.com",
+                        "LITELLM_API_KEY": "sk-dcb0c8a73a664a2307b8e2f12ef90a34819204105f32f51cc8c621ebf88c7642",
+                        "S3_BUCKET_NAME": "supermarket-catalog-images-582604091763",
+                        "SMTP_FROM_EMAIL": "api@niyogen.com",
+                        "SMTP_HOST": "smtp.gmail.com",
+                        "SMTP_PASS": "sicnznjbiswbasqx",
+                        "SMTP_PORT": "587",
+                        "SMTP_USER": "api@niyogen.com"
+                    },
+                    "Port": "8000"
+                },
+                "ImageRepositoryType": "ECR"
+            },
+            "AutoDeploymentsEnabled": true,
+            "AuthenticationConfiguration": {
+                "AccessRoleArn": "arn:aws:iam::582604091763:role/AppRunnerECRAccessRole"
+            }
+        },
+        "InstanceConfiguration": {
+            "Cpu": "1024",
+            "Memory": "2048"
+        },
+        "HealthCheckConfiguration": {
+            "Protocol": "HTTP",
+            "Path": "/health",
+            "Interval": 10,
+            "Timeout": 5,
+            "HealthyThreshold": 1,
+            "UnhealthyThreshold": 3
+        },
+        "AutoScalingConfigurationSummary": {
+            "AutoScalingConfigurationArn": "arn:aws:apprunner:us-east-1:582604091763:autoscalingconfiguration/DefaultConfiguration/1/00000000000000000000000000000001",
+            "AutoScalingConfigurationName": "DefaultConfiguration",
+            "AutoScalingConfigurationRevision": 1
+        },
+        "NetworkConfiguration": {
+            "EgressConfiguration": {
+                "EgressType": "DEFAULT"
+            },
+            "IngressConfiguration": {
+                "IsPubliclyAccessible": true
+            },
+            "IpAddressType": "IPV4"
+        }
+    }
+}

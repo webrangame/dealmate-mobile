@@ -1,0 +1,542 @@
+[
+  {
+    "question": "What is the price of Arnott's Shapes at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 5.062124729156494,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Shapes Crackers | 130g-190g | Coles | National | $2.00 | SAVE $2 |\n| Shapes Crackers | 130g-190g | Coles | NSW | $2.00 | ..."
+  },
+  {
+    "question": "How much is Devondale Milk Powder at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.627936840057373,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Milk Full Cream | 6 x 200ml | Woolworths | National | $5.40 | None |\n\nVERDICT: Only Woolworths has Devondale Milk Full Cr..."
+  },
+  {
+    "question": "Show me deals for Coca-Cola 30 pack.",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 5.0389182567596436,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Coca-Cola Soft Drink | 30x375mL | Coles | National | $28 | SAVE $12 |\n| Coca-Cola Soft Drink | 30x375mL | Coles | NSW | $..."
+  },
+  {
+    "question": "Best price for Ice Cream at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 3,
+    "duration": 4.83588171005249,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Irresistible Salted Caramel Ice Cream Tub | 1 Litre | Coles | National | $6.50 | None |\n| Irresistible Salted Caramel Ice..."
+  },
+  {
+    "question": "Price of Pak Choy at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 4.93787407875061,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Baby Aslan Greens Pak Choy | None | Woolworths | National | $2.90 | None |\n\nVerdict: Only Woolworths has the product in t..."
+  },
+  {
+    "question": "Is there any discount on Cadbury Dairy Milk at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 3,
+    "duration": 4.487741708755493,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Cadbury Dairy Milk Egg Bag | 440g | Woolworths | National | $13.50 | SAVE $2.50 |\n| Cadbury Dairy Milk Hollow Hunting Eas..."
+  },
+  {
+    "question": "Cost of Australian Premium Strawberries at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 6.542008399963379,
+    "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Coles | Coles | $1.50 | [View](https://w..."
+  },
+  {
+    "question": "How much for Annalisa Tomatoes at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.786506175994873,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Annalisa Italian Diced Tomatoes | 400g | Woolworths | National | $1.50 | None |\n\nVERDICT: Woolworths sells Annalisa Itali..."
+  },
+  {
+    "question": "Price of Tim Tam at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.353950262069702,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Tim Tam | 165-200g | Woolworths | National | $3.00 | SAVE $3 |\n\nVerdict: Woolworths has Tim Tams for $3.00. There is no p..."
+  },
+  {
+    "question": "Deals on laundry detergent at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 4.6808836460113525,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Ultimate Laundry Capsules | Pk 28 | Woolworths | National | $18.00 | SAVE $18 |\n| Ultimate Laundry Liquid | 2 Litre or Po..."
+  },
+  {
+    "question": "Price of Bread at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 5.304384469985962,
+    "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Woolworths Traditional Hot Cross Buns Bu..."
+  },
+  {
+    "question": "How much is Butter at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.441671848297119,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Buttery | None | Woolworths | National | $7.00 | None |\n\nVerdict: Woolworths Flora Buttery is $7.00 nationally. I have no..."
+  },
+  {
+    "question": "Price of Eggs 12 pack at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 18,
+    "duration": 6.547206401824951,
+    "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Cage Free Eggs 12 Pack for 5.75 from Col..."
+  },
+  {
+    "question": "Deals on Chicken Breast at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 6,
+    "duration": 4.623676300048828,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Chicken Schnitzel Varieties with RSPCA Approved Chicken | 600g | Woolworths | National | $9.00 | None |\n| Classic Crumb 4..."
+  },
+  {
+    "question": "Price of Bananas at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 3.7451932430267334,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bananas | Not found in context | Not found in context | Not found in context | Not found in context | Not found in contex..."
+  },
+  {
+    "question": "How much is Toilet Paper at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 3.1979212760925293,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Toilet Paper | Not found in context |  |  |  |  |\n\nProduct not found\n\n\n(I also checked online but couldn't find a reliabl..."
+  },
+  {
+    "question": "Price of Pavlova base at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 6.3730456829071045,
+    "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Why Coles' $8 pavlova base win reveals m..."
+  },
+  {
+    "question": "Deals on Coffee pods at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 5,
+    "duration": 5.149458885192871,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Coffee or Hot Choc Sachets | 250g | Woolworths | National | $4.25 | SAVE $4.25 |\n| Coffee Sachets | 8 Pack-10 Pack | Cole..."
+  },
+  {
+    "question": "Price of Olive Oil 1L at Coles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 7,
+    "duration": 3.4978907108306885,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Olive Oil | 1 Litre | Woolworths | National | $13 | SAVE $13 |\n| Olive Oil 1l | 1l | Woolworths | National | $14.00 | Non..."
+  },
+  {
+    "question": "How much is Rice 5kg at Woolworths?",
+    "success": true,
+    "has_answer": true,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 6.166340351104736,
+    "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Essentials Long Grain Rice 5kg | Woolwor..."
+  },
+  {
+    "question": "What is the price of Dine Wet Cat Food Pk 7 x 85g?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 4.016966104507446,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Wet Cat Food Pk | 12 x 85g | Woolworths | National | $7.50 | SAVE $5.50 (Whiskas) |\n| Wet Cat Food | 70g | Woolworths | N..."
+  },
+  {
+    "question": "How much is Purina One Dry Cat Food 1.4-1.5 kg?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.7223165035247803,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Optimum Dry Cat Food | 1.4 kg | Woolworths | National | $12.90 | SAVE $8.60 |\n\nI could not find Purina One Dry Cat Food i..."
+  },
+  {
+    "question": "Is Fancy Feast Classics Wet Cat Food 85g on sale?",
+    "success": true,
+    "has_answer": true,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 7.4374003410339355,
+    "response": "I couldn't find that specific product in the current PDF catalogues, but I found these online results:\n\n| Product | Source | Price | Link |\n|---|---|---|---|\n| Fancy Feast Chicken Feast With Gravy Wet..."
+  },
+  {
+    "question": "Price of Temptations Cat Treats 85g?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 5.619956731796265,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Whiskas Wet Cat Food Pk | 12 x 85g | Woolworths | National | $7.50 | SAVE $5.50 |\n| Churu Bites Cat Treats Pk | 3 x 10g |..."
+  },
+  {
+    "question": "What is the current deal for Supercoat Dry Dog Food 2.6-2.8 kg?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 4.406730890274048,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Dry Dog Food | 6.7-7 kg | Woolworths | National | $27.00 | None |\n\nBased on the provided information, Woolworths has Supe..."
+  },
+  {
+    "question": "How much is Breeder's Choice Cat Litter 24 Litre?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 3.668973922729492,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Breeder's Choice Cat Litter | 24 Litre | Woolworths | National | $25.00 | None |\n| Breeder's Choice Cat Litter | 24L | Wo..."
+  },
+  {
+    "question": "Price of Pedigree Dry Dog Food 8 kg?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 4.157668828964233,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Dry Dog Food | 2.5-3 kg | Woolworths | National | $18.00 | SAVE $5 |\n| Dry Dog Food | 6.7-7 kg | Woolworths | National | ..."
+  },
+  {
+    "question": "Is Morning Fresh Dishwashing Liquid 400mL on sale?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.5061137676239014,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Morning Fresh Dishwashing Liquid | 400ml | Woolworths | National | $3.00 | SAVE $3 |\n\nVERDICT: Morning Fresh Dishwashing ..."
+  },
+  {
+    "question": "Price of Smith's Potato Chips 170g?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.8104512691497803,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Smith's Crinkle Cut or Double Crunch Chips | 150-170g | Woolworths | National | $2.50 | SAVE $2.50 |\n\nWoolworths has Smit..."
+  },
+  {
+    "question": "How much is Pepsi Max 10x375ml?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.7095746994018555,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Pepsi Max | 12 x 250ml | Woolworths | National | $9.90 | SAVE $6.60 |\n\nThe Woolworths deal is for 12 x 250ml cans of Peps..."
+  },
+  {
+    "question": "[1. Chocolate Deep-Dive] What's the best price for Cadbury chocolate?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 4.119286298751831,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Favourites Boxed Chocolate | 340g | Woolworths | National | $8.00 | SAVE $8.00 |\n| Old Gold Dark Chocolate | 175-180g | W..."
+  },
+  {
+    "question": "[1. Chocolate Deep-Dive] Is the 180g Dairy Milk block on sale?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 6,
+    "duration": 4.120473146438599,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Cadbury Old Gold Bundaberg Rum | 180g | Woolworths | National | None | None |\n| Cadbury Old Jamaica Rum n Raisin | 180g |..."
+  },
+  {
+    "question": "[1. Chocolate Deep-Dive] Are there any other flavors at that price?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 6,
+    "duration": 4.628906726837158,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Cadbury Old Gold Bundaberg Rum | 180g | Woolworths | National | None | None |\n| Cadbury Old Gold 70% Cocoa | 180g | Woolw..."
+  },
+  {
+    "question": "[2. Pasta Night Meal Prep] I want to make pasta. Any deals on pasta sauce?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 4.325195789337158,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Pasta Sauce Varieties | 425g | Woolworths | National | $3.75 | SAVE $3.75 |\n| Pasta Sauce | 490-500g | Woolworths | Natio..."
+  },
+  {
+    "question": "[2. Pasta Night Meal Prep] And what about the pasta itself (500g)?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 3,
+    "duration": 4.8355982303619385,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Cucina Matese Pasta | 500g | Coles | National | $2.80 | None |\n| Cucina Matese Pasta | 500g | Coles | NSW | $2.80 | None ..."
+  },
+  {
+    "question": "[2. Pasta Night Meal Prep] Is there a deal on Parmesan cheese to go with it?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 4.628915309906006,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Bega Block, Grated or Sliced Cheese | 250g | Woolworths | National | $6.00 | SAVE $1.50 |\n| Parmesan cheese | N/A | N/A |..."
+  },
+  {
+    "question": "[3. Soft Drink Comparison] Compare prices for Pepsi Max across stores.",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.011317253112793,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Pepsi Max | 12 x 250ml | Woolworths | National | $9.90 | SAVE $6.60 |\n\nWoolworths has Pepsi Max for $9.90 for 12 x 250ml ..."
+  },
+  {
+    "question": "[3. Soft Drink Comparison] Which store is cheaper for the 30-can pack?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.485664129257202,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Pepsi Max | 12 x 250ml | Woolworths | National | $9.90 | SAVE $6.60 |\n\nProduct not found in Coles.\n\nVerdict: Woolworths h..."
+  },
+  {
+    "question": "[3. Soft Drink Comparison] Are the 10-packs also on sale?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.91420578956604,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Pepsi Max | 12 x 250ml | Woolworths | National | $9.90 | SAVE $6.60 |\n\nPepsi Max 10-packs are not mentioned in the provid..."
+  },
+  {
+    "question": "[4. Snack Variety Search] Show me deals for Arnott's Shapes.",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.2989883422851562,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Shapes Crackers | 130g-190g | Coles | National | $2.00 | SAVE $2 |\n| Shapes Crackers | 130g-190g | Coles | NSW | $2.00 | ..."
+  },
+  {
+    "question": "[4. Snack Variety Search] Do they have the Pizza flavor on sale?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 4.323470115661621,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Arnott's Shapes Crackers Pizza Flavour | 130g-190g | Coles | National | $2.00 | SAVE $2 |\n| Arnott's Shapes Crackers Pizz..."
+  },
+  {
+    "question": "[4. Snack Variety Search] Is there a 'buy 2' deal available?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 4.829601526260376,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Shapes Crackers | 130g-190g | Coles | National | $2.00 | SAVE $2 |\n| Shapes Crackers | 130g-190g | Coles | NSW | $2.00 | ..."
+  },
+  {
+    "question": "[5. Regional Price Check] What is the price of milk in NSW?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.2014288902282715,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Milk Full Cream | 6 x 200ml | Woolworths | National | $5.40 | None |\n\n**Verdict:** Only Woolworths has information on mil..."
+  },
+  {
+    "question": "[5. Regional Price Check] Is it the same price in VIC?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 4.306902647018433,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Milk Full Cream | 6 x 200ml | Woolworths | National | $5.40 | None |\n\nVERDICT: Only Woolworths has data for Milk. Coles h..."
+  },
+  {
+    "question": "[5. Regional Price Check] Which region has the better deal on 2L bottles?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 4,
+    "duration": 4.5475523471832275,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Coconut Cream or Milk | 270ml | Woolworths | National | $3.20 | SAVE 80\u00a2 |\n| So Good Oat Milk | 1 Litre | Woolworths | Na..."
+  },
+  {
+    "question": "[6. Pet Food Preferences] Show me deals on cat food.",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 3,
+    "duration": 4.631056070327759,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Purina One Wet Cat Food | 70g | Woolworths | National | $0.95 | SAVE 95 |\n| Whiskas Wet Cat Food Pk | 12 x 85g | Woolwort..."
+  },
+  {
+    "question": "[6. Pet Food Preferences] I need the wet food variety packs.",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.2987992763519287,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Wet Cat Food Pk | 12 x 85g | Woolworths | National | $7.50 | SAVE $5.50 |\n\nWoolworths has a deal on Whiskas Wet Cat Food...."
+  },
+  {
+    "question": "[6. Pet Food Preferences] Are there any specific deals for senior cats or '7+' years?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 3.956202983856201,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Whiskas Wet Cat Food Pk | 12 x 85g | Woolworths | National | $7.50 | SAVE $5.50 |\n| Purina One Wet Cat Food | 70g | Woolw..."
+  },
+  {
+    "question": "[7. Laundry & Household] What is the price of laundry liquid?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 3.6666157245635986,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Omo Ultimate Laundry Liquid | 2 Litre or Powder 2kg | Coles | National | $18.00 | SAVE $18 |\n| Omo Ultimate Laundry Liqui..."
+  },
+  {
+    "question": "[7. Laundry & Household] I prefer Dynamo brand. Any deals?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 27,
+    "duration": 3.3217172622680664,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n|  |  |  |  |  |  |\nProduct not found\n\n\n(I also checked online but couldn't find a reliable price.)\n\n---\n*I compare deals f..."
+  },
+  {
+    "question": "[7. Laundry & Household] Is there a larger 4L bottle available?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 4,
+    "duration": 4.689479351043701,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Omo Ultimate Laundry Liquid | 2 Litre or Powder 2kg | Coles | National | $18.00 | SAVE $18 |\n| Omo Ultimate Laundry Liqui..."
+  },
+  {
+    "question": "[8. Fruit Value Comparison] I need some fruit. What's the best deal on berries?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 3.4231138229370117,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Blackberries | 170g Punnet | Woolworths | National | $4.50 | None |\n| Blackberries | 170g Punnet | Woolworths | National ..."
+  },
+  {
+    "question": "[8. Fruit Value Comparison] Are strawberries cheaper than blueberries right now?",
+    "success": true,
+    "has_answer": true,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 3.7090165615081787,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Strawberries | Not found | Coles | National | Not found | Not found |\n| Strawberries | Not found | Woolworths | National ..."
+  },
+  {
+    "question": "[8. Fruit Value Comparison] Which store has the best price per pack?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 4.221239328384399,
+    "response": "Based on the provided context, I cannot fulfill the user query about \"strawberries and blueberries\" as there is no mention of these products in the provided data.\n\nProduct not found.\n\n\n(I also checked..."
+  },
+  {
+    "question": "[9. Store Context Switching] Milk powder prices please.",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.298607349395752,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| NAN OPTIpro Stage 3 Toddler Milk Drink | 800g | Woolworths | National | $17.50 | SAVE $7.50 |\n\nVerdict: Woolworths has a ..."
+  },
+  {
+    "question": "[9. Store Context Switching] Only show me Woolworths results.",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 3.6752779483795166,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Ultimate Laundry Liquid | 2 Litre or Powder 2kg | Coles | National | $18.00 | SAVE $18 |\n| Ultimate Laundry Liquid | 2 Li..."
+  },
+  {
+    "question": "[9. Store Context Switching] Now wait, what does Coles have for the same item?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 1,
+    "duration": 7.837958097457886,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| NAN OPTIpro Stage 3 Toddler Milk Drink | 800g | Woolworths | National | $17.50 | SAVE $7.50 |\n\nProduct not found in Coles..."
+  },
+  {
+    "question": "[10. Weekly Special Filtering] What are the weekly specials for snacks?",
+    "success": false,
+    "has_answer": false,
+    "has_images": false,
+    "num_images": 0,
+    "duration": 1.9688265323638916,
+    "response": "Product not found."
+  },
+  {
+    "question": "[10. Weekly Special Filtering] Show me only the half-price ones.",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 3.812159776687622,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Fantastic Delites Rice Snack Crackers | 100g | Coles | National | $1.40 | SAVE $1.40 |\n| Fantastic Delites Rice Snack Cra..."
+  },
+  {
+    "question": "[10. Weekly Special Filtering] Which of these is the best value for money?",
+    "success": true,
+    "has_answer": true,
+    "has_images": true,
+    "num_images": 2,
+    "duration": 4.938849210739136,
+    "response": "| Product | Size | Store | Region | Price | Deal |\n|---|---|---|---|---|---|\n| Fantastic Delites Rice Snack Crackers | 100g | Coles | National | $1.40 | SAVE $1.40 |\n| Fantastic Delites Rice Snack Cra..."
+  }
+]

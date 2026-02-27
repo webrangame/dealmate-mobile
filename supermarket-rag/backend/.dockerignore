@@ -1,0 +1,23 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+# .env excluded by default, but we need it for this manual deployment
+# .env
+.git
+.gitignore
+uploaded_docs/
+cron_update.log
+server.log
+test_run.log
+test_run_v2.log
+documents/
+*.pdf
+*.png
+node_modules/
+data/
+*.mp4
+*.zip

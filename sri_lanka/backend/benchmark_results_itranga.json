@@ -1,0 +1,167 @@
+{
+  "user_id": "itranga@gmail.com",
+  "general": [
+    {
+      "query": "where is sri lanka?",
+      "response": "Sri Lanka is an island country located in the Indian Ocean, just off the southeastern coast of India.\n"
+    },
+    {
+      "query": "what is the capital of France?",
+      "response": "The capital of France is Paris.\n"
+    },
+    {
+      "query": "who are you?",
+      "response": "I'm Niyogen Assistant, a friendly supermarket guide. I can help you find the best prices at Coles and Woolworths.\n"
+    },
+    {
+      "query": "how can I use this app?",
+      "response": "This app is designed to help you find the best prices on groceries at Coles and Woolworths! Here's how you can use it:\n\n1.  **Tell me what you're looking for:** Simply tell me what grocery item you want to buy. For example, you could say \"I'm looking for milk\" or \"Where can I find the cheapest bread?\".\n2.  **I'll search for the best deals:** I'll then search through the latest product and pricing information from Coles and Woolworths to find the best deals on that item.\n3.  **I'll show you the results:** I'll present you with a clear comparison of the prices and product details, so you can easily see where to get the best value for your money.\n\nEssentially, just tell me what you need, and I'll do the price comparison shopping for you!\n"
+    },
+    {
+      "query": "tell me a joke",
+      "response": "Why don't scientists trust atoms?\n\nBecause they make up everything!\n"
+    },
+    {
+      "query": "what's the weather like?",
+      "response": "I'm sorry, I don't have access to real-time weather information. You could check a weather app or website for the latest updates!\n"
+    },
+    {
+      "query": "give me some healthy eating tips",
+      "response": "*   **Focus on whole, unprocessed foods:** Build your diet around fruits, vegetables, whole grains, lean proteins, and healthy fats.\n*   **Read nutrition labels:** Pay attention to serving sizes, calories, fat, sugar, and sodium content.\n*   **Limit processed foods, sugary drinks, and unhealthy fats:** These can contribute to weight gain and other health problems.\n*   **Cook at home more often:** This gives you more control over ingredients and portion sizes.\n*   **Plan your meals:** This can help you make healthier choices and avoid impulsive eating.\n*   **Stay hydrated:** Drink plenty of water throughout the day.\n*   **Get enough sleep:** Aim for 7-8 hours of sleep per night.\n*   **Manage stress:** Find healthy ways to cope with stress, such as exercise, yoga, or meditation.\n*   **Be patient and persistent:** It takes time to develop healthy eating habits. Don't get discouraged if you slip up occasionally.\n*   **Consult a healthcare professional:** If you have any specific health concerns, talk to your doctor or a registered dietitian.\n"
+    },
+    {
+      "query": "how to save money on grocery shopping?",
+      "response": "Here are some tips on how to save money on grocery shopping:\n\n*   **Plan your meals:** Before you go to the store, plan out what you're going to eat for the week. This will help you avoid buying impulse items that you don't need.\n*   **Make a list:** Once you know what you're going to eat, make a list of the ingredients you need. Stick to your list when you're at the store.\n*   **Check the weekly specials:** Both Coles and Woolworths release weekly specials catalogs. Take a look at these before you go shopping to see if there are any deals on items you need.\n*   **Use coupons:** Coupons can be a great way to save money on groceries. You can find coupons in newspapers, magazines, and online.\n*   **Buy in bulk:** If you have the storage space, buying in bulk can save you money on items that you use frequently.\n*   **Compare prices:** Take the time to compare prices on different brands and sizes of products. You may be surprised at how much you can save.\n*   **Shop around:** Don't be afraid to shop at different stores to find the best deals.\n*   **Cook at home:** Eating out is expensive. Cooking at home is a great way to save money on food.\n*   **Use leftovers:** Don't throw away leftovers. Use them for lunch the next day or freeze them for later.\n*   **Grow your own food:** If you have the space, growing your own fruits and vegetables can save you money on groceries.\n*   **Use loyalty programs:** Coles and Woolworths both have loyalty programs that offer discounts and rewards. Sign up for these programs to save money on your groceries.\n*   **Look for reduced items:** Supermarkets often have sections with items that are nearing their expiration date and are sold at a discount. These can be a great way to save money on food that you plan to use soon.\n*   **Consider generic brands:** Often, generic or store brands are just as good as name-brand products but cost less.\n*   **Avoid shopping when hungry:** Shopping when you're hungry can lead to impulse purchases. Have a meal or snack before you go to the store.\n*   **Be aware of unit prices:** Pay attention to the unit price (price per ounce, pound, etc.) to compare the true cost of different sizes and brands.\n\nBy following these tips, you can save money on your grocery bill."
+    },
+    {
+      "query": "who is the prime minister of Australia?",
+      "response": "The current prime minister of Australia is Anthony Albanese.\n"
+    },
+    {
+      "query": "what time is it?",
+      "response": "I do not have access to real-time information, including the current time.\n"
+    },
+    {
+      "query": "hello there",
+      "response": "Hello! How can I help you today?\n"
+    },
+    {
+      "query": "good morning",
+      "response": "Good morning! How can I help you find the best deals at Coles and Woolworths today?\n"
+    },
+    {
+      "query": "what is 2+2?",
+      "response": "2 + 2 = 4\n"
+    },
+    {
+      "query": "how do I find cheap items?",
+      "response": "I can help you find the cheapest prices at Coles and Woolworths! Just tell me what you're looking for, and I'll compare prices for you.\n"
+    },
+    {
+      "query": "is it going to rain today?",
+      "response": "I'm not a weather forecaster, but I can suggest checking a reliable weather app or website for the most up-to-date information on whether it will rain today!\n"
+    },
+    {
+      "query": "what is the tallest mountain in the world?",
+      "response": "The tallest mountain in the world, measured above sea level, is Mount Everest.\n"
+    },
+    {
+      "query": "who founded Apple?",
+      "response": "Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne.\n"
+    },
+    {
+      "query": "how many legs does a spider have?",
+      "response": "A spider has eight legs.\n"
+    },
+    {
+      "query": "what is the largest ocean?",
+      "response": "The largest ocean is the Pacific Ocean.\n"
+    },
+    {
+      "query": "thank you",
+      "response": "You're welcome! Is there anything I can help you find today?\n"
+    }
+  ],
+  "product": [
+    {
+      "query": "price of Berocca",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Berocca Vitamin B & C Energy Effervescent Tablets Pk 45 | Woolworths | $13.00 | SAVE $13.00 |\n| Berocca Immune Daily Defence Effervescent Tablets Pk 45 | Woolworths | $13.00 | SAVE $13.00 |\n| Berocca Energy Variety Pack Effervescent Tablets Pk 45 | Woolworths | $13.00 | SAVE $13.00 |\n| Berocca Energy Vitamin Effervescent Tablets Pk 45 | Woolworths | $13.00 | SAVE $13.00 |\n\n**Verdict**: Woolworths has several Berocca products available for $13.00 each, with a saving of $13.00 on each product. I don't have price information from other stores.\n"
+    },
+    {
+      "query": "how much is milk?",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coles Multipack Full Cream Milk | Coles | $4.50 | None |\n| So Good Barista Almond or Oat Milk 1 Litre | Woolworths | $3 | Save $1 |\n\n**Verdict**: Woolworths is cheaper for So Good Barista Almond or Oat Milk at $3 compared to Coles Multipack Full Cream Milk at $4.50.\n"
+    },
+    {
+      "query": "Coles bread price",
+      "response": "ERROR: connection to server at \"agent-marketplace-db.cmt466aga8u0.us-east-1.rds.amazonaws.com\" (98.95.27.55), port 5432 failed: Connection timed out\n\tIs the server running on that host and accepting TCP/IP connections?\n"
+    },
+    {
+      "query": "Woolworths eggs cost",
+      "response": "I am sorry, but I cannot find the price of eggs at Woolworths from the given context.\n"
+    },
+    {
+      "query": "cheapest coffee",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Nescaf\u00e9 Coffee Sachets 8 Pack-10 Pack | Coles | $2.10 | SAVE $2.10 WAS $4.20 |\n| Lavazza A Modo Mio Coffee Capsules 16 Pack | Coles | $0.66 per capsule |  |\n\n**Verdict**: Coles has Nescaf\u00e9 Coffee Sachets for $2.10 and Lavazza A Modo Mio Coffee Capsules for $0.66 per capsule. I cannot determine which is cheaper without knowing the price of coffee at Woolworths.\n"
+    },
+    {
+      "query": "Cadbury chocolate deals",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Cadbury Dairy Milk Block Chocolate (150g-190g) | Coles | $3.50 | SAVE $1.50 WAS $5 |\n| Cadbury Favourites Boxed Chocolate (340g) | Woolworths | $8.00 | SAVE $8.00, WAS $16.00 |\n| Cadbury or Europe Bites (120g-150g) | Coles | $3.3 | SAVE $1 WAS $ 4 |\n\n**Verdict**: Woolworths has a better deal on Cadbury Favourites Boxed Chocolate (340g) at $8.00 compared to the price before the deal ($16.00). Coles has Cadbury Dairy Milk Block Chocolate (150g-190g) for $3.50 and Cadbury or Europe Bites (120g-150g) for $3.3.\n"
+    },
+    {
+      "query": "Coke 24 pack price",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Coca-Cola Soft Drink 24 Pack | Coles | Not found | Not found |\n| Pepsi Max or Solo Zero Sugar Soft Drink 24x375mL | Coles | $20 | Save $17.50 |\n\n**Verdict**: No Coca-Cola 24 pack found. Pepsi Max or Solo Zero Sugar 24 pack is available at Coles for $20.\n"
+    },
+    {
+      "query": "Finish ultimate plus price",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Finish Ultimate Plus Dishwasher Tablets Pk 82 | Woolworths | $39 | Save $39 |\n\n**Verdict**: Woolworths has Finish Ultimate Plus Dishwasher Tablets Pk 82 for $39 with a deal saving $39. I did not find the product at Coles.\n"
+    },
+    {
+      "query": "Huggies nappies deals",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Huggies Little Swimmers | Coles | $11.00 | SAVE $4 |\n| Huggies Ultra Dry Bulk Nappies Pk 30-54 | Woolworths | $13.00 | SAVE $9 |\n| Huggies Pure & Sensitive Nappy Pants 40 Pack-54 Pack | Coles | $28.00 | SAVE $7 |\n\n**Verdict**: Woolworths has a better deal on Huggies Ultra Dry Bulk Nappies, offering a larger discount of $9 compared to Coles' discount of $4 on Huggies Little Swimmers. Coles also offers Huggies Pure & Sensitive Nappy Pants for $28.00 with a $7 saving.\n"
+    },
+    {
+      "query": "Sukin skincare price",
+      "response": "Product not found\n"
+    },
+    {
+      "query": "A2 milk price",
+      "response": "Product not found\n"
+    },
+    {
+      "query": "Omo laundry liquid cost",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Omo Laundry Liquid 2 Litre or Powder 2kg | Coles | $6.50 | SAVE $6 WAS $12 |\n\n**Verdict**: Coles has Omo Laundry Liquid 2 Litre or Powder 2kg for $6.50, which is cheaper due to a $6 saving from the original price of $12.\n"
+    },
+    {
+      "query": "Milo 1kg price",
+      "response": "ERROR: connection to server at \"agent-marketplace-db.cmt466aga8u0.us-east-1.rds.amazonaws.com\" (98.95.27.55), port 5432 failed: Connection timed out\n\tIs the server running on that host and accepting TCP/IP connections?\n"
+    },
+    {
+      "query": "Vegemite 380g cost",
+      "response": "Product not found\n"
+    },
+    {
+      "query": "Peters ice cream price",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Peters Original Ice Cream Tub 4 Litre | Coles | $0.22 per 100mL |  |\n| Peters Drumstick Cones 4 Pack-6 Pack 475mL-490mL | Coles | Not found | SAVE $2.20 WAS $10 |\n| Peters Maxibon 4 Pack 560mL | Coles | $1.52 per 100mL | On sale for 2 weeks |\n| Peters Original Twin Pole Sticks 8 Pack 544mL-590mL | Coles | Not found | SAVE $4 WAS $12.50 |\n| Peters ice cream | Woolworths | Not found |  |\n\n**Verdict**: It's hard to say which shop is cheaper as the exact prices for Peters Drumstick Cones and Peters Original Twin Pole Sticks are not provided, only the savings and original prices. For Peters Original Ice Cream Tub, only Coles has it for $0.22 per 100mL.\n"
+    },
+    {
+      "query": "Red Bull 4 pack",
+      "response": "Product not found\n"
+    },
+    {
+      "query": "Head & Shoulders shampoo",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Head & Shoulders Shampoo or Conditioner 660mL | Coles | $1.59 per 100mL |  |\n\n**Verdict**: Only Coles has the product.\n"
+    },
+    {
+      "query": "Oral-B toothpaste",
+      "response": "ERROR: connection to server at \"agent-marketplace-db.cmt466aga8u0.us-east-1.rds.amazonaws.com\" (98.95.27.55), port 5432 failed: Connection timed out\n\tIs the server running on that host and accepting TCP/IP connections?\n"
+    },
+    {
+      "query": "Whiskas cat food",
+      "response": "ERROR: connection to server at \"agent-marketplace-db.cmt466aga8u0.us-east-1.rds.amazonaws.com\" (98.95.27.55), port 5432 failed: Connection timed out\n\tIs the server running on that host and accepting TCP/IP connections?\n"
+    },
+    {
+      "query": "Pedigree dog food",
+      "response": "| Product | Store | Price | Deal |\n|---|---|---|---|\n| Pedigree Dentastix 28 Pack | Coles | $0.60 per each | On sale for 2 weeks |\n| Pedigree Dry Dog Food | Woolworths | $24.50 | Range Was $30.50 |\n\n**Verdict**: It's difficult to say which shop is cheaper. Coles has Pedigree Dentastix on sale for $0.60 each, while Woolworths has Pedigree Dry Dog Food for $24.50. The better deal depends on the specific product you are looking for.\n"
+    }
+  ]
+}

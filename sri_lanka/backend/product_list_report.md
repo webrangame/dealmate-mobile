@@ -1,0 +1,113 @@
+# Supermarket Catalog Product Report
+
+**Total Catalog Chunks Ingested**: 172
+
+## Breakdown by Store
+- **Woolworths**: 52 chunks
+- **Coles**: 120 chunks
+
+## Sample Content (First 50 items per store)
+
+### Woolworths
+- ``` - Uncle Tobys Muesli Bars 145-185g Pk 5-6   $2.75   SAVE $2.75 - Farmers Uni
+- Here's the extracted product data from the image:  *   **Australian Yellow or Wh
+- 1. Brand and Full Name: Bricks Starter Pack 2. Size/Weight: N/A 3. Current Price
+- ``` - Brand and Full Name: Nescafé Coffee Sachets   Size/Weight: Pk 8-10   Curre
+- 1.  Dove Advanced Care Deodorant 72H 250ml     *   Size/Weight: 250ml     *   Cu
+- ``` - Uncle Tobys Le Snak, 132g Pk 6, $2.75, SAVE $2.75 - Uncle Tobys Roll-Ups, 
+- 1.  Musashi Crisp Protein Bar 60g     -   Price: $2.45     -   Save: $2.45 2.  M
+- 1.  Nature's Way Instant Natural Protein Powder 400g- $14.00 SAVE $14 2.  Famous
+- Here is the product and price information extracted from the image:  - Muscle Na
+- ``` - Musashi Shred & Burn Protein Shake 375ml: $2.75, SAVE $2.75 - Muscle Natio
+- 1.  Lotte Pepero 32-47g     $1.00     SAVE $1  2. The Natural Confectionery Co. 
+- ``` - Dairy Farmers Thick & Creamy Yoghurt 140-150g, $1.45, SAVE $1.50 - Bega Pe
+- 1. Brand and Full Name: Red Bull Lilac Edition 2. Size/Weight: Single Can 250ml 
+- 1. Brand: Bickford's Cordial    Size: 750ml    Price: $3.85    Savings: SAVE $1.
+- Here's the extracted product and price information:  *   **Life Savers** 150-205
+- 1. Oreo Double Stuff Cadbury Creme Egg Flavoured Cookles 131g    - 131g    - $1.
+- ``` - Cadbury Dairy Milk Hollow Egg 50g, $2.50, SAVE $2.50 - Cadbury Dairy Milk 
+- 1. Brand and Full Name: The Natural Confectionery Co. mini DINOS 2. Size/Weight:
+- ``` [   {     "Brand and Full Name": "La Molisana High Protein Pasta",     "Size
+- Here's the product data extracted from the image:  *   **Woolworths BBQ Lemon & 
+- 80 *   **Woolworths Chicken Breast Sweet Chilli Tenders**     *   **Size/Weight:
+- 1. Brand: Australian, Full Name: Yellow or White Nectarines, Size/Weight: kg, Cu
+- ``` - Australian Qukes Baby Cucumbers 250g Pack: $3.00 - Australian Sweet Solana
+- Here's the product and pricing data extracted from the image:  *   Voice Recordi
+- 1. Lindt Lindor Heart Tin, 73g, $7.50 2. Raffaello Ballotin, 230g, $9.00, SAVE $
+- ``` - Woolworths Indulgent Caramel Filled Chocolate Hot Cross Buns, Inspired by 
+- Here's the product and price information extracted from the image:  *   **Woolwo
+- Here's the product information extracted from the image:  *   **35hr Sourdough L
+- *   Woolworths Australian Beef Burgers Classic, Smash, Slider or Stacker, 400-50
+- 1.  Woolworths Pub Style Chicken Breast Schnitzels with RSPCA Approved Chicken 2
+- 1.  Woolworths American Style Slaw Kit 450g Pack: $5.00 2.  Australian Corn Cobb
+- 1. Brand: Australian Fresh    Product: RSPCA Approved Chicken Drumsticks Bulk Pa
+- 1.  Thawed Imported Barramundi Fillets, kg, $16, SAVE $4 kg 2.  Australian Red P
+- I am unable to extract the product information as the image only contains promot
+- 1.  Oak Flavoured Milk 600ml     $3.20     SAVE $1  2.  Chris' Homestyle Dips 20
+- Here's the product information extracted from the image:  *   **My Muscle Chef V
+- 30     *   **Savings:** SAVE $1.60  *   **Yoplait Yoghurt Varieties**     *   **
+- ``` - Dr. Oetker Ristorante Pizza 310-390g: $7.00, SAVE $2.50 - McCain Beer Batt
+- ``` - bubbleme Sorbet Balls 80g, $3.50, SAVE $3.50 - Bulla Splits Varieties 1 Li
+- 1.  Carman's Protein Bars 150-200g Pk 5, $5.70, SAVE $2.80 2.  Moccona Freeze Dr
+- 1.  John West Yellowfin Tuna 90g     *   90g     *   $1.45     *   SAVE $1.45 2.
+- Here's the product and pricing data:  *   **BIC** Kids Jumbo Crayons Pk 12     *
+- 1.  LYNX Deodorant Body Spray 165ml, $4.00, SAVE $4 2.  Sukin Hand Wash or Body 
+- ```text - Woolworths Pasta Spirals 500g, $1.00 - Barilla Pasta Risoni 500g, $2.5
+- Here is the extracted product information:  - Harpic Power Tollet Rim Block Pk 1
+- I am sorry, but I cannot extract product names and prices from the given images.
+- ``` - Pyrex Measuring Jug 500ml $6.60 SAVE $4.40 - Pyrex Simply Store Round Stor
+- Here's the product data extracted from the image:  *   **Essentials Olive Oil** 
+- Here's the product information extracted from the image:  *   **Delectables Lick
+- 1. Dine Wet Cat Food, Pk 7 x 85g, $5.00, SAVE $5 2. Supercoat Dry Dog Food, 2.6-
+
+### Coles
+- NSW Wed 4 Feb to Tue 10 Feb 2026 See page 13 for details Back to school Bonus co
+- 1/2 PRICE NEW FLAVOUR $$2222 00 $$3377 55 $$66 eeaa eeaa eeaa SAVE $2.20 SAVE $3
+- Free Cookware with cookware credits** Excludes Mini Food Chopper (available in s
+- Get cooking with KitchenAid Cookware Easy 2 speeds draining holes for coarse or 
+- Bonus when you purchase a cookware participating product and spend credit* $20 i
+- 1/2 PRICE BETTER 1T / HA 2 N PRICE $$1122 55 $$117755 $$117755 eeaa eeaa eeaa SA
+- 1/2 PRICE $$1155 00 $$2277 55 $$33 eeaa eeaa eeaa SAVE $1.50 SAVE $2.75 SAVE $3 
+- 1/2 PRICE Bonus Bonus cookware cookware credit* credit* $$1155 $$11775500 $$1155
+- or Bio Zinc Tablets 168 Pack^ Tablets 150 Pack^ $13.33 per *See page 5 for T&Cs 
+- 1/2 PRICE NIVEA Exclusions apply† $$8855 00 $$4477 55 $$3377 55 eeaa eeaa eeaa S
+- $1.27 per 100mL. 600mL $1.25 per 100mL *See page 5 for T&Cs *See page 5 for T&Cs
+- 1/2 PRICE Bonus Bonus cookware cookware credit* credit* $$77 $$11775500 $$1133 e
+- Back to school Serving suggestion only 40% OFF $$3399 00 $$222200 $$33 ppkk eeaa
+- Back to school $$1188 55 $$22 eeaa eeaa SAVE 65¢ SAVE $1 WAS $2.50 WAS $3 Peckis
+- Back to school Bonus cookware 40∞ credit* 33 $$ 99 00 eeaa $$3333 00 SAVE $2.60 
+- Selected specials commenced Wed 28th Jan. Promotional prices commence 7am Wednes
+- Back to school $$445500 $$22 $$4422 00 eeaa eeaa eeaa DOWN DOWN SAVE 80¢ SAVE $1
+- Back to school 22 $$ 11 00 eeaa $$2255 00 SAVE $2.15 eeaa WAS $4.25 SAVE $1.70 W
+- On sale for 2 weeks. $1.82 per 100g $9.00 per litre On sale for 2 weeks *See pag
+- Back to school $$5555 00 $$6633 00 $$77 eeaa eeaa eeaa SAVE $2.40 SAVE $2.70 SAV
+- 40∞ 33 $$ 66 00 eeaa $$1199 00 eeaa SAVE $2.40 WAS $6 SAVE 60¢ WAS $2.50 Mr Kipl
+- Back to school $220 PER 100g $$2222 kkgg SAVE $6 kg WAS $28 kg Don Honey Ham $22
+- 1/2 PRICE $$7755 00 $$777755 $$1100 eeaa eeaa eeaa SAVE $7.50 SAVE $7.75 SAVE $1
+- Valentine’s Day Saturday 14 February a d b c h e g f i l k k j a. Metallic Heart
+- 33 $$ 99 00 eeaa SAVE $1 WAS $4.90 Barilla Pasta Love 400g $0.98 per 100g. On sa
+- 100% Aussie Grapes 44 $$ 55 00 kkgg Coles Australian Loose White Seedless Grapes
+- 100% Aussie Cucumbers 33 $$ ppkk Coles Australian Baby Cucumbers 250g Pack $12.0
+- Weekday dinners. Made Easy. Monday $$9955 00 ppkk SAVE $2.50 WAS $12 Coles Made 
+- Bonus cookware credit* 22 AAnnyy ffoorr 1155 Coles Australian No Added Coles Fin
+- $199 PER 100g $$11999900 kkgg Don Deli Ham $19.90 per kg. Selected stores only# 
+- Easy dinner with a Peri Peri twist READY NEW TO EAT FLAVOUR $$11335500 eeaa Cole
+- Lunar New Year Tuesday 17 February $$33 $$443355 $$3322 00 eeaa eeaa eeaa DOWN D
+- Lunar New Year Tuesday 17 February 44 $$ 22 55 eeaa SAVE $4.25 WAS $8.50 Hong Ko
+- 1/2 PRICE $$22 $$33 eeaa eeaa SAVE $2 SAVE $3 WAS $4 WAS $6 Haribo Lollies 140g-
+- NSW Wed 4 Feb to Tue 10 Feb 2026 See page 13 for details Back to school Bonus co
+- 1/2 PRICE NEW FLAVOUR $$2222 00 $$3377 55 $$66 eeaa eeaa eeaa SAVE $2.20 SAVE $3
+- Free Cookware with cookware credits** Excludes Mini Food Chopper (available in s
+- Get cooking with KitchenAid Cookware Easy 2 speeds draining holes for coarse or 
+- Bonus when you purchase a cookware participating product and spend credit* $20 i
+- 1/2 PRICE BETTER 1T / HA 2 N PRICE $$1122 55 $$117755 $$117755 eeaa eeaa eeaa SA
+- 1/2 PRICE $$1155 00 $$2277 55 $$33 eeaa eeaa eeaa SAVE $1.50 SAVE $2.75 SAVE $3 
+- 1/2 PRICE Bonus Bonus cookware cookware credit* credit* $$1155 $$11775500 $$1155
+- or Bio Zinc Tablets 168 Pack^ Tablets 150 Pack^ $13.33 per *See page 5 for T&Cs 
+- 1/2 PRICE NIVEA Exclusions apply† $$8855 00 $$4477 55 $$3377 55 eeaa eeaa eeaa S
+- $1.27 per 100mL. 600mL $1.25 per 100mL *See page 5 for T&Cs *See page 5 for T&Cs
+- 1/2 PRICE Bonus Bonus cookware cookware credit* credit* $$77 $$11775500 $$1133 e
+- Back to school Serving suggestion only 40% OFF $$3399 00 $$222200 $$33 ppkk eeaa
+- Back to school $$1188 55 $$22 eeaa eeaa SAVE 65¢ SAVE $1 WAS $2.50 WAS $3 Peckis
+- Back to school Bonus cookware 40∞ credit* 33 $$ 99 00 eeaa $$3333 00 SAVE $2.60 
+- Selected specials commenced Wed 28th Jan. Promotional prices commence 7am Wednes
