@@ -21,6 +21,10 @@ ios/Pods/
 .pub-cache
 .pub/
 *.lock
+.next/
+.turbo/
+.cache/
+*.pdf
 supermarket-rag/data/
 supermarket-rag/venv/
 supermarket-rag/build/
